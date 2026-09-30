@@ -1,0 +1,4708 @@
+{
+  "animals": [
+    {
+      "word": "Tiger",
+      "hints": [
+        "Black-stripes",
+        "Jungle-roar",
+        "Orange-fur",
+        "National-predator"
+      ]
+    },
+    {
+      "word": "Elephant",
+      "hints": [
+        "Long-trunk",
+        "Curved-tusks",
+        "Ganesha-mount",
+        "Forest-giant"
+      ]
+    },
+    {
+      "word": "Lion",
+      "hints": [
+        "Golden-mane",
+        "Gir-forest",
+        "Jungle-king",
+        "Pride-pack"
+      ]
+    },
+    {
+      "word": "Leopard",
+      "hints": [
+        "Black-rosette-spots",
+        "Tree-climber",
+        "Stealth-hunter",
+        "Agile-cat"
+      ]
+    },
+    {
+      "word": "Rhino",
+      "hints": [
+        "Single-horn",
+        "Kaziranga-grass",
+        "Armor-skin",
+        "Heavy-herbivore"
+      ]
+    },
+    {
+      "word": "Bear",
+      "hints": [
+        "Honey-lover",
+        "Shaggy-black-fur",
+        "Digging-claws",
+        "Jungle-book-Baloo"
+      ]
+    },
+    {
+      "word": "Snow Leopard",
+      "hints": [
+        "Himalayan-mountains",
+        "Thick-grey-fur",
+        "Ghost-of-cliffs",
+        "Bushy-balance-tail"
+      ]
+    },
+    {
+      "word": "King Cobra",
+      "hints": [
+        "Spreading-hood",
+        "Deadly-venom",
+        "Snake-eater",
+        "Shiva-garland"
+      ]
+    },
+    {
+      "word": "Crocodile",
+      "hints": [
+        "River-jaws",
+        "Sharp-teeth",
+        "Scaly-armored-back",
+        "Sunbathing-bank"
+      ]
+    },
+    {
+      "word": "Pangolin",
+      "hints": [
+        "Overlapping-scales",
+        "Rolls-into-ball",
+        "Termite-eater",
+        "Sticky-long-tongue"
+      ]
+    },
+    {
+      "word": "Nilgai (Blue Bull)",
+      "hints": [
+        "Blue-grey-coat",
+        "Tall-antelope",
+        "Crop-grazer",
+        "Short-straight-horns"
+      ]
+    },
+    {
+      "word": "Blackbuck",
+      "hints": [
+        "Corkscrew-spiral-horns",
+        "High-jumping-sprint",
+        "Grassland-antelope",
+        "Bishnoi-sacred"
+      ]
+    },
+    {
+      "word": "Deer",
+      "hints": [
+        "White-spotted-coat",
+        "Branching-antlers",
+        "Alert-forest-herd",
+        "Tiger-prey"
+      ]
+    },
+    {
+      "word": "Monkey (Langur)",
+      "hints": [
+        "Black-face-mask",
+        "Long-arching-tail",
+        "Grey-fur-body",
+        "Temple-canopy"
+      ]
+    },
+    {
+      "word": "Monkey",
+      "hints": [
+        "Red-cheeked-macaque",
+        "Snatching-food",
+        "Tree-branches",
+        "Mischievous-troop"
+      ]
+    },
+    {
+      "word": "Wild Dog",
+      "hints": [
+        "Whistling-hunter",
+        "Red-coated-pack",
+        "Dhole-clan",
+        "Jungle-endurance"
+      ]
+    },
+    {
+      "word": "Bison",
+      "hints": [
+        "Gaur-forest-bull",
+        "White-stocking-legs",
+        "Heavy-muscle-shoulder",
+        "One-ton-giant"
+      ]
+    },
+    {
+      "word": "Camel",
+      "hints": [
+        "Desert-hump",
+        "Padded-sand-feet",
+        "Pushkar-fair",
+        "Thar-ship"
+      ]
+    },
+    {
+      "word": "Cow",
+      "hints": [
+        "Gau-mata",
+        "Wholesome-milk",
+        "Gentle-eyes",
+        "Chewing-cud"
+      ]
+    },
+    {
+      "word": "Buffalo",
+      "hints": [
+        "Water-mud-wallow",
+        "Curved-horns",
+        "Thick-paneer-milk",
+        "Black-skinned"
+      ]
+    },
+    {
+      "word": "Goat",
+      "hints": [
+        "Bleating-baa",
+        "Climbing-bushes",
+        "Short-horns",
+        "Village-livestock"
+      ]
+    },
+    {
+      "word": "Sheep",
+      "hints": [
+        "Curly-wool-fleece",
+        "Pashmina-shawl",
+        "Shepherd-flock",
+        "Green-pasture"
+      ]
+    },
+    {
+      "word": "Horse",
+      "hints": [
+        "Galloping-steed",
+        "Marwari-curved-ears",
+        "Leather-saddle",
+        "Baraat-procession"
+      ]
+    },
+    {
+      "word": "Donkey",
+      "hints": [
+        "Hee-haw-bray",
+        "Heavy-sacks-burden",
+        "Dhobi-work",
+        "Long-floppy-ears"
+      ]
+    },
+    {
+      "word": "Dog",
+      "hints": [
+        "Barking-guard",
+        "Wagging-tail-pet",
+        "Street-indie-canine",
+        "Loyal-companion"
+      ]
+    },
+    {
+      "word": "Cat",
+      "hints": [
+        "Purring-whiskers",
+        "Night-glowing-eyes",
+        "Catching-mice",
+        "Soft-paws"
+      ]
+    },
+    {
+      "word": "Squirrel",
+      "hints": [
+        "Three-white-stripes",
+        "Rama-finger-touch",
+        "Bushy-tail",
+        "Nut-gatherer"
+      ]
+    },
+    {
+      "word": "Mongoose",
+      "hints": [
+        "Cobra-slayer",
+        "Quicksilver-speed",
+        "Rikki-Tikki",
+        "Furry-hunter"
+      ]
+    },
+    {
+      "word": "Bat",
+      "hints": [
+        "Flying-fox-wings",
+        "Hanging-upside-down",
+        "Night-fruit-eater",
+        "Tree-roost"
+      ]
+    },
+    {
+      "word": "Chameleon",
+      "hints": [
+        "Color-camouflage",
+        "Swivel-eyes",
+        "Projectile-tongue",
+        "Branch-pincer-grip"
+      ]
+    },
+    {
+      "word": "Tortoise",
+      "hints": [
+        "Star-shell-pattern",
+        "Slow-crawling-dome",
+        "Ancient-reptile",
+        "Shield-carapace"
+      ]
+    },
+    {
+      "word": "Jackal",
+      "hints": [
+        "Night-pack-howl",
+        "Clever-siyar",
+        "Scavenger-canine",
+        "Golden-wild-coat"
+      ]
+    },
+    {
+      "word": "Wolf",
+      "hints": [
+        "Akela-leader-pack",
+        "Moonlight-howl",
+        "Desert-plains-canine",
+        "Stealth-hunter"
+      ]
+    },
+    {
+      "word": "Hyena",
+      "hints": [
+        "Laughing-vocalization",
+        "Striped-back-mane",
+        "Bone-crushing-jaws",
+        "Night-den"
+      ]
+    },
+    {
+      "word": "Wild Boar",
+      "hints": [
+        "Curved-sharp-tusks",
+        "Root-digging-snout",
+        "Forest-wild-pig",
+        "Tough-bristles"
+      ]
+    },
+    {
+      "word": "Dolphin",
+      "hints": [
+        "Ganges-freshwater",
+        "Blind-sonar-clicks",
+        "National-aquatic",
+        "River-swimmer"
+      ]
+    },
+    {
+      "word": "Porcupine",
+      "hints": [
+        "Sharp-needle-quills",
+        "Rattling-spikes",
+        "Backwards-charge",
+        "Burrowing-rodent"
+      ]
+    },
+    {
+      "word": "Rabbit",
+      "hints": [
+        "Long-alert-ears",
+        "Zigzag-sprint-hops",
+        "Burrow-warren",
+        "Tortoise-race-fable"
+      ]
+    },
+    {
+      "word": "Monitor Lizard",
+      "hints": [
+        "Ghorpad-stone-grip",
+        "Forked-snake-tongue",
+        "Fort-wall-climber",
+        "Large-scaly-tail"
+      ]
+    },
+    {
+      "word": "Otter",
+      "hints": [
+        "Riverbank-sliding",
+        "Playful-swimmer",
+        "Fish-catching-paws",
+        "Waterproof-fur"
+      ]
+    }
+  ],
+  "fruits": [
+    {
+      "word": "Mango (Aam)",
+      "hints": [
+        "Alphonso",
+        "King",
+        "Aamras",
+        "Summer"
+      ]
+    },
+    {
+      "word": "Banana (Kela)",
+      "hints": [
+        "Peel",
+        "Yellow",
+        "Monkeys",
+        "Chips"
+      ]
+    },
+    {
+      "word": "Apple (Seb)",
+      "hints": [
+        "Kashmir",
+        "Red",
+        "Doctor",
+        "Orchard"
+      ]
+    },
+    {
+      "word": "Papaya (Papita)",
+      "hints": [
+        "Black-seeds",
+        "Orange",
+        "Digestion",
+        "Tropical"
+      ]
+    },
+    {
+      "word": "Guava (Amrood)",
+      "hints": [
+        "Pink",
+        "Hard-seeds",
+        "Chaat-salt",
+        "Green"
+      ]
+    },
+    {
+      "word": "Pomegranate (Anar)",
+      "hints": [
+        "Ruby",
+        "Arils",
+        "Juice",
+        "Red"
+      ]
+    },
+    {
+      "word": "Watermelon (Tarbooj)",
+      "hints": [
+        "Slice",
+        "Green-rind",
+        "Summer",
+        "Juicy"
+      ]
+    },
+    {
+      "word": "Orange (Santra)",
+      "hints": [
+        "Nagpur",
+        "Citrus",
+        "Vitamin-C",
+        "Segments"
+      ]
+    },
+    {
+      "word": "Sweet Lime (Mosambi)",
+      "hints": [
+        "Mosambi",
+        "Juice",
+        "Vitamin-C",
+        "Green"
+      ]
+    },
+    {
+      "word": "Grapes (Angoor)",
+      "hints": [
+        "Nashik",
+        "Bunch",
+        "Vineyard",
+        "Raisins"
+      ]
+    },
+    {
+      "word": "Pineapple (Ananas)",
+      "hints": [
+        "Crown",
+        "Spiky",
+        "Yellow-rings",
+        "Tropical"
+      ]
+    },
+    {
+      "word": "Coconut (Nariyal)",
+      "hints": [
+        "Nariyal-pani",
+        "Shell",
+        "Prasad",
+        "Coir"
+      ]
+    },
+    {
+      "word": "Custard Apple (Sitaphal)",
+      "hints": [
+        "Sitaphal",
+        "Creamy-pulp",
+        "Natural-icecream",
+        "Knobby"
+      ]
+    },
+    {
+      "word": "Chiku",
+      "hints": [
+        "Caramel",
+        "Brown-skin",
+        "Milkshake",
+        "Grainy"
+      ]
+    },
+    {
+      "word": "Muskmelon (Kharbuja)",
+      "hints": [
+        "Kharbuja",
+        "Cantaloupe",
+        "Netted-skin",
+        "Summer"
+      ]
+    },
+    {
+      "word": "Amla (Gooseberry)",
+      "hints": [
+        "Ayurveda",
+        "Vitamin-C",
+        "Sour-candy",
+        "Chyawanprash"
+      ]
+    },
+    {
+      "word": "Jamun (Black Plum)",
+      "hints": [
+        "Monsoon",
+        "Purple-tongue",
+        "Diabetic",
+        "Dark-berry"
+      ]
+    },
+    {
+      "word": "Jackfruit (Kathal)",
+      "hints": [
+        "Kathal",
+        "Spiky-giant",
+        "Sticky-gum",
+        "Raw-curry"
+      ]
+    },
+    {
+      "word": "Litchi (Lychee)",
+      "hints": [
+        "Muzaffarpur",
+        "Pink-shell",
+        "White-flesh",
+        "Juicy"
+      ]
+    },
+    {
+      "word": "Strawberry",
+      "hints": [
+        "Mahabaleshwar",
+        "Mapro-cream",
+        "Heart-shape",
+        "Seeds-outside"
+      ]
+    },
+    {
+      "word": "Lemon (Nimbu)",
+      "hints": [
+        "Nimbu-pani",
+        "Citric-sour",
+        "Squeeze",
+        "Chilli-totem"
+      ]
+    },
+    {
+      "word": "Tamarind (Imli)",
+      "hints": [
+        "Sambar-sour",
+        "Brown-chutney",
+        "Pulp-pod",
+        "Tangy"
+      ]
+    },
+    {
+      "word": "Ber (Jujube)",
+      "hints": [
+        "Shiva-prasad",
+        "Shabari",
+        "Small-plum",
+        "Tart-crunch"
+      ]
+    },
+    {
+      "word": "Fig (Anjeer)",
+      "hints": [
+        "Anjeer",
+        "Dry-fruit",
+        "Chewy-seeds",
+        "Thread-disc"
+      ]
+    },
+    {
+      "word": "Dates (Khajoor)",
+      "hints": [
+        "Khajoor",
+        "Ramadan-fast",
+        "Sticky-brown",
+        "Desert-palm"
+      ]
+    },
+    {
+      "word": "Plum (Aloo Bukhara)",
+      "hints": [
+        "Aloo-Bukhara",
+        "Purple-skin",
+        "Biryani-prune",
+        "Juicy-stone"
+      ]
+    },
+    {
+      "word": "Peach (Aadoo)",
+      "hints": [
+        "Aadoo",
+        "Velvet-skin",
+        "Hills-orchard",
+        "Grooved-pit"
+      ]
+    },
+    {
+      "word": "Pear (Nashpati)",
+      "hints": [
+        "Nashpati",
+        "Bell-shape",
+        "Gritty-crisp",
+        "Green-skin"
+      ]
+    },
+    {
+      "word": "Mulberry (Shahtoot)",
+      "hints": [
+        "Shahtoot",
+        "Silkworm-leaves",
+        "Staining-juice",
+        "Long-berry"
+      ]
+    },
+    {
+      "word": "Dragon Fruit",
+      "hints": [
+        "Kamalam",
+        "Pink-scales",
+        "Speckled-seeds",
+        "Cactus"
+      ]
+    },
+    {
+      "word": "Kiwi",
+      "hints": [
+        "Brown-fuzzy",
+        "Platelets",
+        "Emerald-green",
+        "Black-ring"
+      ]
+    },
+    {
+      "word": "Avocado",
+      "hints": [
+        "Butter-fruit",
+        "Guacamole",
+        "Big-pit",
+        "Creamy-green"
+      ]
+    },
+    {
+      "word": "Bael (Wood Apple)",
+      "hints": [
+        "Shiva-leaf",
+        "Hard-shell",
+        "Summer-sharbat",
+        "Digestive-pulp"
+      ]
+    },
+    {
+      "word": "Elephant Apple (Chalta)",
+      "hints": [
+        "Elephant-apple",
+        "Assam-curry",
+        "Sour-sepals",
+        "Forest-fruit"
+      ]
+    },
+    {
+      "word": "Star Fruit",
+      "hints": [
+        "Kamrakh",
+        "Star-slices",
+        "Five-ribs",
+        "Tangy-chaat"
+      ]
+    },
+    {
+      "word": "Singhara (Water Chestnut)",
+      "hints": [
+        "Water-chestnut",
+        "Two-horns",
+        "Vrat-flour",
+        "Pond-tuber"
+      ]
+    },
+    {
+      "word": "Cherry",
+      "hints": [
+        "Kashmir-boxes",
+        "Cake-topping",
+        "Twin-stems",
+        "Red-stone"
+      ]
+    },
+    {
+      "word": "Blueberry",
+      "hints": [
+        "Muffin-berry",
+        "Blue-skin",
+        "Superfood",
+        "Tart-sweet"
+      ]
+    },
+    {
+      "word": "Apricot (Khubani)",
+      "hints": [
+        "Khubani",
+        "Ladakh-sun",
+        "Meetha-dessert",
+        "Velvet-orange"
+      ]
+    },
+    {
+      "word": "Bilimbi",
+      "hints": [
+        "Tree-trunk",
+        "Sour-pickle",
+        "Goan-curry",
+        "Green-ribs"
+      ]
+    }
+  ],
+  "vegetables": [
+    {
+      "word": "Aaloo (Potato)",
+      "hints": [
+        "Samosa",
+        "Curry",
+        "Boil",
+        "Chips"
+      ]
+    },
+    {
+      "word": "Pyaaz (Onion)",
+      "hints": [
+        "Tears",
+        "Layers",
+        "Gravy",
+        "Salad"
+      ]
+    },
+    {
+      "word": "Tamatar (Tomato)",
+      "hints": [
+        "Red",
+        "Sour",
+        "Curry",
+        "Gravy"
+      ]
+    },
+    {
+      "word": "Gobi (Cauliflower)",
+      "hints": [
+        "White",
+        "Curry",
+        "Paratha",
+        "Winter"
+      ]
+    },
+    {
+      "word": "Patta Gobi (Cabbage)",
+      "hints": [
+        "Leaves",
+        "Green",
+        "Rolls",
+        "Noodles"
+      ]
+    },
+    {
+      "word": "Bhindi (Okra)",
+      "hints": [
+        "Green",
+        "Slimy",
+        "Fry",
+        "Seeds"
+      ]
+    },
+    {
+      "word": "Baingan (Brinjal)",
+      "hints": [
+        "Purple",
+        "Bharta",
+        "Roast",
+        "Curry"
+      ]
+    },
+    {
+      "word": "Palak (Spinach)",
+      "hints": [
+        "Green",
+        "Leaves",
+        "Paneer",
+        "Iron"
+      ]
+    },
+    {
+      "word": "Matar (Peas)",
+      "hints": [
+        "Green",
+        "Sweet",
+        "Round",
+        "Winter"
+      ]
+    },
+    {
+      "word": "Karela (Bitter Gourd)",
+      "hints": [
+        "Bitter",
+        "Green",
+        "Health",
+        "Rough"
+      ]
+    },
+    {
+      "word": "Lauki (Bottle Gourd)",
+      "hints": [
+        "Long",
+        "Water",
+        "Green",
+        "Halwa"
+      ]
+    },
+    {
+      "word": "Methi (Fenugreek)",
+      "hints": [
+        "Green",
+        "Paratha",
+        "Leaves",
+        "Winter"
+      ]
+    },
+    {
+      "word": "Dhaniya (Coriander)",
+      "hints": [
+        "Green",
+        "Chutney",
+        "Leaves",
+        "Smell"
+      ]
+    },
+    {
+      "word": "Pudina (Mint)",
+      "hints": [
+        "Green",
+        "Cool",
+        "Pani-Puri",
+        "Leaves"
+      ]
+    },
+    {
+      "word": "Lahsun (Garlic)",
+      "hints": [
+        "White",
+        "Cloves",
+        "Curry",
+        "Smell"
+      ]
+    },
+    {
+      "word": "Adrak (Ginger)",
+      "hints": [
+        "Tea",
+        "Root",
+        "Spicy",
+        "Warm"
+      ]
+    },
+    {
+      "word": "Hari Mirch (Chilli)",
+      "hints": [
+        "Spicy",
+        "Green",
+        "Hot",
+        "Teeth"
+      ]
+    },
+    {
+      "word": "Gajar (Carrot)",
+      "hints": [
+        "Halwa",
+        "Red",
+        "Sweet",
+        "Salad"
+      ]
+    },
+    {
+      "word": "Mooli (Radish)",
+      "hints": [
+        "White",
+        "Paratha",
+        "Salad",
+        "Long"
+      ]
+    },
+    {
+      "word": "Chukandar (Beetroot)",
+      "hints": [
+        "Red",
+        "Salad",
+        "Juice",
+        "Sweet"
+      ]
+    },
+    {
+      "word": "Shimla Mirch (Capsicum)",
+      "hints": [
+        "Green",
+        "Hollow",
+        "Pizza",
+        "Pav-Bhaji"
+      ]
+    },
+    {
+      "word": "Kheera (Cucumber)",
+      "hints": [
+        "Salad",
+        "Water",
+        "Cool",
+        "Green"
+      ]
+    },
+    {
+      "word": "Turai (Ridge Gourd)",
+      "hints": [
+        "Green",
+        "Long",
+        "Soft",
+        "Curry"
+      ]
+    },
+    {
+      "word": "Snake Gourd (Padwal)",
+      "hints": [
+        "Long",
+        "White",
+        "Curry",
+        "Green"
+      ]
+    },
+    {
+      "word": "Kaddu (Pumpkin)",
+      "hints": [
+        "Yellow",
+        "Big",
+        "Puri",
+        "Sweet"
+      ]
+    },
+    {
+      "word": "Kundru (Tindora)",
+      "hints": [
+        "Small",
+        "Green",
+        "Fry",
+        "Crunch"
+      ]
+    },
+    {
+      "word": "Parwal",
+      "hints": [
+        "Green",
+        "Fry",
+        "Curry",
+        "Summer"
+      ]
+    },
+    {
+      "word": "Ash Gourd (Petha)",
+      "hints": [
+        "White",
+        "Petha",
+        "Sweet",
+        "Big"
+      ]
+    },
+    {
+      "word": "Sahjan (Drumstick)",
+      "hints": [
+        "Sambar",
+        "Long",
+        "Green",
+        "Pods"
+      ]
+    },
+    {
+      "word": "Kaccha Kela (Raw Banana)",
+      "hints": [
+        "Chips",
+        "Green",
+        "Fry",
+        "Vrat"
+      ]
+    },
+    {
+      "word": "Arbi (Colocasia)",
+      "hints": [
+        "Root",
+        "Fry",
+        "Patra",
+        "Boil"
+      ]
+    },
+    {
+      "word": "Shakarkand (Sweet Potato)",
+      "hints": [
+        "Sweet",
+        "Chaat",
+        "Winter",
+        "Root"
+      ]
+    },
+    {
+      "word": "Jimikand (Yam)",
+      "hints": [
+        "Big",
+        "Root",
+        "Diwali",
+        "Curry"
+      ]
+    },
+    {
+      "word": "Gawar Phali (Beans)",
+      "hints": [
+        "Green",
+        "Pods",
+        "Curry",
+        "Small"
+      ]
+    },
+    {
+      "word": "French Beans",
+      "hints": [
+        "Green",
+        "Pulao",
+        "Small",
+        "Crunch"
+      ]
+    },
+    {
+      "word": "Mushroom",
+      "hints": [
+        "White",
+        "Soft",
+        "Pizza",
+        "Curry"
+      ]
+    },
+    {
+      "word": "Turnip (Shalgam)",
+      "hints": [
+        "White",
+        "Winter",
+        "Round",
+        "Root"
+      ]
+    },
+    {
+      "word": "Kadi Patta (Curry Leaves)",
+      "hints": [
+        "Green",
+        "Sambar",
+        "Smell",
+        "Leaves"
+      ]
+    },
+    {
+      "word": "Sarson (Mustard Leaves)",
+      "hints": [
+        "Saag",
+        "Roti",
+        "Winter",
+        "Green"
+      ]
+    },
+    {
+      "word": "Kaccha Aam (Raw Mango)",
+      "hints": [
+        "Sour",
+        "Achar",
+        "Green",
+        "Panna"
+      ]
+    }
+  ],
+  "household": [
+    {
+      "word": "Pressure Cooker",
+      "hints": [
+        "Whistle",
+        "Kitchen",
+        "Steam",
+        "Dal"
+      ]
+    },
+    {
+      "word": "Ceiling Fan",
+      "hints": [
+        "Blades",
+        "Ceiling",
+        "Air",
+        "Spin"
+      ]
+    },
+    {
+      "word": "Mixer Grinder",
+      "hints": [
+        "Chutney",
+        "Kitchen",
+        "Jar",
+        "Grind"
+      ]
+    },
+    {
+      "word": "Gas Stove",
+      "hints": [
+        "Fire",
+        "Kitchen",
+        "Lighter",
+        "Flames"
+      ]
+    },
+    {
+      "word": "Water Filter",
+      "hints": [
+        "Water",
+        "Clean",
+        "Drink",
+        "Tap"
+      ]
+    },
+    {
+      "word": "Fridge",
+      "hints": [
+        "Cold",
+        "Ice",
+        "Milk",
+        "Kitchen"
+      ]
+    },
+    {
+      "word": "Washing Machine",
+      "hints": [
+        "Clothes",
+        "Water",
+        "Clean",
+        "Soap"
+      ]
+    },
+    {
+      "word": "Television (TV)",
+      "hints": [
+        "Screen",
+        "Remote",
+        "Movie",
+        "Match"
+      ]
+    },
+    {
+      "word": "AC (Air Conditioner)",
+      "hints": [
+        "Cold",
+        "Summer",
+        "Room",
+        "Air"
+      ]
+    },
+    {
+      "word": "Microwave",
+      "hints": [
+        "Heat",
+        "Food",
+        "Quick",
+        "Oven"
+      ]
+    },
+    {
+      "word": "Iron",
+      "hints": [
+        "Clothes",
+        "Hot",
+        "Smooth",
+        "Shirt"
+      ]
+    },
+    {
+      "word": "Jhadu (Broom)",
+      "hints": [
+        "Floor",
+        "Clean",
+        "Dust",
+        "Sweep"
+      ]
+    },
+    {
+      "word": "Mop",
+      "hints": [
+        "Floor",
+        "Water",
+        "Clean",
+        "Bucket"
+      ]
+    },
+    {
+      "word": "Roti Tawa",
+      "hints": [
+        "Roti",
+        "Iron",
+        "Flat",
+        "Stove"
+      ]
+    },
+    {
+      "word": "Chakla Belan",
+      "hints": [
+        "Roti",
+        "Round",
+        "Dough",
+        "Wood"
+      ]
+    },
+    {
+      "word": "Thali (Plate)",
+      "hints": [
+        "Food",
+        "Steel",
+        "Round",
+        "Eat"
+      ]
+    },
+    {
+      "word": "Kadhai",
+      "hints": [
+        "Fry",
+        "Oil",
+        "Curry",
+        "Deep"
+      ]
+    },
+    {
+      "word": "Thermos Flask",
+      "hints": [
+        "Tea",
+        "Hot",
+        "Bottle",
+        "Warm"
+      ]
+    },
+    {
+      "word": "Chai Strainer",
+      "hints": [
+        "Tea",
+        "Chai",
+        "Filter",
+        "Mesh"
+      ]
+    },
+    {
+      "word": "Mortar Pestle",
+      "hints": [
+        "Crush",
+        "Spices",
+        "Stone",
+        "Ginger"
+      ]
+    },
+    {
+      "word": "Mattress",
+      "hints": [
+        "Bed",
+        "Sleep",
+        "Soft",
+        "Room"
+      ]
+    },
+    {
+      "word": "Pillow",
+      "hints": [
+        "Head",
+        "Sleep",
+        "Soft",
+        "Bed"
+      ]
+    },
+    {
+      "word": "Blanket",
+      "hints": [
+        "Warm",
+        "Cold",
+        "Sleep",
+        "Winter"
+      ]
+    },
+    {
+      "word": "Curtains",
+      "hints": [
+        "Window",
+        "Cloth",
+        "Sun",
+        "Room"
+      ]
+    },
+    {
+      "word": "Almirah (Wardrobe)",
+      "hints": [
+        "Clothes",
+        "Steel",
+        "Lock",
+        "Doors"
+      ]
+    },
+    {
+      "word": "Dressing Table",
+      "hints": [
+        "Mirror",
+        "Comb",
+        "Face",
+        "Makeup"
+      ]
+    },
+    {
+      "word": "Dining Table",
+      "hints": [
+        "Food",
+        "Chairs",
+        "Family",
+        "Eat"
+      ]
+    },
+    {
+      "word": "Sofa",
+      "hints": [
+        "Sit",
+        "Living-room",
+        "Soft",
+        "Cushion"
+      ]
+    },
+    {
+      "word": "Geyser",
+      "hints": [
+        "Hot-water",
+        "Bathroom",
+        "Bath",
+        "Winter"
+      ]
+    },
+    {
+      "word": "Bucket and Mug",
+      "hints": [
+        "Water",
+        "Bath",
+        "Plastic",
+        "Bathroom"
+      ]
+    },
+    {
+      "word": "Drying Stand",
+      "hints": [
+        "Clothes",
+        "Balcony",
+        "Sun",
+        "Dry"
+      ]
+    },
+    {
+      "word": "Lock and Key",
+      "hints": [
+        "Door",
+        "Key",
+        "Home",
+        "Safe"
+      ]
+    },
+    {
+      "word": "Door Mat",
+      "hints": [
+        "Door",
+        "Feet",
+        "Shoes",
+        "Floor"
+      ]
+    },
+    {
+      "word": "Wall Clock",
+      "hints": [
+        "Time",
+        "Wall",
+        "Round",
+        "Hands"
+      ]
+    },
+    {
+      "word": "Shoe Rack",
+      "hints": [
+        "Shoes",
+        "Slippers",
+        "Door",
+        "Stand"
+      ]
+    },
+    {
+      "word": "Mosquito Racket",
+      "hints": [
+        "Mosquito",
+        "Electric",
+        "Zap",
+        "Net"
+      ]
+    },
+    {
+      "word": "Torch",
+      "hints": [
+        "Light",
+        "Night",
+        "Dark",
+        "Battery"
+      ]
+    },
+    {
+      "word": "First Aid Box",
+      "hints": [
+        "Bandage",
+        "Medicines",
+        "Dettol",
+        "Box"
+      ]
+    },
+    {
+      "word": "Umbrella",
+      "hints": [
+        "Rain",
+        "Sun",
+        "Black",
+        "Open"
+      ]
+    },
+    {
+      "word": "Dustbin",
+      "hints": [
+        "Trash",
+        "Waste",
+        "Plastic",
+        "Clean"
+      ]
+    }
+  ],
+  "birds": [
+    {
+      "word": "Peacock",
+      "hints": [
+        "Dance",
+        "Rain",
+        "Blue",
+        "Feather"
+      ]
+    },
+    {
+      "word": "Kingfisher",
+      "hints": [
+        "Blue",
+        "Fish",
+        "Beak",
+        "Water"
+      ]
+    },
+    {
+      "word": "Parrot",
+      "hints": [
+        "Green",
+        "Talk",
+        "Chilli",
+        "Red-beak"
+      ]
+    },
+    {
+      "word": "Pigeon",
+      "hints": [
+        "Grey",
+        "Roof",
+        "Fly",
+        "Bird"
+      ]
+    },
+    {
+      "word": "Crow",
+      "hints": [
+        "Black",
+        "Smart",
+        "Fly",
+        "Noise"
+      ]
+    },
+    {
+      "word": "Sparrow",
+      "hints": [
+        "Tiny",
+        "Brown",
+        "Nest",
+        "Fly"
+      ]
+    },
+    {
+      "word": "Owl (Ullu)",
+      "hints": [
+        "Night",
+        "Eyes",
+        "Dark",
+        "Tree"
+      ]
+    },
+    {
+      "word": "Hornbill",
+      "hints": [
+        "Beak",
+        "Big",
+        "Tree",
+        "Jungle"
+      ]
+    },
+    {
+      "word": "Flamingo",
+      "hints": [
+        "Pink",
+        "Water",
+        "Legs",
+        "Lake"
+      ]
+    },
+    {
+      "word": "Duck",
+      "hints": [
+        "Water",
+        "Swim",
+        "White",
+        "Pond"
+      ]
+    },
+    {
+      "word": "Swan (Hans)",
+      "hints": [
+        "White",
+        "Water",
+        "Swim",
+        "Lake"
+      ]
+    },
+    {
+      "word": "Eagle",
+      "hints": [
+        "Fly",
+        "High",
+        "Sky",
+        "Sharp"
+      ]
+    },
+    {
+      "word": "Vulture",
+      "hints": [
+        "Sky",
+        "Big",
+        "Fly",
+        "High"
+      ]
+    },
+    {
+      "word": "Koel (Koyal)",
+      "hints": [
+        "Sing",
+        "Sweet",
+        "Black",
+        "Mango"
+      ]
+    },
+    {
+      "word": "Myna",
+      "hints": [
+        "Yellow",
+        "Brown",
+        "Tree",
+        "Fly"
+      ]
+    },
+    {
+      "word": "Roller (Neelkanth)",
+      "hints": [
+        "Blue",
+        "Sky",
+        "Wings",
+        "Bird"
+      ]
+    },
+    {
+      "word": "Bulbul",
+      "hints": [
+        "Red",
+        "Sweet",
+        "Garden",
+        "Sing"
+      ]
+    },
+    {
+      "word": "Drongo",
+      "hints": [
+        "Black",
+        "Tail",
+        "Fly",
+        "Brave"
+      ]
+    },
+    {
+      "word": "Woodpecker",
+      "hints": [
+        "Tree",
+        "Wood",
+        "Beak",
+        "Tap"
+      ]
+    },
+    {
+      "word": "Tailorbird",
+      "hints": [
+        "Leaf",
+        "Stitch",
+        "Small",
+        "Nest"
+      ]
+    },
+    {
+      "word": "Weaver Bird",
+      "hints": [
+        "Nest",
+        "Hang",
+        "Grass",
+        "Tree"
+      ]
+    },
+    {
+      "word": "Sunbird",
+      "hints": [
+        "Tiny",
+        "Flower",
+        "Sweet",
+        "Fly"
+      ]
+    },
+    {
+      "word": "Heron",
+      "hints": [
+        "Fish",
+        "Water",
+        "Long-legs",
+        "White"
+      ]
+    },
+    {
+      "word": "Egret",
+      "hints": [
+        "White",
+        "Field",
+        "Cow",
+        "Water"
+      ]
+    },
+    {
+      "word": "Stork",
+      "hints": [
+        "Long-legs",
+        "Water",
+        "Fish",
+        "Beak"
+      ]
+    },
+    {
+      "word": "Pelican",
+      "hints": [
+        "Fish",
+        "Beak",
+        "Water",
+        "Swim"
+      ]
+    },
+    {
+      "word": "Cormorant",
+      "hints": [
+        "Black",
+        "Water",
+        "Fish",
+        "Swim"
+      ]
+    },
+    {
+      "word": "Lapwing",
+      "hints": [
+        "Ground",
+        "Egg",
+        "Noise",
+        "Field"
+      ]
+    },
+    {
+      "word": "Kite (Cheel)",
+      "hints": [
+        "Sky",
+        "High",
+        "Fly",
+        "Sharp"
+      ]
+    },
+    {
+      "word": "Ostrich",
+      "hints": [
+        "Big",
+        "Run",
+        "Egg",
+        "Fast"
+      ]
+    },
+    {
+      "word": "Penguin",
+      "hints": [
+        "Ice",
+        "Cold",
+        "Swim",
+        "Black-white"
+      ]
+    },
+    {
+      "word": "Hummingbird",
+      "hints": [
+        "Tiny",
+        "Fast",
+        "Flower",
+        "Wings"
+      ]
+    },
+    {
+      "word": "Toucan",
+      "hints": [
+        "Big-beak",
+        "Colors",
+        "Tree",
+        "Fruit"
+      ]
+    },
+    {
+      "word": "Cockatoo",
+      "hints": [
+        "White",
+        "Head-fan",
+        "Pet",
+        "Loud"
+      ]
+    },
+    {
+      "word": "Hen / Rooster",
+      "hints": [
+        "Egg",
+        "Morning",
+        "Farm",
+        "Comb"
+      ]
+    },
+    {
+      "word": "Dove",
+      "hints": [
+        "White",
+        "Peace",
+        "Fly",
+        "Sweet"
+      ]
+    },
+    {
+      "word": "Francolin (Teetar)",
+      "hints": [
+        "Field",
+        "Ground",
+        "Brown",
+        "Run"
+      ]
+    },
+    {
+      "word": "Quail (Bater)",
+      "hints": [
+        "Small",
+        "Egg",
+        "Field",
+        "Brown"
+      ]
+    },
+    {
+      "word": "Coucal",
+      "hints": [
+        "Brown",
+        "Bush",
+        "Red-eye",
+        "Walk"
+      ]
+    },
+    {
+      "word": "Seagull",
+      "hints": [
+        "Sea",
+        "Beach",
+        "Water",
+        "White"
+      ]
+    }
+  ],
+  "insects": [
+    {
+      "word": "Mosquito",
+      "hints": [
+        "Bite",
+        "Blood",
+        "Night",
+        "Buzz"
+      ]
+    },
+    {
+      "word": "Honeybee",
+      "hints": [
+        "Honey",
+        "Flower",
+        "Sweet",
+        "Yellow"
+      ]
+    },
+    {
+      "word": "Butterfly",
+      "hints": [
+        "Wings",
+        "Color",
+        "Flower",
+        "Fly"
+      ]
+    },
+    {
+      "word": "Cockroach",
+      "hints": [
+        "Kitchen",
+        "Brown",
+        "Night",
+        "Dark"
+      ]
+    },
+    {
+      "word": "Housefly",
+      "hints": [
+        "Food",
+        "Buzz",
+        "Small",
+        "Fly"
+      ]
+    },
+    {
+      "word": "Ant",
+      "hints": [
+        "Sugar",
+        "Small",
+        "Walk",
+        "Line"
+      ]
+    },
+    {
+      "word": "Red Ant",
+      "hints": [
+        "Bite",
+        "Red",
+        "Small",
+        "Pain"
+      ]
+    },
+    {
+      "word": "Firefly (Jugnu)",
+      "hints": [
+        "Glow",
+        "Night",
+        "Light",
+        "Dark"
+      ]
+    },
+    {
+      "word": "Dragonfly",
+      "hints": [
+        "Water",
+        "Wings",
+        "Fly",
+        "Pond"
+      ]
+    },
+    {
+      "word": "Grasshopper",
+      "hints": [
+        "Green",
+        "Jump",
+        "Grass",
+        "Leaf"
+      ]
+    },
+    {
+      "word": "Locust (Tiddi)",
+      "hints": [
+        "Crops",
+        "Swarm",
+        "Farm",
+        "Green"
+      ]
+    },
+    {
+      "word": "Moth",
+      "hints": [
+        "Light",
+        "Night",
+        "Bulb",
+        "Wings"
+      ]
+    },
+    {
+      "word": "Ladybug",
+      "hints": [
+        "Red",
+        "Spots",
+        "Small",
+        "Garden"
+      ]
+    },
+    {
+      "word": "Termite (Deemak)",
+      "hints": [
+        "Wood",
+        "Door",
+        "Mud",
+        "Eat"
+      ]
+    },
+    {
+      "word": "Cricket (Jhingur)",
+      "hints": [
+        "Night",
+        "Sound",
+        "Noise",
+        "Dark"
+      ]
+    },
+    {
+      "word": "Spider",
+      "hints": [
+        "Web",
+        "Trap",
+        "Corners",
+        "Wall"
+      ]
+    },
+    {
+      "word": "Scorpion",
+      "hints": [
+        "Tail",
+        "Poison",
+        "Bite",
+        "Desert"
+      ]
+    },
+    {
+      "word": "Wasp (Tatayya)",
+      "hints": [
+        "Yellow",
+        "Sting",
+        "Nest",
+        "Pain"
+      ]
+    },
+    {
+      "word": "Bedbug (Khatmal)",
+      "hints": [
+        "Bed",
+        "Bite",
+        "Blood",
+        "Night"
+      ]
+    },
+    {
+      "word": "Head Louse (Joo)",
+      "hints": [
+        "Hair",
+        "Head",
+        "Small",
+        "Itch"
+      ]
+    },
+    {
+      "word": "Praying Mantis",
+      "hints": [
+        "Green",
+        "Hunt",
+        "Arms",
+        "Leaf"
+      ]
+    },
+    {
+      "word": "Stick Insect",
+      "hints": [
+        "Stick",
+        "Branch",
+        "Tree",
+        "Brown"
+      ]
+    },
+    {
+      "word": "Centipede",
+      "hints": [
+        "Legs",
+        "Fast",
+        "Wall",
+        "Floor"
+      ]
+    },
+    {
+      "word": "Millipede",
+      "hints": [
+        "Legs",
+        "Roll",
+        "Slow",
+        "Soil"
+      ]
+    },
+    {
+      "word": "Dung Beetle",
+      "hints": [
+        "Ball",
+        "Roll",
+        "Strong",
+        "Ground"
+      ]
+    },
+    {
+      "word": "Silkworm",
+      "hints": [
+        "Silk",
+        "Saree",
+        "Thread",
+        "Leaf"
+      ]
+    },
+    {
+      "word": "Cicada",
+      "hints": [
+        "Loud",
+        "Tree",
+        "Summer",
+        "Sound"
+      ]
+    },
+    {
+      "word": "Earwig",
+      "hints": [
+        "Tail",
+        "Pincer",
+        "Small",
+        "Dark"
+      ]
+    },
+    {
+      "word": "Silverfish",
+      "hints": [
+        "Books",
+        "Paper",
+        "Silver",
+        "Old"
+      ]
+    },
+    {
+      "word": "Flea",
+      "hints": [
+        "Dog",
+        "Jump",
+        "Bite",
+        "Fur"
+      ]
+    },
+    {
+      "word": "Tick",
+      "hints": [
+        "Dog",
+        "Bite",
+        "Blood",
+        "Skin"
+      ]
+    },
+    {
+      "word": "Stink Bug",
+      "hints": [
+        "Smell",
+        "Bad",
+        "Leaf",
+        "Green"
+      ]
+    },
+    {
+      "word": "Water Strider",
+      "hints": [
+        "Water",
+        "Pond",
+        "Walk",
+        "Float"
+      ]
+    },
+    {
+      "word": "Fruit Fly",
+      "hints": [
+        "Fruit",
+        "Banana",
+        "Tiny",
+        "Fly"
+      ]
+    },
+    {
+      "word": "Antlion",
+      "hints": [
+        "Sand",
+        "Pit",
+        "Trap",
+        "Hole"
+      ]
+    },
+    {
+      "word": "Glowworm",
+      "hints": [
+        "Glow",
+        "Light",
+        "Night",
+        "Cave"
+      ]
+    },
+    {
+      "word": "Aphid",
+      "hints": [
+        "Green",
+        "Plant",
+        "Leaf",
+        "Sap"
+      ]
+    },
+    {
+      "word": "Mealybug",
+      "hints": [
+        "White",
+        "Cotton",
+        "Plant",
+        "Leaf"
+      ]
+    },
+    {
+      "word": "Beetle",
+      "hints": [
+        "Horn",
+        "Strong",
+        "Black",
+        "Heavy"
+      ]
+    },
+    {
+      "word": "Leech (Jok)",
+      "hints": [
+        "Water",
+        "Blood",
+        "Mud",
+        "Trek"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "word": "India",
+      "hints": [
+        "Flag",
+        "Taj-Mahal",
+        "Delhi",
+        "Cricket"
+      ]
+    },
+    {
+      "word": "United States",
+      "hints": [
+        "Dollar",
+        "Hollywood",
+        "America",
+        "Flag"
+      ]
+    },
+    {
+      "word": "United Kingdom",
+      "hints": [
+        "London",
+        "Queen",
+        "English",
+        "Cold"
+      ]
+    },
+    {
+      "word": "Japan",
+      "hints": [
+        "Anime",
+        "Tokyo",
+        "Island",
+        "Train"
+      ]
+    },
+    {
+      "word": "Australia",
+      "hints": [
+        "Kangaroo",
+        "Sydney",
+        "Island",
+        "Cricket"
+      ]
+    },
+    {
+      "word": "Canada",
+      "hints": [
+        "Leaf",
+        "Snow",
+        "Cold",
+        "Maple"
+      ]
+    },
+    {
+      "word": "United Arab Emirates",
+      "hints": [
+        "Dubai",
+        "Desert",
+        "Tower",
+        "Gold"
+      ]
+    },
+    {
+      "word": "France",
+      "hints": [
+        "Paris",
+        "Tower",
+        "Bread",
+        "Fashion"
+      ]
+    },
+    {
+      "word": "Germany",
+      "hints": [
+        "Cars",
+        "Berlin",
+        "Europe",
+        "Beer"
+      ]
+    },
+    {
+      "word": "Italy",
+      "hints": [
+        "Pizza",
+        "Rome",
+        "Pasta",
+        "Boot"
+      ]
+    },
+    {
+      "word": "Russia",
+      "hints": [
+        "Snow",
+        "Big",
+        "Cold",
+        "Moscow"
+      ]
+    },
+    {
+      "word": "China",
+      "hints": [
+        "Wall",
+        "Panda",
+        "Asia",
+        "Dragon"
+      ]
+    },
+    {
+      "word": "Brazil",
+      "hints": [
+        "Football",
+        "Forest",
+        "Dancing",
+        "Green"
+      ]
+    },
+    {
+      "word": "Nepal",
+      "hints": [
+        "Mountain",
+        "Hills",
+        "Flag",
+        "Temple"
+      ]
+    },
+    {
+      "word": "Sri Lanka",
+      "hints": [
+        "Island",
+        "Tea",
+        "Beach",
+        "Ocean"
+      ]
+    },
+    {
+      "word": "Singapore",
+      "hints": [
+        "Island",
+        "Clean",
+        "Airport",
+        "City"
+      ]
+    },
+    {
+      "word": "Thailand",
+      "hints": [
+        "Temples",
+        "Beach",
+        "Island",
+        "Food"
+      ]
+    },
+    {
+      "word": "South Africa",
+      "hints": [
+        "Safari",
+        "Lion",
+        "Cricket",
+        "Gold"
+      ]
+    },
+    {
+      "word": "New Zealand",
+      "hints": [
+        "Kiwi",
+        "Green",
+        "Islands",
+        "Hills"
+      ]
+    },
+    {
+      "word": "Egypt",
+      "hints": [
+        "Pyramids",
+        "Desert",
+        "River",
+        "Sand"
+      ]
+    },
+    {
+      "word": "Saudi Arabia",
+      "hints": [
+        "Desert",
+        "Oil",
+        "Mecca",
+        "Gold"
+      ]
+    },
+    {
+      "word": "Switzerland",
+      "hints": [
+        "Snow",
+        "Alps",
+        "Watch",
+        "Chocolate"
+      ]
+    },
+    {
+      "word": "Spain",
+      "hints": [
+        "Bull",
+        "Football",
+        "Dance",
+        "Sun"
+      ]
+    },
+    {
+      "word": "Argentina",
+      "hints": [
+        "Messi",
+        "Football",
+        "Blue",
+        "Trophy"
+      ]
+    },
+    {
+      "word": "South Korea",
+      "hints": [
+        "K-pop",
+        "Music",
+        "Seoul",
+        "Drama"
+      ]
+    },
+    {
+      "word": "Bhutan",
+      "hints": [
+        "Hills",
+        "Happy",
+        "Dragon",
+        "Green"
+      ]
+    },
+    {
+      "word": "Bangladesh",
+      "hints": [
+        "Green",
+        "River",
+        "Cricket",
+        "Flag"
+      ]
+    },
+    {
+      "word": "Maldives",
+      "hints": [
+        "Islands",
+        "Water",
+        "Beach",
+        "Resort"
+      ]
+    },
+    {
+      "word": "Mauritius",
+      "hints": [
+        "Island",
+        "Beach",
+        "Sea",
+        "Resort"
+      ]
+    },
+    {
+      "word": "Indonesia",
+      "hints": [
+        "Islands",
+        "Bali",
+        "Sea",
+        "Volcano"
+      ]
+    },
+    {
+      "word": "Malaysia",
+      "hints": [
+        "Towers",
+        "Asia",
+        "City",
+        "Green"
+      ]
+    },
+    {
+      "word": "Turkey",
+      "hints": [
+        "Balloons",
+        "Bridge",
+        "Tea",
+        "Old"
+      ]
+    },
+    {
+      "word": "Greece",
+      "hints": [
+        "White",
+        "Sea",
+        "Old",
+        "Islands"
+      ]
+    },
+    {
+      "word": "Mexico",
+      "hints": [
+        "Tacos",
+        "Hat",
+        "Spicy",
+        "Sun"
+      ]
+    },
+    {
+      "word": "Kenya",
+      "hints": [
+        "Safari",
+        "Run",
+        "Lion",
+        "Savannah"
+      ]
+    },
+    {
+      "word": "Portugal",
+      "hints": [
+        "Ronaldo",
+        "Football",
+        "Sea",
+        "Fish"
+      ]
+    },
+    {
+      "word": "Netherlands",
+      "hints": [
+        "Cycle",
+        "Flowers",
+        "Windmill",
+        "Orange"
+      ]
+    },
+    {
+      "word": "Norway",
+      "hints": [
+        "Snow",
+        "Lights",
+        "Cold",
+        "Sea"
+      ]
+    },
+    {
+      "word": "Qatar",
+      "hints": [
+        "Cup",
+        "Desert",
+        "Rich",
+        "Sea"
+      ]
+    },
+    {
+      "word": "Oman",
+      "hints": [
+        "Desert",
+        "Forts",
+        "Sea",
+        "Arab"
+      ]
+    }
+  ],
+  "cities": [
+    {
+      "word": "Mumbai",
+      "hints": [
+        "Sea",
+        "Bollywood",
+        "Train",
+        "Film"
+      ]
+    },
+    {
+      "word": "Delhi",
+      "hints": [
+        "Capital",
+        "Red-Fort",
+        "Metro",
+        "Big"
+      ]
+    },
+    {
+      "word": "Bengaluru",
+      "hints": [
+        "Tech",
+        "Garden",
+        "Pubs",
+        "Traffic"
+      ]
+    },
+    {
+      "word": "Hyderabad",
+      "hints": [
+        "Biryani",
+        "Charminar",
+        "Pearls",
+        "Fort"
+      ]
+    },
+    {
+      "word": "Kolkata",
+      "hints": [
+        "Bridge",
+        "Fish",
+        "Sweets",
+        "Trams"
+      ]
+    },
+    {
+      "word": "Chennai",
+      "hints": [
+        "Beach",
+        "Coffee",
+        "Temples",
+        "South"
+      ]
+    },
+    {
+      "word": "Jaipur",
+      "hints": [
+        "Pink-City",
+        "Fort",
+        "Palace",
+        "King"
+      ]
+    },
+    {
+      "word": "Goa",
+      "hints": [
+        "Beach",
+        "Party",
+        "Sea",
+        "Sand"
+      ]
+    },
+    {
+      "word": "Varanasi",
+      "hints": [
+        "Ganga",
+        "Temple",
+        "Ghat",
+        "Shiva"
+      ]
+    },
+    {
+      "word": "Agra",
+      "hints": [
+        "Taj-Mahal",
+        "Marble",
+        "River",
+        "Petha"
+      ]
+    },
+    {
+      "word": "Pune",
+      "hints": [
+        "College",
+        "Hills",
+        "Weather",
+        "City"
+      ]
+    },
+    {
+      "word": "Ahmedabad",
+      "hints": [
+        "Garba",
+        "Kite",
+        "River",
+        "City"
+      ]
+    },
+    {
+      "word": "Srinagar",
+      "hints": [
+        "Snow",
+        "Boat",
+        "Lake",
+        "Cold"
+      ]
+    },
+    {
+      "word": "Shimla",
+      "hints": [
+        "Hills",
+        "Snow",
+        "Cold",
+        "Toy-Train"
+      ]
+    },
+    {
+      "word": "Chandigarh",
+      "hints": [
+        "Clean",
+        "Garden",
+        "Punjab",
+        "City"
+      ]
+    },
+    {
+      "word": "Amritsar",
+      "hints": [
+        "Golden-Temple",
+        "Langar",
+        "Punjab",
+        "Holy"
+      ]
+    },
+    {
+      "word": "Udaipur",
+      "hints": [
+        "Lake",
+        "Palace",
+        "White",
+        "Boat"
+      ]
+    },
+    {
+      "word": "Lucknow",
+      "hints": [
+        "Nawab",
+        "Kebabs",
+        "City",
+        "Urdu"
+      ]
+    },
+    {
+      "word": "Bhopal",
+      "hints": [
+        "Lake",
+        "City",
+        "Center",
+        "Green"
+      ]
+    },
+    {
+      "word": "Indore",
+      "hints": [
+        "Clean",
+        "Food",
+        "Poha",
+        "Night"
+      ]
+    },
+    {
+      "word": "Kochi",
+      "hints": [
+        "Sea",
+        "Boats",
+        "Beach",
+        "Port"
+      ]
+    },
+    {
+      "word": "Surat",
+      "hints": [
+        "Diamond",
+        "Cloth",
+        "City",
+        "River"
+      ]
+    },
+    {
+      "word": "Patna",
+      "hints": [
+        "Ganga",
+        "Old",
+        "Bihar",
+        "City"
+      ]
+    },
+    {
+      "word": "Guwahati",
+      "hints": [
+        "River",
+        "Tea",
+        "Assam",
+        "Green"
+      ]
+    },
+    {
+      "word": "Nagpur",
+      "hints": [
+        "Orange",
+        "Center",
+        "City",
+        "Fruit"
+      ]
+    },
+    {
+      "word": "Vizag",
+      "hints": [
+        "Sea",
+        "Ships",
+        "Beach",
+        "Port"
+      ]
+    },
+    {
+      "word": "Mysore",
+      "hints": [
+        "Palace",
+        "Sweet",
+        "Silk",
+        "King"
+      ]
+    },
+    {
+      "word": "Madurai",
+      "hints": [
+        "Temple",
+        "Jasmine",
+        "Old",
+        "City"
+      ]
+    },
+    {
+      "word": "Pondicherry",
+      "hints": [
+        "French",
+        "Beach",
+        "Sea",
+        "White"
+      ]
+    },
+    {
+      "word": "Darjeeling",
+      "hints": [
+        "Tea",
+        "Hills",
+        "Cold",
+        "Mountain"
+      ]
+    },
+    {
+      "word": "Manali",
+      "hints": [
+        "Snow",
+        "Mountains",
+        "Cold",
+        "River"
+      ]
+    },
+    {
+      "word": "Rishikesh",
+      "hints": [
+        "Rafting",
+        "Ganga",
+        "Yoga",
+        "Hills"
+      ]
+    },
+    {
+      "word": "Haridwar",
+      "hints": [
+        "Ganga",
+        "Holy",
+        "Temple",
+        "River"
+      ]
+    },
+    {
+      "word": "Dubai",
+      "hints": [
+        "Tower",
+        "Desert",
+        "Malls",
+        "Gold"
+      ]
+    },
+    {
+      "word": "London",
+      "hints": [
+        "Clock",
+        "Red-Bus",
+        "Queen",
+        "Cold"
+      ]
+    },
+    {
+      "word": "New York",
+      "hints": [
+        "Tall",
+        "Lights",
+        "Tower",
+        "America"
+      ]
+    },
+    {
+      "word": "Tokyo",
+      "hints": [
+        "Anime",
+        "Bullet-Train",
+        "Lights",
+        "Japan"
+      ]
+    },
+    {
+      "word": "Paris",
+      "hints": [
+        "Tower",
+        "Love",
+        "France",
+        "Fashion"
+      ]
+    },
+    {
+      "word": "Singapore",
+      "hints": [
+        "Clean",
+        "Island",
+        "Airport",
+        "Lion"
+      ]
+    },
+    {
+      "word": "Bangkok",
+      "hints": [
+        "Temples",
+        "Street",
+        "Boats",
+        "Market"
+      ]
+    }
+  ],
+  "sports": [
+    {
+      "word": "Cricket",
+      "hints": [
+        "Bat",
+        "Ball",
+        "Wicket",
+        "Pitch"
+      ]
+    },
+    {
+      "word": "Football",
+      "hints": [
+        "Goal",
+        "Kick",
+        "Ball",
+        "Grass"
+      ]
+    },
+    {
+      "word": "Badminton",
+      "hints": [
+        "Racquet",
+        "Net",
+        "Smash",
+        "Feather"
+      ]
+    },
+    {
+      "word": "Kabaddi",
+      "hints": [
+        "Raid",
+        "Mat",
+        "Catch",
+        "Hold"
+      ]
+    },
+    {
+      "word": "Hockey",
+      "hints": [
+        "Stick",
+        "Ball",
+        "Goal",
+        "Turf"
+      ]
+    },
+    {
+      "word": "Chess",
+      "hints": [
+        "King",
+        "Queen",
+        "Board",
+        "Check"
+      ]
+    },
+    {
+      "word": "Carrom",
+      "hints": [
+        "Striker",
+        "Queen",
+        "Coins",
+        "Board"
+      ]
+    },
+    {
+      "word": "Table Tennis",
+      "hints": [
+        "Paddle",
+        "Table",
+        "Ball",
+        "Net"
+      ]
+    },
+    {
+      "word": "Tennis",
+      "hints": [
+        "Racquet",
+        "Ball",
+        "Court",
+        "Net"
+      ]
+    },
+    {
+      "word": "Basketball",
+      "hints": [
+        "Basket",
+        "Ball",
+        "Dunk",
+        "Court"
+      ]
+    },
+    {
+      "word": "Volleyball",
+      "hints": [
+        "Net",
+        "Hands",
+        "Ball",
+        "Jump"
+      ]
+    },
+    {
+      "word": "Wrestling (Kushti)",
+      "hints": [
+        "Mud",
+        "Akhada",
+        "Hold",
+        "Belt"
+      ]
+    },
+    {
+      "word": "Boxing",
+      "hints": [
+        "Gloves",
+        "Ring",
+        "Punch",
+        "Rope"
+      ]
+    },
+    {
+      "word": "Running (Sprint)",
+      "hints": [
+        "Track",
+        "Shoes",
+        "Fast",
+        "Run"
+      ]
+    },
+    {
+      "word": "Javelin Throw",
+      "hints": [
+        "Spear",
+        "Throw",
+        "Ground",
+        "Gold"
+      ]
+    },
+    {
+      "word": "Kho Kho",
+      "hints": [
+        "Run",
+        "Sit",
+        "Pole",
+        "Chaser"
+      ]
+    },
+    {
+      "word": "Gilli Danda",
+      "hints": [
+        "Stick",
+        "Flick",
+        "Fly",
+        "Wood"
+      ]
+    },
+    {
+      "word": "Kite Flying",
+      "hints": [
+        "Sky",
+        "Thread",
+        "Wind",
+        "Fly"
+      ]
+    },
+    {
+      "word": "Archery",
+      "hints": [
+        "Bow",
+        "Arrow",
+        "Target",
+        "Aim"
+      ]
+    },
+    {
+      "word": "Shooting",
+      "hints": [
+        "Gun",
+        "Target",
+        "Aim",
+        "Bullet"
+      ]
+    },
+    {
+      "word": "Swimming",
+      "hints": [
+        "Water",
+        "Pool",
+        "Swim",
+        "Goggles"
+      ]
+    },
+    {
+      "word": "Gymnastics",
+      "hints": [
+        "Flip",
+        "Jump",
+        "Balance",
+        "Floor"
+      ]
+    },
+    {
+      "word": "Weightlifting",
+      "hints": [
+        "Heavy",
+        "Weights",
+        "Bar",
+        "Lift"
+      ]
+    },
+    {
+      "word": "Golf",
+      "hints": [
+        "Club",
+        "Hole",
+        "Green",
+        "Ball"
+      ]
+    },
+    {
+      "word": "Snooker / Billiards",
+      "hints": [
+        "Stick",
+        "Balls",
+        "Table",
+        "Pockets"
+      ]
+    },
+    {
+      "word": "Formula 1",
+      "hints": [
+        "Car",
+        "Speed",
+        "Helmet",
+        "Track"
+      ]
+    },
+    {
+      "word": "Cycling",
+      "hints": [
+        "Pedal",
+        "Cycle",
+        "Wheels",
+        "Road"
+      ]
+    },
+    {
+      "word": "Boat Racing",
+      "hints": [
+        "Oars",
+        "Water",
+        "Boat",
+        "River"
+      ]
+    },
+    {
+      "word": "Rugby",
+      "hints": [
+        "Tackle",
+        "Ball",
+        "Grass",
+        "Run"
+      ]
+    },
+    {
+      "word": "Baseball",
+      "hints": [
+        "Bat",
+        "Ball",
+        "Base",
+        "Hit"
+      ]
+    },
+    {
+      "word": "Karate",
+      "hints": [
+        "Kick",
+        "Belt",
+        "Punch",
+        "White"
+      ]
+    },
+    {
+      "word": "Polo",
+      "hints": [
+        "Horse",
+        "Stick",
+        "Ball",
+        "Grass"
+      ]
+    },
+    {
+      "word": "Surfing",
+      "hints": [
+        "Waves",
+        "Ocean",
+        "Board",
+        "Water"
+      ]
+    },
+    {
+      "word": "Skateboarding",
+      "hints": [
+        "Wheels",
+        "Board",
+        "Jump",
+        "Street"
+      ]
+    },
+    {
+      "word": "Skiing",
+      "hints": [
+        "Snow",
+        "Slopes",
+        "Cold",
+        "Sticks"
+      ]
+    },
+    {
+      "word": "Rock Climbing",
+      "hints": [
+        "Rope",
+        "Rocks",
+        "Grip",
+        "Mountain"
+      ]
+    },
+    {
+      "word": "Squash",
+      "hints": [
+        "Wall",
+        "Racquet",
+        "Ball",
+        "Room"
+      ]
+    },
+    {
+      "word": "Seven Stones (Lagori)",
+      "hints": [
+        "Stones",
+        "Ball",
+        "Hit",
+        "Stack"
+      ]
+    },
+    {
+      "word": "Mallakhamb",
+      "hints": [
+        "Pole",
+        "Wood",
+        "Climb",
+        "Body"
+      ]
+    },
+    {
+      "word": "Tug of War",
+      "hints": [
+        "Rope",
+        "Pull",
+        "Team",
+        "Line"
+      ]
+    }
+  ],
+  "food": [
+    {
+      "word": "Biryani",
+      "hints": [
+        "Dum-pot",
+        "Hyderabadi",
+        "Basmati-layers",
+        "Saffron-rice"
+      ]
+    },
+    {
+      "word": "Samosa",
+      "hints": [
+        "Triangle-crust",
+        "Spiced-potato",
+        "Sweet-chutney",
+        "Tea-time"
+      ]
+    },
+    {
+      "word": "Butter Chicken",
+      "hints": [
+        "Makhani-gravy",
+        "Tandoori-meat",
+        "Cream-swirl",
+        "Delhi-curry"
+      ]
+    },
+    {
+      "word": "Masala Dosa",
+      "hints": [
+        "Crispy-crepe",
+        "Sambar-dip",
+        "Potato-masala",
+        "Coconut-chutney"
+      ]
+    },
+    {
+      "word": "Pani Puri",
+      "hints": [
+        "Spicy-mint-water",
+        "Crispy-puri",
+        "Street-thela",
+        "Ragda-chickpea"
+      ]
+    },
+    {
+      "word": "Vada Pav",
+      "hints": [
+        "Mumbai-burger",
+        "Fried-batata",
+        "Garlic-chutney",
+        "Pav-bun"
+      ]
+    },
+    {
+      "word": "Chole Bhature",
+      "hints": [
+        "Puffed-bhatura",
+        "Delhi-chole",
+        "Pickled-onion",
+        "Sunday-feast"
+      ]
+    },
+    {
+      "word": "Pav Bhaji",
+      "hints": [
+        "Butter-slab",
+        "Mashed-veggies",
+        "Tawa-fry",
+        "Mumbai-beach"
+      ]
+    },
+    {
+      "word": "Gulab Jamun",
+      "hints": [
+        "Warm-syrup",
+        "Khoya-dough",
+        "Rose-water",
+        "Fried-balls"
+      ]
+    },
+    {
+      "word": "Jalebi",
+      "hints": [
+        "Orange-spiral",
+        "Sugar-syrup",
+        "Rabri-pair",
+        "Crisp-coil"
+      ]
+    },
+    {
+      "word": "Dal Makhani",
+      "hints": [
+        "Black-urad",
+        "Slow-simmer",
+        "White-butter",
+        "Rich-gravy"
+      ]
+    },
+    {
+      "word": "Rasgulla",
+      "hints": [
+        "Spongy-chenna",
+        "Sugar-water",
+        "Kolkata-sweet",
+        "White-round"
+      ]
+    },
+    {
+      "word": "Palak Paneer",
+      "hints": [
+        "Spinach-puree",
+        "Cottage-cheese",
+        "Green-curry",
+        "Garlic-tadka"
+      ]
+    },
+    {
+      "word": "Idli Sambar",
+      "hints": [
+        "Steamed-rice-cake",
+        "Sambar-bowl",
+        "Coconut-dip",
+        "South-breakfast"
+      ]
+    },
+    {
+      "word": "Tandoori Chicken",
+      "hints": [
+        "Clay-oven",
+        "Red-marinade",
+        "Charred-smoky",
+        "Lemon-onion"
+      ]
+    },
+    {
+      "word": "Kaju Katli",
+      "hints": [
+        "Silver-vark",
+        "Diamond-shape",
+        "Cashew-fudge",
+        "Diwali-gift"
+      ]
+    },
+    {
+      "word": "Rajma Chawal",
+      "hints": [
+        "Red-kidney-beans",
+        "Basmati-steamed",
+        "Punjabi-home",
+        "Comfort-meal"
+      ]
+    },
+    {
+      "word": "Dhokla",
+      "hints": [
+        "Yellow-sponge",
+        "Mustard-chilli-tadka",
+        "Gram-flour",
+        "Gujarati-snack"
+      ]
+    },
+    {
+      "word": "Bhelpuri",
+      "hints": [
+        "Puffed-rice",
+        "Tamarind-sauce",
+        "Sev-sprinkle",
+        "Chaat-paper-cone"
+      ]
+    },
+    {
+      "word": "Aloo Paratha",
+      "hints": [
+        "Spiced-potato-stuffing",
+        "White-butter-melting",
+        "Dhabba-curd",
+        "Tawa-roasted"
+      ]
+    },
+    {
+      "word": "Kheer",
+      "hints": [
+        "Rice-pudding",
+        "Cardamom-scent",
+        "Almond-slices",
+        "Boiled-milk"
+      ]
+    },
+    {
+      "word": "Rogan Josh",
+      "hints": [
+        "Kashmiri-mutton",
+        "Ratanjot-red",
+        "Fennel-spice",
+        "Wazwan"
+      ]
+    },
+    {
+      "word": "Malai Kofta",
+      "hints": [
+        "Paneer-dumplings",
+        "Cashew-white-gravy",
+        "Royal-restaurant",
+        "Creamy-curry"
+      ]
+    },
+    {
+      "word": "Medu Vada",
+      "hints": [
+        "Donut-hole",
+        "Crispy-lentil-batter",
+        "Sambar-dip",
+        "Breakfast-fritter"
+      ]
+    },
+    {
+      "word": "Lassi",
+      "hints": [
+        "Thick-curd-drink",
+        "Malai-top",
+        "Earthen-kulhad",
+        "Sweet-froth"
+      ]
+    },
+    {
+      "word": "Fish Curry",
+      "hints": [
+        "Mustard-oil",
+        "Coastal-coconut",
+        "Spicy-broth",
+        "Rice-plate"
+      ]
+    },
+    {
+      "word": "Poha",
+      "hints": [
+        "Flattened-rice",
+        "Indori-jeeravan",
+        "Fried-peanuts",
+        "Morning-sev"
+      ]
+    },
+    {
+      "word": "Misal Pav",
+      "hints": [
+        "Fiery-rassa-curry",
+        "Farsan-topping",
+        "Pav-bread",
+        "Maharashtra-breakfast"
+      ]
+    },
+    {
+      "word": "Pakora",
+      "hints": [
+        "Besan-fritters",
+        "Monsoon-rain",
+        "Chai-partner",
+        "Fried-crispy"
+      ]
+    },
+    {
+      "word": "Halwa",
+      "hints": [
+        "Ghee-roast",
+        "Gajar-winter",
+        "Dry-fruits",
+        "Warm-spoonful"
+      ]
+    },
+    {
+      "word": "Noodles",
+      "hints": [
+        "Wok-tossed",
+        "Soy-sauce",
+        "Hakka-street",
+        "Shredded-cabbage"
+      ]
+    },
+    {
+      "word": "Manchurian",
+      "hints": [
+        "Fried-veg-balls",
+        "Dark-soy-gravy",
+        "Garlic-chilli",
+        "Indo-Chinese"
+      ]
+    },
+    {
+      "word": "Momos",
+      "hints": [
+        "Steamed-dough-pleats",
+        "Fiery-red-chutney",
+        "Himalayan-street",
+        "Veg-filling"
+      ]
+    },
+    {
+      "word": "Shawarma",
+      "hints": [
+        "Spit-roasted-meat",
+        "Pita-bread-wrap",
+        "Garlic-toum-mayo",
+        "Pickled-turnip"
+      ]
+    },
+    {
+      "word": "Pizza",
+      "hints": [
+        "Mozzarella-cheese-pull",
+        "Round-crust",
+        "Tomato-sauce",
+        "Oven-baked-slices"
+      ]
+    },
+    {
+      "word": "Burger",
+      "hints": [
+        "Sesame-bun",
+        "Crispy-patty",
+        "Layered-mayo",
+        "French-fries-pair"
+      ]
+    },
+    {
+      "word": "French Fries",
+      "hints": [
+        "Potato-sticks",
+        "Ketchup-dip",
+        "Salted-crunch",
+        "Fast-food"
+      ]
+    },
+    {
+      "word": "Ice Cream",
+      "hints": [
+        "Frozen-scoop",
+        "Waffle-cone",
+        "Melting-cream",
+        "Dessert-sundae"
+      ]
+    },
+    {
+      "word": "Kulfi",
+      "hints": [
+        "Earthen-matka",
+        "Pistachio-rabri",
+        "Wooden-stick",
+        "Falooda-sev"
+      ]
+    },
+    {
+      "word": "Chai (Tea)",
+      "hints": [
+        "Crushed-ginger",
+        "Cardamom-milk",
+        "Cutting-glass",
+        "Roadside-tapri"
+      ]
+    }
+  ],
+  "professions": [
+    {
+      "word": "Software Engineer",
+      "hints": [
+        "Coding",
+        "Laptop",
+        "Office",
+        "Screen"
+      ]
+    },
+    {
+      "word": "Doctor",
+      "hints": [
+        "Hospital",
+        "Medicine",
+        "White-coat",
+        "Cure"
+      ]
+    },
+    {
+      "word": "Teacher",
+      "hints": [
+        "School",
+        "Books",
+        "Class",
+        "Blackboard"
+      ]
+    },
+    {
+      "word": "Police",
+      "hints": [
+        "Khaki",
+        "Gun",
+        "Police-car",
+        "Catch"
+      ]
+    },
+    {
+      "word": "Chef",
+      "hints": [
+        "Food",
+        "Kitchen",
+        "Cook",
+        "Hat"
+      ]
+    },
+    {
+      "word": "Pilot",
+      "hints": [
+        "Plane",
+        "Sky",
+        "Fly",
+        "Airport"
+      ]
+    },
+    {
+      "word": "Lawyer",
+      "hints": [
+        "Court",
+        "Case",
+        "Black-coat",
+        "Judge"
+      ]
+    },
+    {
+      "word": "Auto Driver",
+      "hints": [
+        "Auto",
+        "Meter",
+        "Drive",
+        "Road"
+      ]
+    },
+    {
+      "word": "Cricketer",
+      "hints": [
+        "Bat",
+        "Ball",
+        "Match",
+        "Jersey"
+      ]
+    },
+    {
+      "word": "Soldier",
+      "hints": [
+        "Army",
+        "Gun",
+        "Border",
+        "Brave"
+      ]
+    },
+    {
+      "word": "Farmer",
+      "hints": [
+        "Farm",
+        "Crops",
+        "Tractor",
+        "Soil"
+      ]
+    },
+    {
+      "word": "CA (Accountant)",
+      "hints": [
+        "Money",
+        "Tax",
+        "Numbers",
+        "Audit"
+      ]
+    },
+    {
+      "word": "Actor / Actress",
+      "hints": [
+        "Movie",
+        "Camera",
+        "Acting",
+        "Film"
+      ]
+    },
+    {
+      "word": "Nurse",
+      "hints": [
+        "Hospital",
+        "Care",
+        "Medicine",
+        "Injection"
+      ]
+    },
+    {
+      "word": "Dentist",
+      "hints": [
+        "Teeth",
+        "Mouth",
+        "Doctor",
+        "Toothache"
+      ]
+    },
+    {
+      "word": "Architect",
+      "hints": [
+        "Building",
+        "Drawing",
+        "Plan",
+        "House"
+      ]
+    },
+    {
+      "word": "Civil Engineer",
+      "hints": [
+        "Bridge",
+        "Road",
+        "Building",
+        "Hardhat"
+      ]
+    },
+    {
+      "word": "Reporter",
+      "hints": [
+        "News",
+        "Mic",
+        "TV",
+        "Camera"
+      ]
+    },
+    {
+      "word": "Photographer",
+      "hints": [
+        "Camera",
+        "Photo",
+        "Lens",
+        "Click"
+      ]
+    },
+    {
+      "word": "Electrician",
+      "hints": [
+        "Wires",
+        "Switch",
+        "Current",
+        "Light"
+      ]
+    },
+    {
+      "word": "Plumber",
+      "hints": [
+        "Pipe",
+        "Water",
+        "Tap",
+        "Leak"
+      ]
+    },
+    {
+      "word": "Carpenter",
+      "hints": [
+        "Wood",
+        "Table",
+        "Saw",
+        "Chair"
+      ]
+    },
+    {
+      "word": "Tailor",
+      "hints": [
+        "Clothes",
+        "Sewing",
+        "Scissors",
+        "Stitch"
+      ]
+    },
+    {
+      "word": "Barber",
+      "hints": [
+        "Hair",
+        "Scissors",
+        "Shave",
+        "Salon"
+      ]
+    },
+    {
+      "word": "Security Guard",
+      "hints": [
+        "Gate",
+        "Night",
+        "Uniform",
+        "Whistle"
+      ]
+    },
+    {
+      "word": "Delivery Boy",
+      "hints": [
+        "Bike",
+        "Food",
+        "Box",
+        "Door"
+      ]
+    },
+    {
+      "word": "Astronaut",
+      "hints": [
+        "Space",
+        "Rocket",
+        "Moon",
+        "Stars"
+      ]
+    },
+    {
+      "word": "Scientist",
+      "hints": [
+        "Lab",
+        "Space",
+        "ISRO",
+        "Research"
+      ]
+    },
+    {
+      "word": "Singer",
+      "hints": [
+        "Song",
+        "Mic",
+        "Music",
+        "Voice"
+      ]
+    },
+    {
+      "word": "Bus Driver",
+      "hints": [
+        "Bus",
+        "Steering",
+        "Road",
+        "Passengers"
+      ]
+    },
+    {
+      "word": "Firefighter",
+      "hints": [
+        "Fire",
+        "Water",
+        "Red-truck",
+        "Rescue"
+      ]
+    },
+    {
+      "word": "Judge",
+      "hints": [
+        "Court",
+        "Order",
+        "Law",
+        "Gavel"
+      ]
+    },
+    {
+      "word": "Banker",
+      "hints": [
+        "Bank",
+        "Money",
+        "Cash",
+        "Account"
+      ]
+    },
+    {
+      "word": "Politician",
+      "hints": [
+        "Speech",
+        "Vote",
+        "Election",
+        "Leader"
+      ]
+    },
+    {
+      "word": "Fashion Designer",
+      "hints": [
+        "Dress",
+        "Cloth",
+        "Style",
+        "Model"
+      ]
+    },
+    {
+      "word": "Air Hostess",
+      "hints": [
+        "Flight",
+        "Food",
+        "Plane",
+        "Smile"
+      ]
+    },
+    {
+      "word": "Street Vendor",
+      "hints": [
+        "Cart",
+        "Road",
+        "Sell",
+        "Street"
+      ]
+    },
+    {
+      "word": "Graphic Designer",
+      "hints": [
+        "Computer",
+        "Art",
+        "Drawing",
+        "Logo"
+      ]
+    },
+    {
+      "word": "Chaiwala",
+      "hints": [
+        "Tea",
+        "Chai",
+        "Cup",
+        "Stall"
+      ]
+    },
+    {
+      "word": "Mechanic",
+      "hints": [
+        "Car",
+        "Bike",
+        "Repair",
+        "Tools"
+      ]
+    }
+  ],
+  "vehicles": [
+    {
+      "word": "Auto Rickshaw",
+      "hints": [
+        "Three-wheels",
+        "Meter",
+        "Yellow",
+        "Road"
+      ]
+    },
+    {
+      "word": "Local Train",
+      "hints": [
+        "Tracks",
+        "Mumbai",
+        "Crowd",
+        "Fast"
+      ]
+    },
+    {
+      "word": "Metro",
+      "hints": [
+        "Token",
+        "Clean",
+        "Train",
+        "Fast"
+      ]
+    },
+    {
+      "word": "Bike (Motorcycle)",
+      "hints": [
+        "Two-wheels",
+        "Helmet",
+        "Petrol",
+        "Fast"
+      ]
+    },
+    {
+      "word": "Scooty (Scooter)",
+      "hints": [
+        "Two-wheels",
+        "Easy",
+        "Handle",
+        "Road"
+      ]
+    },
+    {
+      "word": "Cycle (Bicycle)",
+      "hints": [
+        "Pedals",
+        "Two-wheels",
+        "Bell",
+        "Ride"
+      ]
+    },
+    {
+      "word": "Vande Bharat Train",
+      "hints": [
+        "Fast",
+        "Train",
+        "White",
+        "Seats"
+      ]
+    },
+    {
+      "word": "Airplane",
+      "hints": [
+        "Fly",
+        "Sky",
+        "Wings",
+        "Airport"
+      ]
+    },
+    {
+      "word": "Helicopter",
+      "hints": [
+        "Fan",
+        "Sky",
+        "Fly",
+        "Top"
+      ]
+    },
+    {
+      "word": "Tractor",
+      "hints": [
+        "Farm",
+        "Field",
+        "Tyres",
+        "Village"
+      ]
+    },
+    {
+      "word": "Bus",
+      "hints": [
+        "Passengers",
+        "Seats",
+        "Road",
+        "Conductor"
+      ]
+    },
+    {
+      "word": "Sleeper Bus",
+      "hints": [
+        "Night",
+        "Bed",
+        "Travel",
+        "Road"
+      ]
+    },
+    {
+      "word": "Ambulance",
+      "hints": [
+        "Doctor",
+        "Hospital",
+        "Siren",
+        "Emergency"
+      ]
+    },
+    {
+      "word": "Fire Truck",
+      "hints": [
+        "Fire",
+        "Red",
+        "Water",
+        "Rescue"
+      ]
+    },
+    {
+      "word": "Police Car",
+      "hints": [
+        "Police",
+        "Siren",
+        "Lights",
+        "Catch"
+      ]
+    },
+    {
+      "word": "Truck (Lorry)",
+      "hints": [
+        "Heavy",
+        "Goods",
+        "Road",
+        "Highway"
+      ]
+    },
+    {
+      "word": "Sedan Car",
+      "hints": [
+        "Car",
+        "Four-doors",
+        "Boot",
+        "Road"
+      ]
+    },
+    {
+      "word": "SUV (Thar / Creta)",
+      "hints": [
+        "Big-car",
+        "Heavy",
+        "Road",
+        "Four-wheels"
+      ]
+    },
+    {
+      "word": "Small Car (Swift)",
+      "hints": [
+        "Car",
+        "City",
+        "Small",
+        "Drive"
+      ]
+    },
+    {
+      "word": "Electric Car",
+      "hints": [
+        "Battery",
+        "Charge",
+        "Silent",
+        "Green"
+      ]
+    },
+    {
+      "word": "Cycle Rickshaw",
+      "hints": [
+        "Pedal",
+        "Three-wheels",
+        "Seat",
+        "Slow"
+      ]
+    },
+    {
+      "word": "Houseboat",
+      "hints": [
+        "Water",
+        "Lake",
+        "Wood",
+        "Stay"
+      ]
+    },
+    {
+      "word": "Speedboat",
+      "hints": [
+        "Water",
+        "Fast",
+        "Waves",
+        "Sea"
+      ]
+    },
+    {
+      "word": "Ferry Boat",
+      "hints": [
+        "Water",
+        "Passengers",
+        "Sea",
+        "Cross"
+      ]
+    },
+    {
+      "word": "Cruise Ship",
+      "hints": [
+        "Sea",
+        "Big",
+        "Water",
+        "Ocean"
+      ]
+    },
+    {
+      "word": "Submarine",
+      "hints": [
+        "Underwater",
+        "Sea",
+        "Deep",
+        "Dark"
+      ]
+    },
+    {
+      "word": "Cargo Ship",
+      "hints": [
+        "Containers",
+        "Sea",
+        "Ocean",
+        "Port"
+      ]
+    },
+    {
+      "word": "Fishing Boat",
+      "hints": [
+        "Fish",
+        "Sea",
+        "Net",
+        "Water"
+      ]
+    },
+    {
+      "word": "Hot Air Balloon",
+      "hints": [
+        "Sky",
+        "Fire",
+        "Basket",
+        "Fly"
+      ]
+    },
+    {
+      "word": "Rocket",
+      "hints": [
+        "Space",
+        "Fire",
+        "Moon",
+        "Launch"
+      ]
+    },
+    {
+      "word": "Bullock Cart",
+      "hints": [
+        "Bulls",
+        "Wood",
+        "Village",
+        "Wheels"
+      ]
+    },
+    {
+      "word": "Horse Carriage (Tonga)",
+      "hints": [
+        "Horse",
+        "Wheels",
+        "Ride",
+        "Baraat"
+      ]
+    },
+    {
+      "word": "Camel Cart",
+      "hints": [
+        "Camel",
+        "Desert",
+        "Sand",
+        "Ride"
+      ]
+    },
+    {
+      "word": "Snowmobile",
+      "hints": [
+        "Snow",
+        "Cold",
+        "Ice",
+        "Ride"
+      ]
+    },
+    {
+      "word": "Hovercraft",
+      "hints": [
+        "Air",
+        "Water",
+        "Sand",
+        "Float"
+      ]
+    },
+    {
+      "word": "Cable Car (Ropeway)",
+      "hints": [
+        "Rope",
+        "Hills",
+        "Height",
+        "Sky"
+      ]
+    },
+    {
+      "word": "Golf Cart",
+      "hints": [
+        "Electric",
+        "Small",
+        "Wheels",
+        "Grass"
+      ]
+    },
+    {
+      "word": "Concrete Mixer Truck",
+      "hints": [
+        "Drum",
+        "Building",
+        "Cement",
+        "Truck"
+      ]
+    },
+    {
+      "word": "JCB Bulldozer",
+      "hints": [
+        "Yellow",
+        "Dig",
+        "Machine",
+        "Ground"
+      ]
+    },
+    {
+      "word": "Garbage Van",
+      "hints": [
+        "Trash",
+        "Morning",
+        "Music",
+        "Waste"
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "word": "Sholay",
+      "hints": [
+        "Gabbar",
+        "Ramgarh",
+        "Jai-Veeru",
+        "Kitne-aadmi"
+      ]
+    },
+    {
+      "word": "DDLJ",
+      "hints": [
+        "Simran-Raj",
+        "Mustard-Punjab",
+        "Train-climax",
+        "Maratha-Mandir"
+      ]
+    },
+    {
+      "word": "3 Idiots",
+      "hints": [
+        "Rancho",
+        "All-Izz-Well",
+        "Virus-director",
+        "Silencer-speech"
+      ]
+    },
+    {
+      "word": "Baahubali",
+      "hints": [
+        "Mahishmati",
+        "Kattappa-cliffhanger",
+        "Shivudu-waterfall",
+        "Prabhas"
+      ]
+    },
+    {
+      "word": "RRR",
+      "hints": [
+        "Naatu-Naatu",
+        "Revolutionary-friends",
+        "Forest-animals",
+        "Oscar-win"
+      ]
+    },
+    {
+      "word": "KGF",
+      "hints": [
+        "Rocky-Bhai",
+        "Gold-mines",
+        "Violence-dialogue",
+        "Beard-hammer"
+      ]
+    },
+    {
+      "word": "Dangal",
+      "hints": [
+        "Phogat-sisters",
+        "Wrestling-gold",
+        "Mhaari-chhoriyan",
+        "Akhada-soil"
+      ]
+    },
+    {
+      "word": "Lagaan",
+      "hints": [
+        "Cricket-match",
+        "British-tax",
+        "Bhuvan-sixer",
+        "Kachra-spin"
+      ]
+    },
+    {
+      "word": "Kabhi Khushi Kabhie Gham (K3G)",
+      "hints": [
+        "Poo-diva",
+        "Loving-parents",
+        "London-mansion",
+        "Rahul-Rohan"
+      ]
+    },
+    {
+      "word": "Kuch Kuch Hota Hai",
+      "hints": [
+        "Friendship-band",
+        "Pyaar-dosti-hai",
+        "Anjali-tomboy",
+        "Rain-gazebo"
+      ]
+    },
+    {
+      "word": "ZNMD (Road Trip)",
+      "hints": [
+        "Spain-roadtrip",
+        "La-Tomatina",
+        "Skydiving-fear",
+        "Bagwati"
+      ]
+    },
+    {
+      "word": "Yeh Jawaani Hai Deewani (YJHD)",
+      "hints": [
+        "Bunny-wanderlust",
+        "Manali-trek",
+        "Badtameez-dil",
+        "Udaipur-wedding"
+      ]
+    },
+    {
+      "word": "Chak De! India",
+      "hints": [
+        "Seventy-minutes",
+        "Women-hockey",
+        "Kabir-Khan",
+        "World-cup"
+      ]
+    },
+    {
+      "word": "Taare Zameen Par",
+      "hints": [
+        "Ishaan-Awasthi",
+        "Art-teacher",
+        "Dyslexia-letters",
+        "Maa-song"
+      ]
+    },
+    {
+      "word": "Munna Bhai MBBS",
+      "hints": [
+        "Jaadu-ki-jhappi",
+        "Circuit-bhai",
+        "Medical-college",
+        "Carrom-juice"
+      ]
+    },
+    {
+      "word": "Hera Pheri",
+      "hints": [
+        "Babu-Bhaiya-style",
+        "Devi-Prasad-phone",
+        "Paisa-hi-paisa",
+        "Raju-Shyam"
+      ]
+    },
+    {
+      "word": "Kantara",
+      "hints": [
+        "Bhoota-Kola-spirit",
+        "Daiva-cry",
+        "Sacred-forest",
+        "Ancestral-land"
+      ]
+    },
+    {
+      "word": "Pushpa",
+      "hints": [
+        "Jhukega-nahi",
+        "Red-sandalwood",
+        "Shoulder-shrug",
+        "Srivalli"
+      ]
+    },
+    {
+      "word": "Jawan",
+      "hints": [
+        "Metro-dance",
+        "Bandage-mask",
+        "Azad-father",
+        "Vikram-Rathore"
+      ]
+    },
+    {
+      "word": "Pathaan",
+      "hints": [
+        "Raw-agent",
+        "Train-cameo",
+        "Jim-villain",
+        "Besharam-rang"
+      ]
+    },
+    {
+      "word": "Stree",
+      "hints": [
+        "O-Stree-kal-aana",
+        "Chanderi-ghost",
+        "Pankaj-Tripathi",
+        "Braids"
+      ]
+    },
+    {
+      "word": "Titanic",
+      "hints": [
+        "Iceberg-collision",
+        "Jack-and-Rose",
+        "Heart-of-ocean",
+        "Ship-railing"
+      ]
+    },
+    {
+      "word": "Avatar",
+      "hints": [
+        "Pandora-moon",
+        "Na-vi-blue",
+        "Floating-mountains",
+        "Banshee-bird"
+      ]
+    },
+    {
+      "word": "Avengers: Endgame",
+      "hints": [
+        "Thanos-snap",
+        "Ironman-sacrifice",
+        "Assemble-command",
+        "Time-travel"
+      ]
+    },
+    {
+      "word": "Spider-Man",
+      "hints": [
+        "Multiverse-portal",
+        "Great-responsibility",
+        "Three-spiders",
+        "Web-shooter"
+      ]
+    },
+    {
+      "word": "Inception",
+      "hints": [
+        "Dream-levels",
+        "Spinning-totem",
+        "Gravity-hallway",
+        "Subconscious"
+      ]
+    },
+    {
+      "word": "Interstellar",
+      "hints": [
+        "Blackhole-Gargantua",
+        "Time-dilation-waves",
+        "Bookshelf-gravity",
+        "Cornfield"
+      ]
+    },
+    {
+      "word": "The Dark Knight (Batman)",
+      "hints": [
+        "Why-so-serious",
+        "Joker-chaos",
+        "Gotham-vigilante",
+        "Two-face-coin"
+      ]
+    },
+    {
+      "word": "Harry Potter",
+      "hints": [
+        "Hogwarts-school",
+        "Lightning-scar",
+        "Platform-nine-three-quarters",
+        "Magic-wand"
+      ]
+    },
+    {
+      "word": "Jurassic Park",
+      "hints": [
+        "Cloned-dinosaurs",
+        "T-Rex-roar",
+        "Water-ripple",
+        "Isla-Nublar"
+      ]
+    },
+    {
+      "word": "The Lion King",
+      "hints": [
+        "Hakuna-Matata",
+        "Pride-rock",
+        "Simba-Scar",
+        "Circle-of-life"
+      ]
+    },
+    {
+      "word": "Oppenheimer",
+      "hints": [
+        "Atomic-bomb",
+        "Manhattan-project",
+        "Trinity-test",
+        "Bhagavad-Gita-quote"
+      ]
+    },
+    {
+      "word": "Gangs of Wasseypur",
+      "hints": [
+        "Coal-mafia",
+        "Sardar-Khan",
+        "Faizal-revenge",
+        "Dhanbad"
+      ]
+    },
+    {
+      "word": "Andhadhun",
+      "hints": [
+        "Blind-pianist",
+        "Fake-blindness",
+        "Murder-flat",
+        "Rabbit-cane"
+      ]
+    },
+    {
+      "word": "Drishyam",
+      "hints": [
+        "Second-October-alibi",
+        "Cable-operator",
+        "Pav-bhaji-Panaji",
+        "Buried-station"
+      ]
+    },
+    {
+      "word": "Tumbbad",
+      "hints": [
+        "Hastar-demon",
+        "Gold-coin-womb",
+        "Flour-doll",
+        "Raining-curse"
+      ]
+    },
+    {
+      "word": "Gully Boy",
+      "hints": [
+        "Apna-time-aayega",
+        "Dharavi-rap",
+        "Mic-cypher",
+        "MC-Sher"
+      ]
+    },
+    {
+      "word": "Queen",
+      "hints": [
+        "Solo-honeymoon",
+        "Paris-Amsterdam",
+        "Hungama-dance",
+        "Rani-Delhi"
+      ]
+    },
+    {
+      "word": "Barfi!",
+      "hints": [
+        "Murphy-radio",
+        "Darjeeling-clock",
+        "Mute-whistle",
+        "Jhilmil"
+      ]
+    },
+    {
+      "word": "Swades",
+      "hints": [
+        "NASA-scientist",
+        "Kaveri-Amma",
+        "Water-cup-train",
+        "Village-light"
+      ]
+    }
+  ]
+}

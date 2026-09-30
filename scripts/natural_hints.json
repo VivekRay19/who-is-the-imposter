@@ -1,0 +1,4329 @@
+{
+  "Buffalo": [
+    "Grassland herd",
+    "Curved horns",
+    "Mud bathing",
+    "Heavy weight",
+    "Plains grazer"
+  ],
+  "Tiger": [
+    "Stripes",
+    "Jungle",
+    "Predator",
+    "Big cat",
+    "Orange",
+    "Sharp claws"
+  ],
+  "Lion": [
+    "Mane",
+    "Savannah",
+    "Roar",
+    "Pride",
+    "Golden",
+    "Wild"
+  ],
+  "Elephant": [
+    "Trunk",
+    "Huge",
+    "Ears",
+    "Wild",
+    "Grey",
+    "Safari"
+  ],
+  "Leopard": [
+    "Tree climber",
+    "Spotted fur",
+    "Night stalker",
+    "Stealthy leap",
+    "African predator"
+  ],
+  "Rhino": [
+    "Thick skin",
+    "Front horn",
+    "Heavy charge",
+    "Mud bath",
+    "Grassland herbivore"
+  ],
+  "Bear": [
+    "Winter hibernation",
+    "Thick fur",
+    "Honey lover",
+    "Forest dweller",
+    "Sharp claws"
+  ],
+  "Snow Leopard": [
+    "High mountains",
+    "Camouflage fur",
+    "Thick tail",
+    "Rocky cliffs",
+    "Cold climate"
+  ],
+  "King Cobra": [
+    "Spreading hood",
+    "Venomous bite",
+    "Slithering hunter",
+    "Hissing sound",
+    "Reptile kingdom"
+  ],
+  "Crocodile": [
+    "Swamp ambush",
+    "Powerful jaws",
+    "Scaly armor",
+    "Floating silently",
+    "River predator"
+  ],
+  "Pangolin": [
+    "Hard scales",
+    "Curled into ball",
+    "Ant eater",
+    "Burrow digger",
+    "Nocturnal walker"
+  ],
+  "Nilgai": [
+    "Blue bull",
+    "Forest grazer",
+    "Fast runner",
+    "High brush",
+    "Large antelope"
+  ],
+  "Blackbuck": [
+    "Spiral horns",
+    "High leaping",
+    "Open plains",
+    "Fast sprinter",
+    "Distinct coat"
+  ],
+  "Spotted Deer": [
+    "White spots",
+    "Branching antlers",
+    "Forest grazer",
+    "Timid runner",
+    "Gentle herd"
+  ],
+  "Wolf": [
+    "Moon howling",
+    "Pack hunter",
+    "Canine leader",
+    "Winter forest",
+    "Alpha animal"
+  ],
+  "Jackal": [
+    "Clever scavenger",
+    "Night howling",
+    "Desert wanderer",
+    "Sharp senses",
+    "Pack runner"
+  ],
+  "Fox": [
+    "Bushy tail",
+    "Clever tricks",
+    "Forest burrow",
+    "Red fur",
+    "Sneaky hunter"
+  ],
+  "Hyena": [
+    "Laughing call",
+    "Bone crusher",
+    "Savannah scavenger",
+    "Strong jaws",
+    "Pack wanderer"
+  ],
+  "Wild Boar": [
+    "Snout digger",
+    "Curved tusks",
+    "Forest roots",
+    "Bristly hair",
+    "Tough fighter"
+  ],
+  "Langur": [
+    "Long tail",
+    "Black face",
+    "Tree leaping",
+    "Temple troop",
+    "High branches"
+  ],
+  "Monkey": [
+    "Canopy climber",
+    "Playful troop",
+    "Tail swinging",
+    "Banana lover",
+    "Chattering calls"
+  ],
+  "Camel": [
+    "Desert humps",
+    "Water saver",
+    "Sand walker",
+    "Caravan traveler",
+    "Thorn eater"
+  ],
+  "Horse": [
+    "Fast gallop",
+    "Flowing mane",
+    "Stable dweller",
+    "Riding saddle",
+    "Loud neigh"
+  ],
+  "Donkey": [
+    "Long ears",
+    "Carrying loads",
+    "Stubborn worker",
+    "Farm helper",
+    "Loud bray"
+  ],
+  "Cow": [
+    "Farm pasture",
+    "Fresh milk",
+    "Chewing cud",
+    "Gentle grazer",
+    "Mooing sound"
+  ],
+  "Goat": [
+    "Mountain climber",
+    "Curved horns",
+    "Chewing grass",
+    "Farm pen",
+    "Bleating sound"
+  ],
+  "Sheep": [
+    "Woolly fleece",
+    "Pasture flock",
+    "Fluffy white",
+    "Herding dog",
+    "Gentle bleat"
+  ],
+  "Dog": [
+    "Loyal companion",
+    "Wagging tail",
+    "Barking guard",
+    "Playing fetch",
+    "Fur friend"
+  ],
+  "Cat": [
+    "Quiet purring",
+    "Sharp whiskers",
+    "Night hunter",
+    "Soft paws",
+    "High jumper"
+  ],
+  "Rabbit": [
+    "Long floppy ears",
+    "Quick hopping",
+    "Burrow home",
+    "Carrot muncher",
+    "Fluffy tail"
+  ],
+  "Otter": [
+    "River swimmer",
+    "Playful slide",
+    "Water sleek",
+    "Fish catcher",
+    "Webbed paws"
+  ],
+  "Gharial": [
+    "Narrow snout",
+    "River basking",
+    "Fish hunter",
+    "Long jaws",
+    "Scaly reptile"
+  ],
+  "Monitor Lizard": [
+    "Forked tongue",
+    "Climbing tree",
+    "Scaly body",
+    "Sharp claws",
+    "Forest crawl"
+  ],
+  "Chameleon": [
+    "Color changing",
+    "Swiveling eyes",
+    "Prehensile tail",
+    "Long tongue",
+    "Tree branch"
+  ],
+  "Tortoise": [
+    "Hard shell",
+    "Slow walker",
+    "Hiding head",
+    "Long life",
+    "Garden grazer"
+  ],
+  "Dolphin": [
+    "Ocean jumper",
+    "Clicking sounds",
+    "Playful pod",
+    "Curved fin",
+    "Smart swimmer"
+  ],
+  "Mongoose": [
+    "Snake fighter",
+    "Fast reflexes",
+    "Burrow hunter",
+    "Bushy coat",
+    "Nimble body"
+  ],
+  "Squirrel": [
+    "Bushy tail",
+    "Nut collector",
+    "Tree runner",
+    "Quick hops",
+    "Acorn stash"
+  ],
+  "Deer": [
+    "Branching antlers",
+    "Forest grazer",
+    "Gentle eyes",
+    "Fast runner",
+    "Timid herd"
+  ],
+  "Zebra": [
+    "Black and white stripes",
+    "African plains",
+    "Wild herd",
+    "Grass grazer",
+    "Fast trotter"
+  ],
+  "Mango": [
+    "Sweet",
+    "Tropical",
+    "Yellow",
+    "Summer",
+    "Juicy",
+    "Orchard"
+  ],
+  "Banana": [
+    "Yellow",
+    "Peel",
+    "Sweet",
+    "Bunch",
+    "Curve",
+    "Potassium"
+  ],
+  "Apple": [
+    "Red",
+    "Crunchy",
+    "Tree",
+    "Sweet",
+    "Fruit",
+    "Seeds"
+  ],
+  "Papaya": [
+    "Black pepper seeds",
+    "Orange sweet flesh",
+    "Tropical fruit",
+    "Soft skin",
+    "Melon shape"
+  ],
+  "Guava": [
+    "Hard tiny seeds",
+    "Pink or white inside",
+    "Sweet aroma",
+    "Green bumpy skin",
+    "Tropical bite"
+  ],
+  "Orange": [
+    "Juicy segments",
+    "Peeling zest",
+    "Citrus breakfast",
+    "Vitamin C",
+    "Round bright color"
+  ],
+  "Sweet Lime": [
+    "Green citrus",
+    "Refreshing juice",
+    "Roadside stall",
+    "Mild sweet taste",
+    "Thin skin"
+  ],
+  "Pomegranate": [
+    "Ruby jewel seeds",
+    "Hard red rind",
+    "Crown on top",
+    "Sweet tart crunch",
+    "Red juice"
+  ],
+  "Watermelon": [
+    "Green striped rind",
+    "Red juicy slice",
+    "Black seeds inside",
+    "Summer thirst quencher",
+    "Heavy fruit"
+  ],
+  "Muskmelon": [
+    "Netted outer skin",
+    "Sweet orange flesh",
+    "Central seed cluster",
+    "Aromatic summer melon",
+    "Soft slices"
+  ],
+  "Grapes": [
+    "Hanging cluster",
+    "Green or purple",
+    "Vineyard harvest",
+    "Bite sized sweet",
+    "Juice pressing"
+  ],
+  "Pineapple": [
+    "Spiky outer crown",
+    "Golden yellow rings",
+    "Rough textured skin",
+    "Tropical sweetness",
+    "Prickly fruit"
+  ],
+  "Lychee": [
+    "Rough red shell",
+    "Translucent sweet fruit",
+    "Shiny brown seed",
+    "Summer delicacy",
+    "Floral aroma"
+  ],
+  "Coconut": [
+    "Shell",
+    "Palm tree",
+    "Hard outside",
+    "Coconut water",
+    "Inside a shell",
+    "White flesh"
+  ],
+  "Custard Apple": [
+    "Bumpy green skin",
+    "Sweet creamy pulp",
+    "Many black seeds",
+    "Soft scooped fruit",
+    "Winter treat"
+  ],
+  "Jamun": [
+    "Deep purple stain",
+    "Sweet tart berry",
+    "Monsoon season",
+    "Black plum fruit",
+    "Dark oval"
+  ],
+  "Chikoo": [
+    "Brown fuzzy skin",
+    "Sweet grainy pulp",
+    "Sapodilla fruit",
+    "Black seeds",
+    "Malted sweetness"
+  ],
+  "Fig": [
+    "Chewy crunchy seeds",
+    "Sweet teardrop fruit",
+    "Wrinkled skin",
+    "Dried delicacy",
+    "Ancient tree"
+  ],
+  "Dragon Fruit": [
+    "Vibrant pink scales",
+    "White speckled flesh",
+    "Tiny black seeds",
+    "Cactus fruit",
+    "Mild sweetness"
+  ],
+  "Kiwi": [
+    "Brown fuzzy skin",
+    "Bright green center",
+    "Ring of tiny seeds",
+    "Tangy slice",
+    "Egg shaped"
+  ],
+  "Strawberry": [
+    "Heart shaped red",
+    "Seeds on outside",
+    "Green leafy cap",
+    "Sweet cake topping",
+    "Berry patch"
+  ],
+  "Blueberry": [
+    "Deep indigo color",
+    "Muffin baking",
+    "Tiny sweet sphere",
+    "Pancake topping",
+    "Small berry"
+  ],
+  "Peach": [
+    "Velvety fuzzy skin",
+    "Sweet stone fruit",
+    "Juicy blush color",
+    "Orchard harvest",
+    "Center pit"
+  ],
+  "Plum": [
+    "Smooth purple skin",
+    "Sweet and sour",
+    "Center stone seed",
+    "Prune when dried",
+    "Juicy bite"
+  ],
+  "Cherry": [
+    "Paired stems",
+    "Deep glossy red",
+    "Cake topping",
+    "Sweet little sphere",
+    "Center pit"
+  ],
+  "Pear": [
+    "Narrow bell shape",
+    "Crisp sweet flesh",
+    "Smooth green skin",
+    "Orchard harvest",
+    "Core inside"
+  ],
+  "Avocado": [
+    "Creamy green center",
+    "Large round pit",
+    "Rough dark skin",
+    "Guacamole base",
+    "Salad fruit"
+  ],
+  "Apricot": [
+    "Golden orange skin",
+    "Soft sweet fruit",
+    "Velvety surface",
+    "Dried snack",
+    "Small stone pit"
+  ],
+  "Jackfruit": [
+    "Huge spiky fruit",
+    "Sticky yellow bulbs",
+    "Tree trunk hanging",
+    "Sweet strong aroma",
+    "Heavy weight"
+  ],
+  "Tamarind": [
+    "Brown curved pod",
+    "Tangy sour paste",
+    "Chutney base",
+    "Sticky pulp",
+    "Tree pods"
+  ],
+  "Starfruit": [
+    "Five pointed star",
+    "Yellow crisp ridges",
+    "Waxy juicy slice",
+    "Tangy sweet",
+    "Tropical star"
+  ],
+  "Passion Fruit": [
+    "Purple wrinkled rind",
+    "Jelly seed scoop",
+    "Aromatic tart flavor",
+    "Tropical vine",
+    "Juice drink"
+  ],
+  "Mulberry": [
+    "Long dark berry",
+    "Silkworm tree",
+    "Sweet summer drop",
+    "Staining fingers",
+    "Branch cluster"
+  ],
+  "Raspberry": [
+    "Hollow center cup",
+    "Soft ruby red",
+    "Delicate sweet berry",
+    "Bramble bush",
+    "Bumpy texture"
+  ],
+  "Blackberry": [
+    "Dark shiny cluster",
+    "Thorny bush",
+    "Sweet tart juice",
+    "Forest berry",
+    "Bumpy surface"
+  ],
+  "Cranberry": [
+    "Tart sour red",
+    "Holiday sauce",
+    "Bog water harvest",
+    "Juicy small berry",
+    "Thanksgiving dinner"
+  ],
+  "Grapefruit": [
+    "Bitter sweet citrus",
+    "Pink juicy halves",
+    "Morning breakfast",
+    "Large round citrus",
+    "Thick rind"
+  ],
+  "Lemon": [
+    "Sour yellow citrus",
+    "Squeezed juice",
+    "Zesty flavor",
+    "Salad dressing",
+    "Citrus slice"
+  ],
+  "Date Fruit": [
+    "Sweet brown treat",
+    "Desert palm harvest",
+    "Wrinkled skin",
+    "Sticky energy fruit",
+    "Center pit"
+  ],
+  "Raw Mango": [
+    "Tangy green fruit",
+    "Spicy pickle base",
+    "Crunchy sour slice",
+    "Summer salt snack",
+    "Unripe harvest"
+  ],
+  "Potato": [
+    "Brown",
+    "Earthy",
+    "Fries",
+    "Mashed",
+    "Starch",
+    "Underground"
+  ],
+  "Onion": [
+    "Layers",
+    "Tears",
+    "Sharp flavor",
+    "Pungent",
+    "Cooking base",
+    "Brown skin"
+  ],
+  "Tomato": [
+    "Red",
+    "Juicy",
+    "Salad",
+    "Round",
+    "Sauce",
+    "Vine"
+  ],
+  "Cauliflower": [
+    "White tree shape",
+    "Curry florets",
+    "Green leaves wrap",
+    "Winter vegetable",
+    "Crunchy head"
+  ],
+  "Cabbage": [
+    "Layered green ball",
+    "Shredded slaw",
+    "Crisp leaves",
+    "Salad roll",
+    "Tightly wrapped head"
+  ],
+  "Green Peas": [
+    "Sweet green spheres",
+    "Popping open pod",
+    "Rice pulao mix",
+    "Winter harvest",
+    "Fresh pods"
+  ],
+  "Spinach": [
+    "Dark green leaves",
+    "Iron rich cooking",
+    "Boiled puree dish",
+    "Salad greens",
+    "Healthy bunch"
+  ],
+  "Okra": [
+    "Five sided pod",
+    "Sticky inside seeds",
+    "Ladies finger",
+    "Crispy fried slices",
+    "Green tip pod"
+  ],
+  "Brinjal": [
+    "Glossy purple skin",
+    "Green cap on top",
+    "Soft roasted pulp",
+    "Eggplant curry",
+    "Smooth vegetable"
+  ],
+  "Ginger": [
+    "Knotted brown root",
+    "Spicy tea flavor",
+    "Zesty cooking paste",
+    "Underground rhizome",
+    "Peeling thin skin"
+  ],
+  "Garlic": [
+    "White paper cloves",
+    "Strong cooking aroma",
+    "Crushed flavor",
+    "Small bulb cluster",
+    "Pasta seasoning"
+  ],
+  "Carrot": [
+    "Orange",
+    "Crunchy",
+    "Rabbit",
+    "Root",
+    "Healthy",
+    "Vegetable"
+  ],
+  "Radish": [
+    "White crunchy root",
+    "Spicy peppery bite",
+    "Salad slices",
+    "Winter paratha",
+    "Green leafy top"
+  ],
+  "Beetroot": [
+    "Deep red color",
+    "Staining purple juice",
+    "Sweet earthy root",
+    "Salad slices",
+    "Healthy drink"
+  ],
+  "Capsicum": [
+    "Hollow bell shape",
+    "Green pizza topping",
+    "Crisp crunchy slices",
+    "Seeds inside core",
+    "Stir fry vegetable"
+  ],
+  "Bitter Gourd": [
+    "Bumpy green skin",
+    "Bitter herbal taste",
+    "Fried round chips",
+    "Healthy medicine",
+    "Rough vegetable"
+  ],
+  "Bottle Gourd": [
+    "Long pale green",
+    "Water rich vegetable",
+    "Light vegetable curry",
+    "Smooth skin",
+    "Cooling vegetable"
+  ],
+  "Ridge Gourd": [
+    "Sharp raised ridges",
+    "Soft spongy inside",
+    "Green peeled skin",
+    "Simple home curry",
+    "Tender vegetable"
+  ],
+  "Snake Gourd": [
+    "Long winding body",
+    "White stripes skin",
+    "Light summer gourd",
+    "Thin sliced curry",
+    "Curling vegetable"
+  ],
+  "Pumpkin": [
+    "Large orange sphere",
+    "Thick outer shell",
+    "Halloween carving",
+    "Sweet vegetable soup",
+    "Heavy garden giant"
+  ],
+  "Sweet Potato": [
+    "Red purple skin",
+    "Sweet orange starch",
+    "Roasted winter snack",
+    "Boiled root",
+    "Underground sweet"
+  ],
+  "Mushroom": [
+    "Umbrella cap shape",
+    "Soft white stem",
+    "Pizza topping",
+    "Forest floor",
+    "Savory bite"
+  ],
+  "Broccoli": [
+    "Green bushy tree",
+    "Steamed healthy diet",
+    "Tiny flower buds",
+    "Crisp stem",
+    "Salad florets"
+  ],
+  "Cucumber": [
+    "Cooling watery crunch",
+    "Green salad slices",
+    "Skin care eyes",
+    "Summer hydration",
+    "Thin skin"
+  ],
+  "Green Chilli": [
+    "Spicy fiery bite",
+    "Thin green pod",
+    "Cooking heat",
+    "Small spicy kick",
+    "Curry seasoning"
+  ],
+  "Coriander": [
+    "Garnishing green leaves",
+    "Fresh herbal aroma",
+    "Chutney base",
+    "Sprinkled on curry",
+    "Delicate stems"
+  ],
+  "Mint": [
+    "Cooling fresh aroma",
+    "Green chutney leaves",
+    "Lemonade garnish",
+    "Refreshing tea",
+    "Fragrant herb"
+  ],
+  "Curry Leaves": [
+    "Aromatic tempering",
+    "South Indian flavor",
+    "Tadka seasoning",
+    "Glossy dark leaves",
+    "Fragrant stem"
+  ],
+  "Fenugreek": [
+    "Slightly bitter leaves",
+    "Winter paratha green",
+    "Spiced seed",
+    "Aromatic herb",
+    "Small leafy bunch"
+  ],
+  "Drumstick": [
+    "Long grooved pod",
+    "Sambar soup staple",
+    "Chewed for pulp",
+    "Tree hanging pod",
+    "Slender green pod"
+  ],
+  "Lady Finger": [
+    "Slender green pod",
+    "Sticky inside seeds",
+    "Fried crunchy snack",
+    "Tapered point",
+    "Stir fry favorite"
+  ],
+  "Turnip": [
+    "Purple white bulb",
+    "Crisp winter root",
+    "Pickle vegetable",
+    "Boiled stew",
+    "Mild radish taste"
+  ],
+  "Taro Root": [
+    "Fuzzy brown skin",
+    "Starchy slimy texture",
+    "Fried crispy chips",
+    "Boiled curry root",
+    "Underground tuber"
+  ],
+  "Yam": [
+    "Rough bark skin",
+    "Large heavy root",
+    "Festive roasted dish",
+    "Starchy vegetable",
+    "Underground tuber"
+  ],
+  "Ash Gourd": [
+    "White chalky skin",
+    "Petha sweet base",
+    "Juicy cooling melon",
+    "Light curry vegetable",
+    "Large grey gourd"
+  ],
+  "Pointed Gourd": [
+    "Small green striped",
+    "Parwal curry",
+    "Stuffed vegetable",
+    "Summer gourd",
+    "Pointed ends"
+  ],
+  "Ivy Gourd": [
+    "Tiny cucumber shape",
+    "Crispy stir fry",
+    "Kundru vegetable",
+    "Crunchy small bites",
+    "Climbing vine"
+  ],
+  "Spring Onion": [
+    "Long green stalks",
+    "White small bulb",
+    "Chinese fried rice",
+    "Salad garnish",
+    "Crisp fresh onion"
+  ],
+  "Lettuce": [
+    "Crisp salad leaves",
+    "Burger wrap base",
+    "Light green foliage",
+    "Tossed salad bowl",
+    "Crunchy water leaves"
+  ],
+  "Bell Pepper": [
+    "Colorful shiny skin",
+    "Hollow inside seeds",
+    "Fajita slices",
+    "Sweet crunchy bite",
+    "Yellow red green"
+  ],
+  "Peacock": [
+    "Rain dancer",
+    "Eye pattern feathers",
+    "Royal bird",
+    "Fan tail display",
+    "Crown on head"
+  ],
+  "Kingfisher": [
+    "Water dive hunter",
+    "Bright blue back",
+    "Long sharp beak",
+    "Riverbank perching",
+    "Fast fisher"
+  ],
+  "Parrot": [
+    "Talking mimic",
+    "Curved red beak",
+    "Green bright feathers",
+    "Chilli muncher",
+    "Cage pet"
+  ],
+  "Pigeon": [
+    "City rooftop flock",
+    "Bobbing head walk",
+    "Grey feathers neck",
+    "Cooing sound",
+    "Breadcrumb eater"
+  ],
+  "Crow": [
+    "Clever black bird",
+    "Loud cawing",
+    "Tree branch perch",
+    "City scavenger",
+    "Shiny eye"
+  ],
+  "Sparrow": [
+    "Tiny brown bird",
+    "Window sill hops",
+    "Sweet chirping",
+    "Grain pecking",
+    "Garden visitor"
+  ],
+  "Eagle": [
+    "High soaring",
+    "Sharp curved talons",
+    "Mountain nest",
+    "Piercing gaze",
+    "Apex raptor"
+  ],
+  "Owl": [
+    "Night turning head",
+    "Silent wing flight",
+    "Hooting in dark",
+    "Large round eyes",
+    "Barn hunter"
+  ],
+  "Vulture": [
+    "High circle glide",
+    "Savannah scavenger",
+    "Bare neck head",
+    "Sharp beak",
+    "Bone finder"
+  ],
+  "Duck": [
+    "Pond paddle",
+    "Yellow flat bill",
+    "Quacking sound",
+    "Waterproof feathers",
+    "Waddling walk"
+  ],
+  "Swan": [
+    "Long graceful neck",
+    "Pure white feathers",
+    "Lake gliding",
+    "Mating for life",
+    "Calm waters"
+  ],
+  "Goose": [
+    "V formation flying",
+    "Loud honking",
+    "Grass grazing",
+    "Farm protector",
+    "Migrating flock"
+  ],
+  "Flamingo": [
+    "Standing on one leg",
+    "Pink curved beak",
+    "Muddy lake wading",
+    "Shrimp eater",
+    "Tall slender bird"
+  ],
+  "Woodpecker": [
+    "Tree trunk tapping",
+    "Sharp pointed beak",
+    "Stiff tail support",
+    "Bark bug hunter",
+    "Rapid drum beat"
+  ],
+  "Hummingbird": [
+    "Hovering in place",
+    "Flower nectar sipper",
+    "Fast buzzing wings",
+    "Tiny colorful body",
+    "Flying backwards"
+  ],
+  "Pelican": [
+    "Large throat pouch",
+    "Scooping ocean fish",
+    "Coastline flock",
+    "Wide wing span",
+    "Water diver"
+  ],
+  "Seagull": [
+    "Beach fries stealer",
+    "Coastline gliding",
+    "Loud ocean call",
+    "Pier perching",
+    "White grey wings"
+  ],
+  "Penguin": [
+    "Antarctic ice sliding",
+    "Tuxedo feathers",
+    "Deep water swimmer",
+    "Waddling walk",
+    "Huddling in cold"
+  ],
+  "Ostrich": [
+    "Fastest running bird",
+    "Giant ground egg",
+    "Cannot fly",
+    "Tall strong legs",
+    "Desert runner"
+  ],
+  "Cuckoo": [
+    "Springtime melody",
+    "Laying eggs in nests",
+    "Hidden tree caller",
+    "Koo koo sound",
+    "Forest singer"
+  ],
+  "Myna": [
+    "Yellow eye patch",
+    "Chattering mimic",
+    "Garden lawn walks",
+    "Brown shiny bird",
+    "City companion"
+  ],
+  "Hornbill": [
+    "Huge curved casque",
+    "Canopy fruit eater",
+    "Loud wing beats",
+    "Tree cavity nest",
+    "Forest giant"
+  ],
+  "Bulbul": [
+    "Red whiskered cheek",
+    "Sweet garden song",
+    "Crested head top",
+    "Berry pecker",
+    "Active flutter"
+  ],
+  "Crane": [
+    "Tall extending steel boom",
+    "Heavy cable hook hoist",
+    "Lifting high skyscraper",
+    "Rotating cab turret",
+    "Building site giant"
+  ],
+  "Stork": [
+    "Roof chimney nest",
+    "Baby delivery myth",
+    "Wetland walker",
+    "Long straight bill",
+    "Quiet glider"
+  ],
+  "Heron": [
+    "Motionless fishing",
+    "S shaped curved neck",
+    "Pond bank hunter",
+    "Grey long feathers",
+    "Sudden strike"
+  ],
+  "Kite": [
+    "City sky soaring",
+    "Forked tail feathers",
+    "Food swooping",
+    "Thermal glider",
+    "Sharp eyesight"
+  ],
+  "Falcon": [
+    "High speed dive",
+    "Pointed wing tips",
+    "Hunting raptor",
+    "Wind cutter",
+    "Fierce predator"
+  ],
+  "Swallow": [
+    "Forked tail flight",
+    "Mud cup nest",
+    "Catching bugs in air",
+    "Spring herald",
+    "Acrobatic flyer"
+  ],
+  "Quail": [
+    "Small rounded body",
+    "Ground running flock",
+    "Spotted speckled eggs",
+    "Brush hiding",
+    "Whistling call"
+  ],
+  "Partridge": [
+    "Short winged flyer",
+    "Farmland runner",
+    "Winter covey",
+    "Ground nester",
+    "Pear tree rhyme"
+  ],
+  "Weaver Bird": [
+    "Hanging woven nest",
+    "Grass blade architect",
+    "Palm tree colony",
+    "Yellow breeding bird",
+    "Master builder"
+  ],
+  "Tailorbird": [
+    "Sewing leaf nest",
+    "Plant fiber stitching",
+    "Loud garden chirp",
+    "Restless tail flick",
+    "Tiny green bird"
+  ],
+  "Koel": [
+    "Sweet monsoon voice",
+    "Glossy black male",
+    "Hiding in leaves",
+    "Early morning call",
+    "Singing bird"
+  ],
+  "Sunbird": [
+    "Curved nectar beak",
+    "Metallic shiny throat",
+    "Flower hopper",
+    "Hanging pouch nest",
+    "Tiny jewel bird"
+  ],
+  "Cockatoo": [
+    "Feather crest rise",
+    "Loud screeching",
+    "White cage companion",
+    "Playful dance",
+    "Curved beak"
+  ],
+  "Macaw": [
+    "Vibrant jungle colors",
+    "Long tail feathers",
+    "Nut cracking beak",
+    "Rainforest canopy",
+    "Paired flyers"
+  ],
+  "Toucan": [
+    "Huge rainbow bill",
+    "Rainforest fruit eater",
+    "Tree hollow nest",
+    "Jungle silhouette",
+    "Bright beak"
+  ],
+  "Albatross": [
+    "Longest wing span",
+    "Months over ocean",
+    "Gliding wave crests",
+    "Ocean wanderer",
+    "Seafaring bird"
+  ],
+  "Turkey": [
+    "Two continents bridge",
+    "Hot air balloon valley",
+    "Grand spice bazaar",
+    "Blue mosque domes",
+    "Bosphorus strait waters"
+  ],
+  "Mosquito": [
+    "Night buzzing sound",
+    "Itchy red bump",
+    "Water breeder",
+    "Blood sucker",
+    "Tiny wings"
+  ],
+  "Honeybee": [
+    "Hexagon wax combs",
+    "Sweet golden honey",
+    "Flower pollen dance",
+    "Buzzing worker",
+    "Hive queen"
+  ],
+  "Butterfly": [
+    "Colorful wing patterns",
+    "Caterpillar transformation",
+    "Flower nectar sipping",
+    "Gentle flutter",
+    "Garden beauty"
+  ],
+  "Cockroach": [
+    "Kitchen night runner",
+    "Long twitching antennae",
+    "Hard brown shell",
+    "Survives everything",
+    "Dark crevice hiding"
+  ],
+  "Ant": [
+    "Long marching line",
+    "Sugar crumb carrying",
+    "Underground colony",
+    "Hard working hill",
+    "Tiny strong insect"
+  ],
+  "Housefly": [
+    "Rubbing front legs",
+    "Hovering over food",
+    "Compound eyes",
+    "Quick flight escape",
+    "Summer pest"
+  ],
+  "Dragonfly": [
+    "Four transparent wings",
+    "Pond hovering predator",
+    "Long slender tail",
+    "Fast aerial acrobat",
+    "Colorful flyer"
+  ],
+  "Grasshopper": [
+    "Long hind jumping legs",
+    "Green meadow hiding",
+    "Summer buzzing song",
+    "Crop chew",
+    "High leap"
+  ],
+  "Cricket": [
+    "Willow wooden bat",
+    "Three wooden stumps",
+    "Bowling runup pitch",
+    "Twenty two yards grass",
+    "White leather ball"
+  ],
+  "Ladybug": [
+    "Red shell black spots",
+    "Garden plant protector",
+    "Aphid eater",
+    "Tiny dome insect",
+    "Lucky beetle"
+  ],
+  "Termite": [
+    "Wood eating tunnels",
+    "Mud tube trails",
+    "Underground mound",
+    "Hidden home damage",
+    "Silent chewer"
+  ],
+  "Wasp": [
+    "Paper nest builder",
+    "Narrow pinched waist",
+    "Yellow black stripes",
+    "Painful sting",
+    "Aggressive guard"
+  ],
+  "Hornet": [
+    "Large angry sting",
+    "Tree hollow nest",
+    "Predatory insect",
+    "Loud buzzing flyer",
+    "Fierce colony"
+  ],
+  "Moth": [
+    "Flying toward light",
+    "Dusty fuzzy wings",
+    "Night flapper",
+    "Cocoon spinner",
+    "Wool sweater chewer"
+  ],
+  "Silkworm": [
+    "Mulberry leaf muncher",
+    "Spinning shiny thread",
+    "Soft white caterpillar",
+    "Fabric cocoon",
+    "Textile maker"
+  ],
+  "Centipede": [
+    "Dozens of fast legs",
+    "Venomous night hunter",
+    "Under rock crawling",
+    "Long segmented body",
+    "Quick slither"
+  ],
+  "Millipede": [
+    "Hundreds of tiny feet",
+    "Curling into tight spiral",
+    "Slow damp soil walker",
+    "Forest decomposer",
+    "Harmless crawler"
+  ],
+  "Scorpion": [
+    "Curved tail stinger",
+    "Front grasping pincers",
+    "Desert rock hiding",
+    "Glows in UV light",
+    "Night arachnid"
+  ],
+  "Spider": [
+    "Eight hairy legs",
+    "Spinning silk web",
+    "Fly trap predator",
+    "Corner ceiling dweller",
+    "Many eyes"
+  ],
+  "Tick": [
+    "Blood sucking parasite",
+    "Tall grass clinger",
+    "Swelling body",
+    "Dog fur hitchhiker",
+    "Tiny crawler"
+  ],
+  "Bedbug": [
+    "Mattress seam hiding",
+    "Night bite bumps",
+    "Flat oval body",
+    "Hotel traveler pest",
+    "Blood feeder"
+  ],
+  "Louse": [
+    "Hair strand clinger",
+    "Itchy scalp parasite",
+    "Fine comb removal",
+    "Tiny egg nits",
+    "School sharing pest"
+  ],
+  "Flea": [
+    "Super high jumper",
+    "Dog and cat host",
+    "Tiny flat insect",
+    "Itchy animal scratch",
+    "Carpet pest"
+  ],
+  "Firefly": [
+    "Glowing yellow light",
+    "Summer night flicker",
+    "Blinking in dark",
+    "Cool chemical glow",
+    "Magical meadow"
+  ],
+  "Beetle": [
+    "Hard armor wing covers",
+    "Strong horned head",
+    "Crawling on ground",
+    "Forest scavenger",
+    "Tough insect"
+  ],
+  "Dung Beetle": [
+    "Rolling manure balls",
+    "Super strength pusher",
+    "Navigating by stars",
+    "Soil fertilizer",
+    "Hard shell worker"
+  ],
+  "Praying Mantis": [
+    "Folded front grasping arms",
+    "Swiveling triangle head",
+    "Camouflage ambush",
+    "Still like a leaf",
+    "Green predator"
+  ],
+  "Stick Insect": [
+    "Looks like tree twig",
+    "Invisible on branch",
+    "Slow swaying walk",
+    "Leaf camouflage",
+    "Long thin body"
+  ],
+  "Leaf Insect": [
+    "Looks like green leaf",
+    "Veins on wing covers",
+    "Forest canopy disguise",
+    "Nibbled edge camouflage",
+    "Gentle herbivore"
+  ],
+  "Cicada": [
+    "Loud summer trees scream",
+    "Buried for seventeen years",
+    "Shell shed on bark",
+    "Deafening chorus",
+    "Hot day sound"
+  ],
+  "Mayfly": [
+    "Lives for single day",
+    "River swarm cloud",
+    "Two long tail threads",
+    "Clear delicate wings",
+    "Trout fish food"
+  ],
+  "Aphid": [
+    "Sucking plant sap",
+    "Garden rose pest",
+    "Ant herd sweet drops",
+    "Tiny soft bugs",
+    "Leaf underside"
+  ],
+  "Weevil": [
+    "Long snout drill",
+    "Stored grain chewer",
+    "Kitchen pantry pest",
+    "Hard tiny beetle",
+    "Rice bag bug"
+  ],
+  "Silverfish": [
+    "Shimmering grey runner",
+    "Old book page chewer",
+    "Bathroom floor slither",
+    "Tear shaped body",
+    "Fish like movement"
+  ],
+  "Earwig": [
+    "Pincer tail forceps",
+    "Damp flower pot hiding",
+    "Flat brown body",
+    "Night garden insect",
+    "Old myth crawler"
+  ],
+  "Gnat": [
+    "Cloud of tiny bugs",
+    "Hovering in face",
+    "Damp garden swarm",
+    "Annoying summer speck",
+    "Eye hovering flyer"
+  ],
+  "Fruit Fly": [
+    "Hovering over bananas",
+    "Tiny red eye pest",
+    "Kitchen counter flyer",
+    "Rotting fruit swarmer",
+    "Rapid breeder"
+  ],
+  "Hoverfly": [
+    "Looks like stinging bee",
+    "Hovering still in air",
+    "Flower nectar feeder",
+    "Harmless garden mimic",
+    "Fast darting flyer"
+  ],
+  "Locust": [
+    "Massive swarm cloud",
+    "Devouring all crops",
+    "Desert wind traveler",
+    "Hungry jumping plague",
+    "Fields destroyer"
+  ],
+  "Bumblebee": [
+    "Fat fuzzy body",
+    "Deep loud hum",
+    "Yellow black stripes",
+    "Garden flower pollinator",
+    "Gentle giant bee"
+  ],
+  "Pressure Cooker": [
+    "Steam whistling valve",
+    "Kitchen whistle count",
+    "Fast dal cooking",
+    "Heavy lid lock",
+    "Sealed rubber gasket"
+  ],
+  "Ceiling Fan": [
+    "Three spinning blades",
+    "Overhead breeze",
+    "Wall speed dial",
+    "Summer cooling",
+    "Motor hum"
+  ],
+  "Mixer Grinder": [
+    "Stainless steel jars",
+    "Whirring pulse dial",
+    "Making spicy chutney",
+    "Kitchen countertop",
+    "Sharp blades"
+  ],
+  "Gas Stove": [
+    "Blue cooking flames",
+    "Igniting with spark",
+    "Brass burners",
+    "LPG cylinder pipe",
+    "Rotary control knobs"
+  ],
+  "Refrigerator": [
+    "Chilled food storage",
+    "Ice cube freezer",
+    "Door magnetic seal",
+    "Humming kitchen appliance",
+    "Crisper vegetable drawer"
+  ],
+  "Microwave Oven": [
+    "Rotating glass plate",
+    "Beeping timer countdown",
+    "Reheating leftovers",
+    "Quick popcorn maker",
+    "Door latch handle"
+  ],
+  "Washing Machine": [
+    "Spinning soapy drum",
+    "Laundry detergent slot",
+    "Water drain pipe",
+    "Rinse cycle buzzer",
+    "Clean fresh clothes"
+  ],
+  "Television": [
+    "Living room remote",
+    "Large flat screen",
+    "Movie night display",
+    "Changing channels",
+    "Sound speaker bar"
+  ],
+  "Water Purifier": [
+    "Drinking tap valve",
+    "Filter candle inside",
+    "Clean water storage",
+    "Kitchen wall mount",
+    "Dispensing fresh water"
+  ],
+  "Iron": [
+    "Smoothing wrinkle clothes",
+    "Hot metal plate",
+    "Steam spray button",
+    "Laundry ironing board",
+    "Heat temperature dial"
+  ],
+  "Toaster": [
+    "Popping up bread",
+    "Golden crunchy slices",
+    "Heating wire slots",
+    "Morning breakfast",
+    "Browning dial"
+  ],
+  "Electric Kettle": [
+    "Boiling hot water",
+    "Instant tea maker",
+    "Auto shutoff switch",
+    "Cordless base jug",
+    "Steam spout"
+  ],
+  "Vacuum Cleaner": [
+    "Suction hose pipe",
+    "Dust collection bag",
+    "Carpet floor cleaning",
+    "Motor humming roar",
+    "Wheel rolling base"
+  ],
+  "Air Conditioner": [
+    "Remote cooling breeze",
+    "Wall mounted split",
+    "Hot summer comfort",
+    "Temperature thermostat",
+    "Quiet cool air"
+  ],
+  "Water Heater": [
+    "Bathroom hot shower",
+    "Heating coil tank",
+    "Red green indicator",
+    "Winter morning comfort",
+    "Storage geyser"
+  ],
+  "Hair Dryer": [
+    "Blowing warm air",
+    "Styling wet hair",
+    "Handheld fan nozzle",
+    "Morning mirror routine",
+    "Hot air blower"
+  ],
+  "Blender": [
+    "Smoothie drink maker",
+    "Spinning sharp blades",
+    "Tall plastic pitcher",
+    "Crushing fruit ice",
+    "Drink button"
+  ],
+  "Induction Cooktop": [
+    "Glass touch surface",
+    "Magnetic pan heating",
+    "Flat digital cooktop",
+    "No open flame",
+    "Fast boil sensor"
+  ],
+  "Sewing Machine": [
+    "Bobbin thread needle",
+    "Foot pedal stitch",
+    "Tailor clothes repair",
+    "Spinning wheel balance",
+    "Fabric feeding plate"
+  ],
+  "Clock": [
+    "Ticking second hand",
+    "Wall hanging dial",
+    "Twelve hour numbers",
+    "Alarm morning ring",
+    "Round time keeper"
+  ],
+  "Mirror": [
+    "Glass reflection",
+    "Morning face look",
+    "Bathroom wall frame",
+    "Checking your hair",
+    "Polished glass surface"
+  ],
+  "Bed": [
+    "Soft mattress rest",
+    "Pillow head comfort",
+    "Sleeping under blanket",
+    "Night dream place",
+    "Wooden bed frame"
+  ],
+  "Sofa": [
+    "Living room cushions",
+    "Comfortable seating",
+    "Watching TV lounge",
+    "Fabric couch armrests",
+    "Guest sitting spot"
+  ],
+  "Dining Table": [
+    "Family meal gatherings",
+    "Surrounded by chairs",
+    "Food serving plates",
+    "Evening dinner setup",
+    "Flat eating surface"
+  ],
+  "Wardrobe": [
+    "Hanging coat hangers",
+    "Clothes storage doors",
+    "Folded shirts shelf",
+    "Bedroom furniture",
+    "Full length mirror"
+  ],
+  "Curtain": [
+    "Window fabric drape",
+    "Blocking sunny daylight",
+    "Sliding rod rings",
+    "Home privacy cover",
+    "Decorative cloth"
+  ],
+  "Pillow": [
+    "Soft head cushion",
+    "Resting bed sleep",
+    "Cotton filled case",
+    "Cozy bedroom rest",
+    "Feather stuffing"
+  ],
+  "Blanket": [
+    "Warm cozy wrap",
+    "Winter bed cover",
+    "Soft fleece layer",
+    "Snuggling on couch",
+    "Comfortable sleep"
+  ],
+  "Broom": [
+    "Sweeping floor dust",
+    "Long tied bristles",
+    "Daily morning clean",
+    "Corner dust pile",
+    "Handheld stick"
+  ],
+  "Mop": [
+    "Wet floor cleaner",
+    "Squeezing water bucket",
+    "Tile cleaning cloth",
+    "Long cleaning handle",
+    "Shiny floor wash"
+  ],
+  "Dustbin": [
+    "Garbage collection",
+    "Kitchen waste pedal",
+    "Trash bag liner",
+    "Corner disposal bucket",
+    "Throwing out junk"
+  ],
+  "Bucket": [
+    "Holding clean water",
+    "Bathroom plastic tub",
+    "Carrying handle arc",
+    "Bath mug scoop",
+    "Washing container"
+  ],
+  "Door Mat": [
+    "Wiping dirty shoes",
+    "Front entrance step",
+    "Welcome greeting fiber",
+    "Coir textured mat",
+    "Doorstep rug"
+  ],
+  "Torch": [
+    "Handheld flashlight",
+    "Beaming dark light",
+    "Battery powered bulb",
+    "Power cut helper",
+    "Camping illumination"
+  ],
+  "Umbrella": [
+    "Rain canopy shield",
+    "Folding metal ribs",
+    "Curved carry handle",
+    "Waterproof cloth",
+    "Opening with pop"
+  ],
+  "Scissors": [
+    "Paired cutting blades",
+    "Finger loop handles",
+    "Snipping paper craft",
+    "Sharpened steel edge",
+    "Haircut tool"
+  ],
+  "Knife": [
+    "Sharp slicing blade",
+    "Kitchen cutting board",
+    "Chopping vegetables",
+    "Wooden handle grip",
+    "Cooking preparation"
+  ],
+  "Plate": [
+    "Serving dinner food",
+    "Round ceramic dish",
+    "Eating everyday meals",
+    "Flat circular surface",
+    "Kitchen cabinet stack"
+  ],
+  "Cup": [
+    "Sipping morning tea",
+    "Hot coffee handle",
+    "Ceramic mug shape",
+    "Saucer coaster base",
+    "Warm beverage hold"
+  ],
+  "Spoon": [
+    "Scooping up soup",
+    "Metallic curved bowl",
+    "Stirring tea sugar",
+    "Dining utensil",
+    "Small eating tool"
+  ],
+  "India": [
+    "Land of spices",
+    "Tricolor national flag",
+    "Himalayan north",
+    "Monsoon rains season",
+    "Ancient cultural heritage"
+  ],
+  "United States": [
+    "Fifty states union",
+    "Stars and stripes flag",
+    "Hollywood and highways",
+    "Bald eagle emblem",
+    "Fourth of July"
+  ],
+  "United Kingdom": [
+    "Big Ben clock tower",
+    "Union Jack flag",
+    "Royal crown monarch",
+    "Thames river island",
+    "Red double decker"
+  ],
+  "Japan": [
+    "Land of rising sun",
+    "Bullet train speed",
+    "Cherry blossom spring",
+    "Mount Fuji peak",
+    "Ancient samurai island"
+  ],
+  "Australia": [
+    "Southern cross skies",
+    "Red desert outback",
+    "Kangaroo hop lands",
+    "Great Barrier Reef",
+    "Sydney harbor bay"
+  ],
+  "Germany": [
+    "High speed Autobahn",
+    "Bavarian castle peaks",
+    "Black forest trails",
+    "Rhine river valley",
+    "Engineered precision"
+  ],
+  "France": [
+    "Eiffel tower landmark",
+    "Fresh bakery baguettes",
+    "Fine perfume fashion",
+    "Seine river romance",
+    "Tricolor European nation"
+  ],
+  "Italy": [
+    "Boot shaped peninsula",
+    "Ancient Roman ruins",
+    "Fresh pasta and pizza",
+    "Venice water canals",
+    "Mediterranean coast"
+  ],
+  "Canada": [
+    "Red maple leaf flag",
+    "Snowy pine forests",
+    "Niagara falls border",
+    "Cold winter ice",
+    "Second largest area"
+  ],
+  "Brazil": [
+    "Amazon rainforest basin",
+    "Carnival rhythm dances",
+    "Yellow green flag",
+    "Football heritage legend",
+    "Copacabana beach"
+  ],
+  "Russia": [
+    "Eleven time zones",
+    "Snowy Siberian expanse",
+    "Red square domes",
+    "Ural mountain divide",
+    "Vast northern nation"
+  ],
+  "China": [
+    "Great stone wall",
+    "Giant panda homeland",
+    "Yangtze river flow",
+    "Red gold star flag",
+    "Ancient silk history"
+  ],
+  "South Africa": [
+    "Table mountain crest",
+    "Rainbow nation unity",
+    "Southern ocean tip",
+    "Savannah wildlife safari",
+    "Three capital cities"
+  ],
+  "Egypt": [
+    "Ancient desert pyramids",
+    "Nile river waters",
+    "Pharaoh stone tombs",
+    "Sphinx desert guard",
+    "Suez canal crossing"
+  ],
+  "Saudi Arabia": [
+    "Vast desert sands",
+    "Green palm tree emblem",
+    "Bedouin oasis heritage",
+    "Red sea coastline",
+    "Petroleum kingdom"
+  ],
+  "United Arab Emirates": [
+    "Tallest glass skyscraper",
+    "Desert modern skyline",
+    "Palm shaped islands",
+    "Seven emirates union",
+    "Luxury desert city"
+  ],
+  "Mexico": [
+    "Ancient Aztec ruins",
+    "Sombrero hat tradition",
+    "Spicy salsa tacos",
+    "Colorful festival fiesta",
+    "Sun soaked coast"
+  ],
+  "Argentina": [
+    "Tango dance passion",
+    "Patagonia glacial peaks",
+    "Sun of May emblem",
+    "Pampas cattle plains",
+    "Andes mountain wall"
+  ],
+  "Spain": [
+    "Flamenco guitar rhythm",
+    "Sunny Mediterranean coast",
+    "Tapas food culture",
+    "Ancient castle plazas",
+    "Bull running heritage"
+  ],
+  "Singapore": [
+    "Lion city landmark",
+    "Marina bay skyline",
+    "Clean tropical streets",
+    "Garden airport hub",
+    "Island city nation"
+  ],
+  "Thailand": [
+    "Golden temple spires",
+    "Floating river markets",
+    "Tropical beach isles",
+    "Tuk tuk city rides",
+    "Land of smiles"
+  ],
+  "Indonesia": [
+    "Thousand volcanic islands",
+    "Tropical spice lands",
+    "Komodo dragon isles",
+    "Bali ocean temples",
+    "Equator archipelago"
+  ],
+  "Malaysia": [
+    "Twin landmark towers",
+    "Tropical rainforest canopy",
+    "Borneo island coast",
+    "Cultural food crossroads",
+    "Strait of Malacca"
+  ],
+  "New Zealand": [
+    "Lord of rings landscape",
+    "Snowy southern alps",
+    "Maori kiwi heritage",
+    "Green rolling pastures",
+    "Two island nation"
+  ],
+  "Switzerland": [
+    "Snowy alpine peaks",
+    "Fine milk chocolate",
+    "Pocket knife watches",
+    "Clear mountain lakes",
+    "Neutral mountain cantons"
+  ],
+  "Netherlands": [
+    "Historic wind mills",
+    "Colorful tulip fields",
+    "Bicycle city canals",
+    "Lowland water dikes",
+    "Wooden shoe clogs"
+  ],
+  "South Korea": [
+    "K-pop music beat",
+    "Seoul river skyline",
+    "High tech innovation",
+    "Kimchi dining table",
+    "Morning calm nation"
+  ],
+  "Greece": [
+    "White cliffside islands",
+    "Ancient Acropolis pillars",
+    "Blue Aegean sea",
+    "Olympic games cradle",
+    "Olive grove hills"
+  ],
+  "Portugal": [
+    "Atlantic coastal cliffs",
+    "Blue tiled palaces",
+    "Sweet custard tarts",
+    "Maritime navigator history",
+    "Cobblestone tram streets"
+  ],
+  "Sweden": [
+    "Northern lights sky",
+    "Midnight summer sun",
+    "Nordic forest lakes",
+    "Yellow cross flag",
+    "Scandinavian winter"
+  ],
+  "Norway": [
+    "Deep coastal fjords",
+    "Viking sea history",
+    "Arctic circle tundra",
+    "Midnight sun skies",
+    "Dramatic waterfall cliffs"
+  ],
+  "Nepal": [
+    "Mount Everest crown",
+    "Himalayan prayer flags",
+    "Double triangle flag",
+    "High mountain trails",
+    "Kathmandu temple valley"
+  ],
+  "Sri Lanka": [
+    "Pearl of Indian ocean",
+    "Ceylon tea plantations",
+    "Coastal palm beaches",
+    "Ancient lion rock",
+    "Tropical island gem"
+  ],
+  "Bangladesh": [
+    "Sundarbans tiger forest",
+    "Green delta rivers",
+    "Bay of Bengal coast",
+    "Jute golden fiber",
+    "Monsoon water plains"
+  ],
+  "Bhutan": [
+    "Thunder dragon land",
+    "Himalayan cliff monastery",
+    "Gross national happiness",
+    "Carbon negative forest",
+    "Ancient mountain kingdom"
+  ],
+  "Maldives": [
+    "Overwater island bungalows",
+    "Turquoise ocean lagoons",
+    "White coral sands",
+    "Tropical ring atolls",
+    "Scuba dive paradise"
+  ],
+  "Mauritius": [
+    "Tropical volcanic island",
+    "Seven colored earths",
+    "Sugarcane coastal plains",
+    "Extinct dodo home",
+    "Indian ocean haven"
+  ],
+  "Qatar": [
+    "Futuristic bay skyline",
+    "Desert meets the sea",
+    "Museum of Islamic art",
+    "Persian gulf peninsula",
+    "Modern pearl hub"
+  ],
+  "Kenya": [
+    "Great wildlife migration",
+    "Mount Kenya peak",
+    "Rift valley savannah",
+    "Masai warrior heritage",
+    "Safari plains grass"
+  ],
+  "Mumbai": [
+    "Marine drive queen necklace",
+    "Gateway of India monument",
+    "Bollywood cinema hub",
+    "Local train rush",
+    "Arabian sea coast"
+  ],
+  "Delhi": [
+    "Historic red sandstone fort",
+    "India gate war memorial",
+    "National capital broad roads",
+    "Chandni chowk street food",
+    "Yamuna river city"
+  ],
+  "Bengaluru": [
+    "Silicon city tech hub",
+    "Lush garden city parks",
+    "Pleasant year round weather",
+    "Craft coffee brew culture",
+    "Electronic city roads"
+  ],
+  "Hyderabad": [
+    "Charminar four arches",
+    "Aromatic dum biryani",
+    "Hussain Sagar heart lake",
+    "Historic pearl bazaar",
+    "HITEC tech city"
+  ],
+  "Kolkata": [
+    "Howrah bridge cantilever",
+    "Yellow ambassador taxis",
+    "Victoria memorial marble",
+    "Sweet rasgulla dessert",
+    "Trams running streets"
+  ],
+  "Chennai": [
+    "Marina beach long coastline",
+    "Crisp filter coffee",
+    "Classical temple gopurams",
+    "Carnatic music festival",
+    "Automobile motor hub"
+  ],
+  "Jaipur": [
+    "Pink painted city walls",
+    "Hawa Mahal wind palace",
+    "Amber fort hilltop",
+    "Royal desert kingdom",
+    "Block print textiles"
+  ],
+  "Ahmedabad": [
+    "Sabarmati riverfront stroll",
+    "Gandhi ashram heritage",
+    "Kite flying festival",
+    "Pol traditional houses",
+    "Textile heritage city"
+  ],
+  "Pune": [
+    "Oxford of the east colleges",
+    "Shaniwar Wada stone fort",
+    "Green monsoon hills",
+    "IT tech parks breeze",
+    "Cultural Maharashtrian hub"
+  ],
+  "Surat": [
+    "Diamond cutting capital",
+    "Silk fabric textile hub",
+    "Tapi river city",
+    "Street food snacks",
+    "Commercial trade hub"
+  ],
+  "Lucknow": [
+    "City of royal nawabs",
+    "Bara Imambara maze",
+    "Delicate chikan embroidery",
+    "Kebabs and culinary feast",
+    "Gomti river banks"
+  ],
+  "Kanpur": [
+    "Ganga river banks",
+    "Leather industrial trade",
+    "Historic textile mills",
+    "Ghats water steps",
+    "Northern trade center"
+  ],
+  "Nagpur": [
+    "Juicy sweet orange city",
+    "Zero milestone center",
+    "Tiger capital gateway",
+    "Deekshabhoomi monument",
+    "Maharashtra trade hub"
+  ],
+  "Indore": [
+    "Cleanest city award",
+    "Sarafa night food street",
+    "Rajwada royal palace",
+    "Poha morning breakfast",
+    "Heart of Malwa region"
+  ],
+  "Thane": [
+    "City of scenic lakes",
+    "Suburban Mumbai neighbor",
+    "Yeoor hill trails",
+    "Creek water views",
+    "Thriving residential hub"
+  ],
+  "Bhopal": [
+    "City of twin lakes",
+    "Bhojpur ancient temple",
+    "Upper lake boating breeze",
+    "Heart of Madhya Pradesh",
+    "Green scenic hills"
+  ],
+  "Visakhapatnam": [
+    "Jewel of east coast",
+    "Submarine museum beach",
+    "Dolphin nose hill view",
+    "Deep sea port harbor",
+    "Lush coastal hills"
+  ],
+  "Patna": [
+    "Ancient Pataliputra history",
+    "Ganga river long bridge",
+    "Golghar granary dome",
+    "Historic Bihar capital",
+    "Ancient university roots"
+  ],
+  "Vadodara": [
+    "Laxmi Vilas grand palace",
+    "Navratri garba festival",
+    "Cultural capital city",
+    "Banyan tree shade",
+    "Art and heritage seat"
+  ],
+  "Ghaziabad": [
+    "Gateway of Uttar Pradesh",
+    "Delhi capital border",
+    "Industrial high rise zone",
+    "Hindon river bank",
+    "Fast growing suburb"
+  ],
+  "Ludhiana": [
+    "Hosiery textile capital",
+    "Mercedes of Punjab",
+    "Grand GT road industry",
+    "Cycles and garment mills",
+    "Vibrant food culture"
+  ],
+  "Agra": [
+    "White marble Taj Mahal",
+    "Red sandstone Agra fort",
+    "Petha sweet treat",
+    "Mughal royal capital",
+    "Yamuna river monument"
+  ],
+  "Nashik": [
+    "Wine capital vineyards",
+    "Godavari river ghats",
+    "Kumbh mela holy city",
+    "Trimbakeshwar temple roots",
+    "Pleasant green valley"
+  ],
+  "Faridabad": [
+    "Industrial Haryana neighbor",
+    "Surajkund craft mela",
+    "Aravalli hill ridges",
+    "Badkhal lake history",
+    "Capital metro link"
+  ],
+  "Meerut": [
+    "First war of independence",
+    "Cricket bat manufacturing",
+    "Historic cantonment city",
+    "Ancient Hastinapur roots",
+    "Sports goods hub"
+  ],
+  "Rajkot": [
+    "Mahatma Gandhi childhood",
+    "Bandhani colorful tie dye",
+    "Gold jewellery artisans",
+    "Kathiawadi food spread",
+    "Commercial Saurashtra hub"
+  ],
+  "Kalyan": [
+    "Historic rail junction",
+    "Ulhas river creek",
+    "Suburban Mumbai transit",
+    "Ancient trade port history",
+    "Bustling commuter station"
+  ],
+  "Varanasi": [
+    "Ganga river evening aarti",
+    "Ancient spiritual ghats",
+    "Kashi Vishwanath shrine",
+    "Fine silk sarees",
+    "Oldest living city"
+  ],
+  "Srinagar": [
+    "Dal lake houseboats",
+    "Shikara wooden boat ride",
+    "Mughal flower gardens",
+    "Snowy mountain backdrop",
+    "Kashmir valley jewel"
+  ],
+  "Aurangabad": [
+    "Ajanta Ellora rock caves",
+    "Bibi Ka Maqbara tomb",
+    "Himroo silk weaving",
+    "Historic city of gates",
+    "Ancient stone marvels"
+  ],
+  "Dhanbad": [
+    "Coal capital of India",
+    "Mining industrial hub",
+    "IIT ISM mining institute",
+    "Black diamond mines",
+    "Chota Nagpur plateau"
+  ],
+  "Amritsar": [
+    "Golden Temple holy shrine",
+    "Wagah border parade",
+    "Langar community kitchen",
+    "Crispy kulcha breakfast",
+    "Sacred pool waters"
+  ],
+  "Allahabad": [
+    "Triveni Sangam confluence",
+    "Holy Kumbh gathering",
+    "Historic Anand Bhavan",
+    "Guava orchards harvest",
+    "High court heritage"
+  ],
+  "Ranchi": [
+    "City of waterfalls",
+    "Dhoni hometown pride",
+    "Chota Nagpur hills",
+    "Tagore hill views",
+    "Pleasant plateau breeze"
+  ],
+  "Gwalior": [
+    "Hilltop grand stone fort",
+    "Tansen classical music",
+    "Jai Vilas royal palace",
+    "Chhatri stone arches",
+    "Historic kingdom seat"
+  ],
+  "Jodhpur": [
+    "Blue painted house roofs",
+    "Mehrangarh fort cliff",
+    "Sun city gateway",
+    "Mirchi vada snack",
+    "Thar desert border"
+  ],
+  "Coimbatore": [
+    "Manchester of south India",
+    "Textile cotton mills",
+    "Western Ghats foothills",
+    "Siruvani sweet water",
+    "Adiyogi statue landmark"
+  ],
+  "Vijayawada": [
+    "Krishna river barrage",
+    "Kanaka Durga hilltop temple",
+    "Bustling trading center",
+    "Prakasam bridge waters",
+    "Andhra cultural heart"
+  ],
+  "Jabalpur": [
+    "Marble rocks river gorge",
+    "Dhuandhar smoky waterfall",
+    "Narmada river valley",
+    "Madan Mahal ancient fort",
+    "Scenic stone canyon"
+  ],
+  "Madurai": [
+    "Meenakshi temple towering gopurams",
+    "City that never sleeps",
+    "Jasmine fragrant flower",
+    "Ancient Tamil kingdom",
+    "Vaigai river heritage"
+  ],
+  "Football": [
+    "Kicking ball goal net",
+    "Ninety minute pitch",
+    "Penalty kick box",
+    "Yellow red cards",
+    "Corner flag pass"
+  ],
+  "Badminton": [
+    "High speed smash",
+    "Feathered shuttlecock bird",
+    "Lightweight racket frame",
+    "Overhead net serve",
+    "Indoor court line"
+  ],
+  "Kabaddi": [
+    "Holding breath chant",
+    "Crossing midline raid",
+    "Ankle tackle hold",
+    "Bonus point line",
+    "Mat court clash"
+  ],
+  "Hockey": [
+    "Curved wooden stick",
+    "Fast rolling small ball",
+    "Turf grass dribble",
+    "Penalty corner hit",
+    "Goal keeper pads"
+  ],
+  "Tennis": [
+    "Yellow fuzzy ball",
+    "Grand slam court",
+    "Racket serve volley",
+    "Deuce advantage score",
+    "Baseline rally"
+  ],
+  "Table Tennis": [
+    "Celluloid small ball",
+    "Rubber paddle bat",
+    "Green blue table net",
+    "Fast spin return",
+    "Ping pong bounce"
+  ],
+  "Basketball": [
+    "Hoop",
+    "Court",
+    "Dribble",
+    "Orange",
+    "Bounce",
+    "Team"
+  ],
+  "Volleyball": [
+    "Spiking over high net",
+    "Bumping setting pass",
+    "Beach sand court",
+    "Six player rotation",
+    "Diving floor save"
+  ],
+  "Baseball": [
+    "Diamond shaped bases",
+    "Catchers mitt glove",
+    "Pitchers mound throw",
+    "Home run swing",
+    "Wooden batting slugger"
+  ],
+  "Golf": [
+    "Eighteen green holes",
+    "Iron club swing",
+    "Putting on smooth green",
+    "Sand bunker trap",
+    "Tee off drive"
+  ],
+  "Boxing": [
+    "Padded leather gloves",
+    "Rope corner ring",
+    "Knockout punch combo",
+    "Twelve timed rounds",
+    "Heavy punching bag"
+  ],
+  "Wrestling": [
+    "Circular fight mat",
+    "Shoulder pin takedown",
+    "Olympic singlet bout",
+    "Grappling hold lock",
+    "Referee whistle count"
+  ],
+  "Athletics": [
+    "Oval running track",
+    "Starting gun sprint",
+    "Jumping over hurdles",
+    "Passing relay baton",
+    "Crossing finish line"
+  ],
+  "Swimming": [
+    "Fifty meter pool lanes",
+    "Goggles diving start",
+    "Freestyle butterfly stroke",
+    "Flip turn wall kick",
+    "Water splash race"
+  ],
+  "Archery": [
+    "Curved bow string",
+    "Pointed feathered arrow",
+    "Bullseye center target",
+    "Steady shoulder aim",
+    "Releasing arrow flight"
+  ],
+  "Shooting": [
+    "Precision rifle aim",
+    "Small paper target ring",
+    "Noise cancelling ear cups",
+    "Steady trigger squeeze",
+    "Ten meter range"
+  ],
+  "Weightlifting": [
+    "Heavy barbell plates",
+    "Chalk white hands",
+    "Snatch clean and jerk",
+    "Drop on platform",
+    "Maximum strength lift"
+  ],
+  "Chess": [
+    "Sixty four checkered squares",
+    "Black and white pieces",
+    "Checkmate trap king",
+    "Thinking timer clock",
+    "Strategy board battle"
+  ],
+  "Carrom": [
+    "Wooden corner pockets",
+    "Flicking striker coin",
+    "Queen pink counter",
+    "Smoothing white powder",
+    "Carrom board game"
+  ],
+  "Kho Kho": [
+    "Chasing tag runners",
+    "Sitting facing opposite",
+    "Diving pole turn",
+    "Sudden sprint pursuit",
+    "Outdoor mud court"
+  ],
+  "Cycling": [
+    "Two pedal wheels",
+    "Velodrome banked track",
+    "Aerodynamic helmet",
+    "Long road race pack",
+    "Gears shifting chain"
+  ],
+  "Gymnastics": [
+    "Balance beam walk",
+    "Acrobatic floor flips",
+    "Uneven parallel bars",
+    "Chalked hands dismount",
+    "Springboard vault"
+  ],
+  "Martial Arts": [
+    "White belt uniform",
+    "High spinning kicks",
+    "Dojo training floor",
+    "Bowing to master",
+    "Breaking wooden boards"
+  ],
+  "Snooker": [
+    "Green felt table",
+    "Long cue stick tap",
+    "Potting colored balls",
+    "Triangle cue rack",
+    "Chalking cue tip"
+  ],
+  "Squash": [
+    "Bouncing off four walls",
+    "Rubber hollow black ball",
+    "Enclosed court duel",
+    "Fast reflex rally",
+    "Racket wall smash"
+  ],
+  "Rugby": [
+    "Oval leather ball",
+    "H shaped goal posts",
+    "Scrum team push",
+    "Tackling on grass",
+    "Scoring ground try"
+  ],
+  "Polo": [
+    "Riding galloping horse",
+    "Long wooden mallet",
+    "Chasing rolling ball",
+    "Wide open green field",
+    "Seven minute chukker"
+  ],
+  "Rowing": [
+    "Slender racing boat",
+    "Pulling long oars",
+    "Coxswain rhythm call",
+    "Gliding smooth river",
+    "Synchronized stroke"
+  ],
+  "Sailing": [
+    "Wind catching canvas",
+    "Tacking across waves",
+    "Steering boat rudder",
+    "Life jacket vest",
+    "Ocean regatta race"
+  ],
+  "Surfing": [
+    "Riding ocean wave crest",
+    "Waxed surfboard float",
+    "Catching the barrel",
+    "Leash on ankle",
+    "Beach break paddle"
+  ],
+  "Skateboarding": [
+    "Four small wheels deck",
+    "Ollie kickflip trick",
+    "Grinding concrete rails",
+    "Skate park ramp",
+    "Grip tape board"
+  ],
+  "Skiing": [
+    "Snowy mountain slope",
+    "Two strapped skis",
+    "Ski poles balance",
+    "Carving white powder",
+    "Chairlift up peak"
+  ],
+  "Snowboarding": [
+    "Single wide snow board",
+    "Downhill mountain carving",
+    "Bindings locked in",
+    "Halfpipe jump spin",
+    "Goggles on snow"
+  ],
+  "Motorsport": [
+    "High speed race cars",
+    "Checkered finish flag",
+    "Pit stop tyre change",
+    "Roaring turbo engine",
+    "Asphalt race track"
+  ],
+  "Formula One": [
+    "Single seat aerodynamic car",
+    "Twenty car grid start",
+    "DRS overtaking wing",
+    "Two second pit stop",
+    "Grand prix circuit"
+  ],
+  "Horse Racing": [
+    "Galloping track sprint",
+    "Jockey silk colors",
+    "Starting gate pop",
+    "Crossing photo finish",
+    "Turf track derby"
+  ],
+  "Billiards": [
+    "Three ball table game",
+    "Long wooden cue",
+    "Bouncing off cushions",
+    "Scoring cannon points",
+    "Green cloth surface"
+  ],
+  "Handball": [
+    "Bouncing ball to goal",
+    "Six meter circle area",
+    "Jump shot throwing",
+    "Fast indoor court",
+    "Passing team play"
+  ],
+  "Judo": [
+    "Throwing opponent to mat",
+    "Heavy cotton gi robe",
+    "Grappling jacket grip",
+    "Ippon full victory",
+    "Japanese martial art"
+  ],
+  "Biryani": [
+    "Dum sealed pot cooking",
+    "Aromatic basmati rice",
+    "Saffron yellow layers",
+    "Spiced rich aroma",
+    "Fried onions garnish"
+  ],
+  "Samosa": [
+    "Golden triangular pastry",
+    "Spiced potato pea filling",
+    "Deep fried crunch",
+    "Green mint chutney dip",
+    "Street snack favorite"
+  ],
+  "Butter Chicken": [
+    "Velvety tomato cream gravy",
+    "Tandoori roasted meat",
+    "Fenugreek aromatic touch",
+    "Butter melting on top",
+    "Warm naan bread dip"
+  ],
+  "Masala Dosa": [
+    "Crispy fermented crepe",
+    "Spiced potato mash inside",
+    "Hot sambar bowl",
+    "Coconut white chutney",
+    "Golden rolled tawa"
+  ],
+  "Paneer Tikka": [
+    "Marinated cottage cheese cubes",
+    "Skewered clay tandoor",
+    "Charred spicy edges",
+    "Capsicum onion slices",
+    "Chaat masala squeeze"
+  ],
+  "Chole Bhature": [
+    "Puffy deep fried balloon bread",
+    "Spicy dark chickpea gravy",
+    "Pickled green chilli onion",
+    "Hearty Punjabi breakfast",
+    "Steaming plate"
+  ],
+  "Pav Bhaji": [
+    "Mashed spiced mixed vegetables",
+    "Butter toasted soft buns",
+    "Chopped onions lemon squeeze",
+    "Hot sizzling tawa",
+    "Mumbai street feast"
+  ],
+  "Idli": [
+    "Steamed fluffy white cakes",
+    "Fermented rice lentil batter",
+    "Soft pillowy texture",
+    "Dunked in hot sambar",
+    "Morning south breakfast"
+  ],
+  "Vada Pav": [
+    "Fried spiced potato dumpling",
+    "Soft pillowy bread bun",
+    "Spicy garlic red chutney",
+    "Fried green chilli bite",
+    "Mumbai burger snack"
+  ],
+  "Gulab Jamun": [
+    "Deep fried dough spheres",
+    "Warm rose cardamom syrup",
+    "Melt in mouth sweetness",
+    "Dark golden brown dessert",
+    "Festive sweet feast"
+  ],
+  "Jalebi": [
+    "Swirling circular pretzel",
+    "Crispy saffron orange loops",
+    "Dripping hot sweet syrup",
+    "Pairing with creamy rabdi",
+    "Morning sweet stall"
+  ],
+  "Rasgulla": [
+    "Spongy white cottage balls",
+    "Light clear sugar syrup",
+    "Sweet juicy squeeze",
+    "Bengali dessert pride",
+    "Chilled sweet delight"
+  ],
+  "Kaju Katli": [
+    "Diamond shaped fudge",
+    "Silver foil leaf topping",
+    "Ground cashew paste",
+    "Diwali festive luxury",
+    "Smooth rich bite"
+  ],
+  "Laddoo": [
+    "Golden round sweet ball",
+    "Roasted gram flour ghee",
+    "Festive offering blessing",
+    "Cardamom nutty aroma",
+    "Rolled by hand"
+  ],
+  "Dal Makhani": [
+    "Slow cooked black lentils",
+    "Simmered with butter cream",
+    "Rich velvety texture",
+    "Pairing with garlic naan",
+    "Overnight charcoal simmer"
+  ],
+  "Palak Paneer": [
+    "Vibrant green spinach gravy",
+    "Soft white cheese cubes",
+    "Garlic cumin aroma",
+    "Healthy comforting curry",
+    "Warm roti pairing"
+  ],
+  "Pani Puri": [
+    "Crispy hollow semolina spheres",
+    "Spicy tangy mint water",
+    "Sweet tamarind drizzle",
+    "Popped whole in mouth",
+    "Street cart crowd"
+  ],
+  "Rajma Chawal": [
+    "Red kidney bean gravy",
+    "Steaming white basmati rice",
+    "Sunday comforting meal",
+    "Ghee and onion pickle",
+    "Punjabi home favorite"
+  ],
+  "Naan": [
+    "Clay tandoor blistered bread",
+    "Brushed with melted butter",
+    "Chewy teardrop flatbread",
+    "Garlic coriander topping",
+    "Curry dipping staple"
+  ],
+  "Roti": [
+    "Puffed whole wheat bread",
+    "Cooked on hot iron tawa",
+    "Daily home lunch staple",
+    "Topped with drop of ghee",
+    "Soft circular flatbread"
+  ],
+  "Paratha": [
+    "Layered pan fried flatbread",
+    "Stuffed spiced potato filling",
+    "Crispy golden edges",
+    "Pairing with cold yogurt",
+    "Morning breakfast feast"
+  ],
+  "Pulao": [
+    "Fragrant seasoned basmati rice",
+    "Whole spices and vegetables",
+    "One pot aromatic dish",
+    "Pairing with cool raita",
+    "Light lunch rice"
+  ],
+  "Khichdi": [
+    "Comforting rice lentil mash",
+    "Simple gentle home food",
+    "Dollop of pure desi ghee",
+    "Pairing with crispy papad",
+    "Warm rainy day bowl"
+  ],
+  "Upma": [
+    "Roasted semolina porridge",
+    "Mustard seed curry leaves",
+    "Light breakfast savory",
+    "Cashew nut crunch",
+    "Morning south dish"
+  ],
+  "Poha": [
+    "Flattened rice flakes",
+    "Turmeric yellow color",
+    "Fried crunchy peanuts",
+    "Finely chopped onions",
+    "Morning breakfast bowl"
+  ],
+  "Dhokla": [
+    "Steamed yellow spongy cake",
+    "Tempered mustard green chilli",
+    "Tangy sweet juicy bite",
+    "Gujarati savory snack",
+    "Gram flour squares"
+  ],
+  "Khandvi": [
+    "Tightly rolled gram flour ribbons",
+    "Soft melt in mouth rolls",
+    "Tempered mustard coconut",
+    "Delicate yellow savory",
+    "Gujarati appetizer"
+  ],
+  "Thepla": [
+    "Thin spiced fenugreek flatbread",
+    "Travel friendly soft roti",
+    "Pairing with mango pickle",
+    "Cooked with sesame seeds",
+    "Gujarati snack staple"
+  ],
+  "Lassi": [
+    "Thick sweet yogurt drink",
+    "Topped with clotted malai",
+    "Chilled tall brass glass",
+    "Flavored with rose mango",
+    "Summer thirst cooler"
+  ],
+  "Chai": [
+    "Brewed milk black tea",
+    "Crushed ginger cardamom spice",
+    "Street stall clay cup",
+    "Morning waking up sip",
+    "Steaming hot brew"
+  ],
+  "Filter Coffee": [
+    "Frothy stainless steel tumbler",
+    "Dark roasted chicory brew",
+    "Poured from high above",
+    "Aromatic morning South cup",
+    "Hot milky beverage"
+  ],
+  "Kulfi": [
+    "Dense frozen dairy dessert",
+    "Flavored with pistachio saffron",
+    "Served on wooden stick",
+    "Traditional clay matka",
+    "Slow melted sweet treat"
+  ],
+  "Halwa": [
+    "Rich semolina pudding",
+    "Roasted golden in pure ghee",
+    "Garnished with sliced almonds",
+    "Warm sweet bowl",
+    "Festive kitchen aroma"
+  ],
+  "Kheer": [
+    "Simmered rice milk pudding",
+    "Sweetened with cardamom sugar",
+    "Chilled festive bowl",
+    "Garnished with dry fruits",
+    "Traditional dessert"
+  ],
+  "Barfi": [
+    "Dense milk solid fudge",
+    "Cut into square pieces",
+    "Garnished with crushed pista",
+    "Sweet shop display case",
+    "Festive gift box"
+  ],
+  "Poori": [
+    "Deep fried puffed bread",
+    "Golden airy balloon shape",
+    "Pairing with spiced potato",
+    "Festive breakfast basket",
+    "Crispy thin dough"
+  ],
+  "Bhature": [
+    "Large fermented puffed bread",
+    "Crispy airy deep fried",
+    "Pairing with dark chole",
+    "North Indian specialty",
+    "Giant balloon bread"
+  ],
+  "Pakora": [
+    "Gram flour battered fritters",
+    "Crispy deep fried crunch",
+    "Onion potato filling",
+    "Rainy monsoon tea snack",
+    "Mint chutney dipping"
+  ],
+  "Tandoori Roti": [
+    "Clay oven baked flatbread",
+    "Charred crispy spots",
+    "Whole wheat healthy bread",
+    "Hot clay tandoor stick",
+    "Curry restaurant bread"
+  ],
+  "Sheer Khurma": [
+    "Vermicelli simmered in milk",
+    "Loaded with dates nuts",
+    "Eid festive morning bowl",
+    "Saffron fragrant sweetness",
+    "Creamy rich dessert"
+  ],
+  "Software Engineer": [
+    "Typing lines of code",
+    "Solving software bugs",
+    "Building mobile apps",
+    "Keyboard dual monitors",
+    "Late night coffee mugs"
+  ],
+  "Doctor": [
+    "Hospital",
+    "Patients",
+    "Medicine",
+    "Stethoscope",
+    "Health",
+    "Checkup"
+  ],
+  "Teacher": [
+    "Blackboard chalk marker",
+    "Explaining classroom lesson",
+    "Grading exam papers",
+    "School morning bell",
+    "Guiding young students"
+  ],
+  "Police Officer": [
+    "Khaki uniform badge",
+    "Patrolling street beat",
+    "Flashing siren car",
+    "Enforcing legal law",
+    "Maintaining public safety"
+  ],
+  "Lawyer": [
+    "Courtroom legal defense",
+    "Black advocate coat",
+    "Arguing before judge",
+    "Legal law books case",
+    "Protecting client rights"
+  ],
+  "Chef": [
+    "Tall white kitchen hat",
+    "Sizzling frying pans",
+    "Creating recipe dishes",
+    "Garnishing dinner plates",
+    "Master of restaurant kitchen"
+  ],
+  "Pilot": [
+    "Airplane cockpit controls",
+    "Navigating stormy skies",
+    "Airport runway takeoff",
+    "Four stripes uniform",
+    "Cruising at high altitude"
+  ],
+  "Nurse": [
+    "Checking vital signs",
+    "Hospital ward care",
+    "Administering medicines",
+    "Caring patient recovery",
+    "Compassionate night shifts"
+  ],
+  "Architect": [
+    "Drawing building blueprints",
+    "Drafting table ruler",
+    "Designing city skylines",
+    "Scale model structures",
+    "Planning house layout"
+  ],
+  "Civil Engineer": [
+    "Hard safety helmet",
+    "Bridge construction site",
+    "Concrete foundation check",
+    "Surveying building land",
+    "Heavy infrastructure work"
+  ],
+  "Accountant": [
+    "Calculating tax balances",
+    "Financial spreadsheet books",
+    "Auditing business ledgers",
+    "Number crunching balance",
+    "Fiscal year receipts"
+  ],
+  "Scientist": [
+    "Laboratory test tubes",
+    "Microscope discovery",
+    "Testing research theories",
+    "White lab coat safety",
+    "Publishing scientific study"
+  ],
+  "Journalist": [
+    "Investigative news report",
+    "Microphone interview",
+    "Breaking news story",
+    "Press identity card",
+    "Publishing daily article"
+  ],
+  "Photographer": [
+    "Camera lens zoom",
+    "Capturing shutter moments",
+    "Adjusting studio lights",
+    "Framing perfect shot",
+    "Photo editing screen"
+  ],
+  "Graphic Designer": [
+    "Digital canvas stylus",
+    "Creating brand logos",
+    "Color palette layouts",
+    "Vector graphics tool",
+    "Visual creative design"
+  ],
+  "Actor": [
+    "Performing on camera",
+    "Rehearsing movie script",
+    "Standing under spotlights",
+    "Playing fictional role",
+    "Theater stage drama"
+  ],
+  "Singer": [
+    "Melodious voice pitch",
+    "Studio microphone record",
+    "Performing stage concerts",
+    "Singing musical lyrics",
+    "Hitting high notes"
+  ],
+  "Dancer": [
+    "Rhythmic body movements",
+    "Choreographed stage routine",
+    "Practicing dance studio",
+    "Music beat footwork",
+    "Expressive stage art"
+  ],
+  "Writer": [
+    "Typing creative story",
+    "Publishing novel books",
+    "Penning down thoughts",
+    "Developing fictional characters",
+    "Drafting manuscript pages"
+  ],
+  "Farmer": [
+    "Plowing green fields",
+    "Harvesting seasonal crops",
+    "Driving farm tractor",
+    "Working under sunrise",
+    "Growing daily food"
+  ],
+  "Electrician": [
+    "Wiring switch circuits",
+    "Insulated pliers tool",
+    "Fixing power fuse",
+    "Safety rubber gloves",
+    "Repairing electrical line"
+  ],
+  "Plumber": [
+    "Tightening pipe wrench",
+    "Fixing water leaks",
+    "Clearing blocked drains",
+    "Installing bathroom taps",
+    "Pipe fitting sealant"
+  ],
+  "Carpenter": [
+    "Cutting wooden planks",
+    "Measuring tape and saw",
+    "Building custom furniture",
+    "Wood shavings sawdust",
+    "Hammering steel nails"
+  ],
+  "Mechanic": [
+    "Under car engine hood",
+    "Wrench oil spanner",
+    "Fixing motor brakes",
+    "Changing vehicle parts",
+    "Automobile repair shop"
+  ],
+  "Firefighter": [
+    "Blazing fire water hose",
+    "Driving red fire engine",
+    "Oxygen mask helmet",
+    "Rescuing trapped people",
+    "Emergency ladder climb"
+  ],
+  "Soldier": [
+    "Camouflage military uniform",
+    "Guarding national border",
+    "Carrying tactical rifle",
+    "Disciplined march parade",
+    "Defending nation safety"
+  ],
+  "Dentist": [
+    "Examining teeth cavities",
+    "Dental mirror probe",
+    "Brushing hygiene advice",
+    "Reclining dental chair",
+    "Bright clinic light"
+  ],
+  "Pharmacist": [
+    "Dispensing medicine pills",
+    "Reading doctor prescription",
+    "Pharmacy store counter",
+    "Checking drug dosage",
+    "Healthcare pharmacy shelf"
+  ],
+  "Veterinarian": [
+    "Treating sick animals",
+    "Caring for pet dogs",
+    "Animal clinic checkup",
+    "Giving animal vaccines",
+    "Helping furry patients"
+  ],
+  "Judge": [
+    "Wooden court gavel",
+    "Presiding over court",
+    "Wearing black judge robe",
+    "Delivering legal verdict",
+    "Upholding fair justice"
+  ],
+  "Banker": [
+    "Managing money loans",
+    "Bank branch vault",
+    "Opening savings accounts",
+    "Financial teller counter",
+    "Customer banking service"
+  ],
+  "Astronaut": [
+    "White pressurized spacesuit",
+    "Rocket launching space",
+    "Zero gravity floating",
+    "Space station orbit",
+    "Exploring distant stars"
+  ],
+  "Barber": [
+    "Hair cutting scissors",
+    "Rotating salon chair",
+    "Electric hair trimmer",
+    "Mirror cape drape",
+    "Beard shaving razor"
+  ],
+  "Tailor": [
+    "Measuring tape around neck",
+    "Sewing machine stitches",
+    "Cutting dress fabric",
+    "Fitting custom clothes",
+    "Thread needle spool"
+  ],
+  "Painter": [
+    "Colorful paint roller",
+    "Wall ladder brush",
+    "Mixing color buckets",
+    "Home interior coats",
+    "Masking tape edges"
+  ],
+  "Mason": [
+    "Laying cement bricks",
+    "Trowel mortar spread",
+    "Building stone walls",
+    "Construction bricklaying",
+    "Plumb line leveling"
+  ],
+  "Blacksmith": [
+    "Glowing red hot metal",
+    "Heavy anvil hammer",
+    "Shaping forged iron",
+    "Furnace sparks flying",
+    "Ancient metal craft"
+  ],
+  "Gardener": [
+    "Watering plant pots",
+    "Pruning shears trimmer",
+    "Planting flower seeds",
+    "Lawn grass mower",
+    "Green garden soil"
+  ],
+  "Driver": [
+    "Steering wheel controls",
+    "Navigating city roads",
+    "Checking rear mirrors",
+    "Traffic signal stops",
+    "Safe passenger journey"
+  ],
+  "Security Guard": [
+    "Watching entrance gate",
+    "Night patrol flashlight",
+    "Monitoring CCTV cameras",
+    "Checking visitor badge",
+    "Building safety watch"
+  ],
+  "Auto Rickshaw": [
+    "Three wheeled runabout",
+    "Yellow green canvas top",
+    "Handlebar meter drive",
+    "Bustling city street ride",
+    "Compact taxi three wheeler"
+  ],
+  "Local Train": [
+    "Platform crowd rush",
+    "Overhead electric wire",
+    "Suburban rail lifeline",
+    "Commuter coaches rail",
+    "Rumbling track stop"
+  ],
+  "Metro": [
+    "Underground tunnel route",
+    "Automatic glass doors",
+    "Air conditioned coaches",
+    "Elevated pillar track",
+    "Rapid city transit"
+  ],
+  "Motorcycle": [
+    "Helmet",
+    "Two wheels",
+    "Road",
+    "Engine",
+    "Ride",
+    "Speed"
+  ],
+  "Scooter": [
+    "Flat footboard step",
+    "Twisting twist throttle",
+    "City commute ride",
+    "Under seat helmet storage",
+    "Two wheel runabout"
+  ],
+  "Bicycle": [
+    "Pedaling foot pedals",
+    "Spinning wheel chain",
+    "Ringing handlebar bell",
+    "Eco friendly two wheeler",
+    "Braking hand levers"
+  ],
+  "Bus": [
+    "Dozens of passenger seats",
+    "Long public transport coach",
+    "Ticket conductor whistle",
+    "Stopping at bus stops",
+    "Large windshield view"
+  ],
+  "Car": [
+    "Four passenger doors",
+    "Steering wheel dashboard",
+    "Trunk luggage space",
+    "Family road trip drive",
+    "Seatbelts safety drive"
+  ],
+  "Taxi": [
+    "Hailing yellow cab",
+    "Fare meter display",
+    "City passenger ride",
+    "Yellow roof taxi light",
+    "Commercial hire car"
+  ],
+  "Truck": [
+    "Heavy freight cargo",
+    "Large eighteen wheels",
+    "Highway diesel hauler",
+    "Loading cargo bed",
+    "Air horn blast"
+  ],
+  "Tractor": [
+    "Huge treaded rear tyres",
+    "Plowing green farm fields",
+    "Pulling heavy trolley",
+    "Loud diesel chug",
+    "Rural farmland worker"
+  ],
+  "Bullock Cart": [
+    "Pair of pulling oxen",
+    "Two large wooden wheels",
+    "Slow village pathway",
+    "Hay transport cart",
+    "Traditional rural wagon"
+  ],
+  "Cycle Rickshaw": [
+    "Pedaled three wheeler",
+    "Passenger carriage hood",
+    "Narrow market alleys",
+    "Hand ringing bell",
+    "Slow pedal transport"
+  ],
+  "Ambulance": [
+    "Flashing red blue siren",
+    "Emergency hospital rush",
+    "Stretcher first aid inside",
+    "Traffic parting way",
+    "Medical rescue van"
+  ],
+  "Fire Engine": [
+    "Bright red rescue truck",
+    "Long extending ladder",
+    "High pressure water hose",
+    "Loud emergency siren",
+    "Firefighter squad"
+  ],
+  "Police Car": [
+    "Flashing roof siren lights",
+    "Patrol highway cruiser",
+    "Police emblem on door",
+    "Radio dispatch caller",
+    "Chasing speed cars"
+  ],
+  "Helicopter": [
+    "Spinning top rotor blades",
+    "Vertical landing liftoff",
+    "Hovering in sky",
+    "Tail rotor stabilizer",
+    "Rescue chopper flight"
+  ],
+  "Aeroplane": [
+    "Jet engine wings",
+    "Cruising above clouds",
+    "Airport runway liftoff",
+    "Retractable landing gear",
+    "Flying across continents"
+  ],
+  "Ship": [
+    "Deep ocean voyage",
+    "Large freight containers",
+    "Anchoring at harbor",
+    "Ship captain deck",
+    "Cutting through waves"
+  ],
+  "Boat": [
+    "Wooden oars rowing",
+    "Floating calm river",
+    "Fisherman fishing net",
+    "Small water craft",
+    "Bobbing on waves"
+  ],
+  "Ferry": [
+    "Carrying cars across river",
+    "Short island waterway",
+    "Passenger deck railing",
+    "Docking harbor ramp",
+    "Daily water transit"
+  ],
+  "Speedboat": [
+    "Fast roaring motor engine",
+    "Skipping wave wakes",
+    "High speed water spray",
+    "Skiing water tow",
+    "Sleek sports boat"
+  ],
+  "Yacht": [
+    "Luxury ocean cruiser",
+    "Sunning lounge deck",
+    "Private cabin suite",
+    "Anchored resort marina",
+    "Sleek white vessel"
+  ],
+  "Submarine": [
+    "Diving deep ocean depths",
+    "Periscope surface view",
+    "Underwater torpedo tube",
+    "Sonar echo ping",
+    "Sealed metal hull"
+  ],
+  "Hovercraft": [
+    "Riding air cushion skirt",
+    "Gliding over water mud",
+    "Large rear propulsion fan",
+    "Amphibious traveler",
+    "Floating surface craft"
+  ],
+  "Hot Air Balloon": [
+    "Giant colorful fabric dome",
+    "Propane burner flame",
+    "Wicker passenger basket",
+    "Floating gently with wind",
+    "Sunrise scenic view"
+  ],
+  "Bullet Train": [
+    "Aerodynamic pointed nose",
+    "Ultra high speed rail",
+    "Electric magnetic glide",
+    "Quiet smooth travel",
+    "Fast city connector"
+  ],
+  "Tram": [
+    "Street rail embedded track",
+    "Overhead electric wire",
+    "Classic ringing bell",
+    "Historic city streetcar",
+    "Slow urban transit"
+  ],
+  "Cable Car": [
+    "Suspended steel cable line",
+    "Gliding over mountain valley",
+    "Aerial glass cabin",
+    "Scenic ski hill lift",
+    "Hanging mountain box"
+  ],
+  "Monorail": [
+    "Single elevated concrete beam",
+    "Straddling center rail",
+    "Futuristic city transit",
+    "Pillar track views",
+    "Quiet rubber tyres"
+  ],
+  "Skateboard": [
+    "Four urethane wheels",
+    "Plywood grip tape deck",
+    "Kicking off pavement",
+    "Grinding street ramps",
+    "Foot propelled board"
+  ],
+  "Roller Skates": [
+    "Wheels strapped to shoes",
+    "Gliding across rink",
+    "Toe stopper brake",
+    "Balancing on wheels",
+    "Smooth sidewalk cruise"
+  ],
+  "Electric Scooter": [
+    "Rechargeable battery deck",
+    "Handlebar thumb throttle",
+    "Folding commuter frame",
+    "Silent sidewalk glide",
+    "City rental scooter"
+  ],
+  "Golf Cart": [
+    "Small battery vehicle",
+    "Driving on green fairways",
+    "Holding golf club bags",
+    "Open side roof canopy",
+    "Slow quiet buggy"
+  ],
+  "Forklift": [
+    "Front twin steel prongs",
+    "Lifting warehouse pallets",
+    "Heavy counterweight back",
+    "Stacking cargo shelves",
+    "Tight turning radius"
+  ],
+  "Bulldozer": [
+    "Heavy front push blade",
+    "Continuous metal tracks",
+    "Clearing demolition dirt",
+    "Massive diesel power",
+    "Construction earth mover"
+  ],
+  "Road Roller": [
+    "Heavy steel roller drum",
+    "Compacting hot asphalt",
+    "Flattening new roads",
+    "Slow heavy machine",
+    "Highway paving roller"
+  ],
+  "Space Shuttle": [
+    "Rocket booster liftoff",
+    "Gliding glider landing",
+    "Orbiting Earth globe",
+    "Cargo bay satellite",
+    "Astronaut spacecraft"
+  ],
+  "Hoverboard": [
+    "Self balancing twin wheels",
+    "Leaning forward to move",
+    "LED indicator lights",
+    "Gyroscope sensor deck",
+    "Electric foot glide"
+  ],
+  "Sholay": [
+    "Ramgarh village ravines",
+    "Villain whistling rocks",
+    "Two brave mercenary friends",
+    "Coin toss destiny",
+    "Classic curry western"
+  ],
+  "DDLJ": [
+    "Yellow mustard flower fields",
+    "European train journey",
+    "Mandolin romantic tune",
+    "Catching moving train door",
+    "Iconic love story"
+  ],
+  "3 Idiots": [
+    "Engineering college campus",
+    "All is well mantra",
+    "Secret inventor patents",
+    "Scenic Ladakh blue lake",
+    "Challenging traditional study"
+  ],
+  "Baahubali": [
+    "Mahishmati royal kingdom",
+    "Climbing giant waterfall",
+    "Loyal warrior sword strike",
+    "Carrying heavy stone lingam",
+    "Epic royal battle"
+  ],
+  "Lagaan": [
+    "Cricket match tax wager",
+    "Drought stricken village",
+    "Beating colonial rulers",
+    "Rain clouds arrival",
+    "Underdog sports victory"
+  ],
+  "Dangal": [
+    "Wrestling mud pit akada",
+    "Father coaching daughters",
+    "National gold medal fight",
+    "Short haircut training",
+    "Commonwealth victory"
+  ],
+  "PK": [
+    "Alien lost remote device",
+    "Questioning religious rituals",
+    "Speaking funny Bhojpuri",
+    "Yellow helmet walk",
+    "Searching for God"
+  ],
+  "KGF": [
+    "Gold mine dust empire",
+    "Mother promise ambition",
+    "Rocky hammer walk",
+    "Red fire shootout",
+    "Underworld mine ruler"
+  ],
+  "RRR": [
+    "Forest tiger rescue friend",
+    "British governor palace clash",
+    "Naatu fast dance steps",
+    "Motorcycle and horse chase",
+    "Two rebel heroes"
+  ],
+  "Pushpa": [
+    "Red sandalwood smuggling",
+    "Walking with tilted shoulder",
+    "Never bowing down pride",
+    "Dense forest lorry chase",
+    "Underworld rise"
+  ],
+  "Kabir Singh": [
+    "Angry medical surgeon",
+    "Royal Enfield motorcycle roar",
+    "Intense heartbreak story",
+    "Playing football field",
+    "Passionate love journey"
+  ],
+  "Gangs of Wasseypur": [
+    "Coal town family feud",
+    "Revenge across generations",
+    "Desi gun shootouts",
+    "Iron scrap power fight",
+    "Raw crime epic"
+  ],
+  "Zindagi Na Milegi Dobara": [
+    "Three friends road trip",
+    "Skydiving and deep diving",
+    "Tomato throwing festival",
+    "Conquering inner fears",
+    "Scenic Spain vacation"
+  ],
+  "Yeh Jawaani Hai Deewani": [
+    "Trekking snowy Manali peaks",
+    "Chasing world travel dreams",
+    "Grand Udaipur wedding",
+    "Time flying fast friendship",
+    "Love on the journey"
+  ],
+  "Taare Zameen Par": [
+    "Art teacher caring mentor",
+    "Letters dancing on page",
+    "Boarding school boy",
+    "Emotional painting contest",
+    "Every child is special"
+  ],
+  "Chak De India": [
+    "Disgraced coach comeback",
+    "Sixteen fighting girls",
+    "Seventy minutes speech",
+    "World cup hockey victory",
+    "National pride anthem"
+  ],
+  "Swades": [
+    "NASA scientist returns home",
+    "Caravan mobile lab",
+    "Bringing light to village",
+    "Drinking water at station",
+    "Rediscovering motherland"
+  ],
+  "Dil Chahta Hai": [
+    "Three college friends bond",
+    "Goa fort holiday trip",
+    "Growing up apart and together",
+    "Modern urban friendship",
+    "Scenic beach talks"
+  ],
+  "Munna Bhai MBBS": [
+    "Fake doctor medical college",
+    "Magical healing warm hug",
+    "Carom board hospital scene",
+    "Laughter therapy rounds",
+    "Good hearted gangster"
+  ],
+  "Bajrangi Bhaijaan": [
+    "Mute lost child journey",
+    "Crossing border without visa",
+    "Hanuman devotee promise",
+    "Reuniting with family",
+    "Heartwarming journey"
+  ],
+  "Ghajini": [
+    "Short term memory loss",
+    "Tattoos across chest body",
+    "Instant polaroid camera",
+    "Revenge for lost love",
+    "Fifteen minute diary"
+  ],
+  "Queen": [
+    "Solo European honeymoon trip",
+    "Small town girl freedom",
+    "Paris and Amsterdam stay",
+    "Gaining self confidence",
+    "Finding inner strength"
+  ],
+  "Andhadhun": [
+    "Fake blind piano player",
+    "Witnessing murder apartment",
+    "Cat and mouse chase",
+    "Twisted dark comedy",
+    "Organ trade clinic"
+  ],
+  "Drishyam": [
+    "Cable TV operator father",
+    "Second of October cinema alibi",
+    "Protecting family secret",
+    "Buried under police station",
+    "Clever deception thriller"
+  ],
+  "Stree": [
+    "Festival night ghost warning",
+    "Leaving clothes behind mystery",
+    "Writing red warning on wall",
+    "Four small town friends",
+    "Horror comedy village"
+  ],
+  "Kantara": [
+    "Sacred forest deity spirit",
+    "Roaring divine possession",
+    "Village folklore ritual",
+    "Protecting tribal forest land",
+    "Buffalo racing mud track"
+  ],
+  "Kantara A Legend": [
+    "Sacred forest deity spirit",
+    "Roaring divine possession",
+    "Village folklore ritual",
+    "Protecting tribal forest land",
+    "Buffalo racing mud track"
+  ],
+  "Animal": [
+    "Extreme father devotion",
+    "Massive automated machine gun",
+    "Long golden axe fight",
+    "Underworld empire war",
+    "Fierce family loyalty"
+  ],
+  "Jawan": [
+    "Metro train hijacking plan",
+    "Father son double identity",
+    "Bandaged face hero",
+    "Fighting for public justice",
+    "High energy action"
+  ],
+  "Pathaan": [
+    "Exiled secret agent return",
+    "Train rooftop combat",
+    "Stopping deadly bio weapon",
+    "Wingsuit cliff flight",
+    "High octane spy action"
+  ],
+  "War": [
+    "Mentor vs student duel",
+    "Arctic ice sports car drift",
+    "Undercover face surgery twist",
+    "High octane spy agents",
+    "Exotic international chase"
+  ],
+  "Dhoom": [
+    "High speed superbike gang",
+    "Daring casino bank heist",
+    "Chasing police officer team",
+    "Highway nitro speed",
+    "Acrobatic bike stunts"
+  ],
+  "Don": [
+    "Underworld kingpin double",
+    "Catching him is impossible",
+    "Police diary evidence",
+    "Twisted disguise climax",
+    "Suave international gangster"
+  ],
+  "Krrish": [
+    "Masked black superhero",
+    "Leaping across skyscrapers",
+    "Supercomputer future vision",
+    "Gifted superhuman powers",
+    "Saving trapped people"
+  ],
+  "Ra.One": [
+    "Video game villain escapes",
+    "Glowing blue heart superhero",
+    "Train roof battle scene",
+    "Father video game creation",
+    "Digital villain alive"
+  ],
+  "Chennai Express": [
+    "Accidental train journey South",
+    "Carrying grandfather ashes",
+    "Tangling with village don",
+    "Halting train at station",
+    "Funny language mixup"
+  ],
+  "Om Shanti Om": [
+    "Reincarnation film industry",
+    "Thirty year revenge drama",
+    "Chandelier tragic accident",
+    "Old cinema set studio",
+    "Picture abhi baaki hai"
+  ],
+  "Gully Boy": [
+    "Slum street hip hop rapper",
+    "Writing poetry in diary",
+    "Underground rap battle mic",
+    "Apna time aayega anthem",
+    "Voice of the streets"
+  ],
+  "Article 15": [
+    "Rural police investigation",
+    "Fighting caste injustice",
+    "Wading through swamp waters",
+    "Constitutional equality law",
+    "Hard hitting crime truth"
+  ],
+  "Tumbbad": [
+    "Greedy demon god temple",
+    "Gold coins cursed flour",
+    "Raining ancestral mansion",
+    "Diving in velvet womb",
+    "Atmospheric horror myth"
+  ],
+  "Porcupine": [
+    "Sharp defense quills",
+    "Spiky rodent",
+    "Rattling hollow spines",
+    "Night forest forager"
+  ],
+  "Bat": [
+    "Nighttime flier",
+    "Sleeps upside down",
+    "Uses echolocation",
+    "Caves and dark roofs"
+  ],
+  "Mint Leaves": [
+    "Refreshing chutney herb",
+    "Cool herbal aroma",
+    "Green garnishing leaves",
+    "Digestive drink flavor"
+  ],
+  "Corn": [
+    "Golden cob with kernels",
+    "Yellow sweet grains",
+    "Buttered roasted snack",
+    "Popcorn crop"
+  ],
+  "Zucchini": [
+    "Long summer squash",
+    "Green stir-fry vegetable",
+    "Soft culinary marrow",
+    "Cylindrical green produce"
+  ],
+  "Asparagus": [
+    "Slender tender spears",
+    "Green springtime shoots",
+    "Pointy vegetable stalks",
+    "Gourmet grilled side"
+  ],
+  "Artichoke": [
+    "Layered edible petals",
+    "Tender heart core",
+    "Thistle vegetable",
+    "Steamed dipping leaves"
+  ],
+  "Celery": [
+    "Crispy crunchy stalks",
+    "Juicing green stems",
+    "Fibrous salad ribs",
+    "Aromatic soup base"
+  ],
+  "Raw Banana": [
+    "Green cooking plantain",
+    "Fried savory chips",
+    "Boiled curry vegetable",
+    "Unripe firm bunch"
+  ],
+  "Water Filter": [
+    "Purifying kitchen device",
+    "Clean drinking supply",
+    "Multi-stage cartridge",
+    "Countertop water machine"
+  ],
+  "Mattress": [
+    "Soft sleeping pad",
+    "Bed comfort layer",
+    "Memory foam or springs",
+    "Nighttime rest surface"
+  ],
+  "Bucket and Mug": [
+    "Bathroom bathing pair",
+    "Plastic washing bucket",
+    "Traditional bath set",
+    "Pouring water container"
+  ],
+  "Lock and Key": [
+    "Metal security latch",
+    "Twisting key tumbler",
+    "Door locking mechanism",
+    "Padlock and brass key"
+  ],
+  "Roti Tawa": [
+    "Flat circular pan",
+    "Iron baking griddle",
+    "Puffed flatbread surface",
+    "Hot kitchen hotplate"
+  ],
+  "Thali": [
+    "Large round metal platter",
+    "Full course meal plate",
+    "Assorted side bowls",
+    "Traditional dining dish"
+  ],
+  "Kadhai": [
+    "Deep curved wok",
+    "Indian frying pot",
+    "Curry simmering vessel",
+    "Two sturdy ring handles"
+  ],
+  "Mortar and Pestle": [
+    "Spice crushing bowl",
+    "Heavy grinding stone",
+    "Herb pounding tool",
+    "Manual spice crusher"
+  ],
+  "Water Bottle": [
+    "Portable drinking flask",
+    "Hydration carrying bottle",
+    "Screw cap container",
+    "Insulated daily sipper"
+  ],
+  "Chai Strainer": [
+    "Fine wire mesh",
+    "Tea filtering cone",
+    "Catching tea leaves",
+    "Pouring hot chai"
+  ],
+  "Extension Cord": [
+    "Multiple plug sockets",
+    "Long power cable",
+    "Electrical power strip",
+    "Extra outlet extender"
+  ],
+  "Geyser": [
+    "Instant water heater",
+    "Bathroom hot shower unit",
+    "Wall mounted heating tank",
+    "Warm water appliance"
+  ],
+  "Clothes Drying Stand": [
+    "Foldable laundry rack",
+    "Hanging wet garments",
+    "Metal airer frame",
+    "Balcony clothes rack"
+  ],
+  "Shoe Rack": [
+    "Footwear storage shelf",
+    "Entrance shoe organizer",
+    "Multi-tier stand",
+    "Neat footwear display"
+  ],
+  "Mosquito Racket": [
+    "Electric mesh swatter",
+    "Rechargeable zapper bat",
+    "Flying pest killer",
+    "Battery insect racket"
+  ],
+  "Hawk": [
+    "Sharp sharp talons",
+    "Curved hunting beak",
+    "High soaring raptor",
+    "Swift diving hunter"
+  ],
+  "Pheasant": [
+    "Long colorful tail plumage",
+    "Ground game bird",
+    "Bright feathered fowl",
+    "Woodland runner"
+  ],
+  "Canary": [
+    "Bright yellow songbird",
+    "Sweet musical whistling",
+    "Small cage singer",
+    "Coal mine sentinel"
+  ],
+  "Swift": [
+    "High-speed aerial flyer",
+    "Sickle-shaped curved wings",
+    "Flies while sleeping",
+    "Mud nest builder"
+  ],
+  "Caterpillar": [
+    "Creeping garden larvae",
+    "Crawling leaf chewer",
+    "Spins silky cocoon",
+    "Future butterfly stage"
+  ],
+  "Water Strider": [
+    "Glides on pond surface",
+    "Surface tension walker",
+    "Long slender legs",
+    "Skims lake water"
+  ],
+  "Stink Bug": [
+    "Shield-shaped body",
+    "Strong defense odor",
+    "Smelly garden bug",
+    "Armored plant feeder"
+  ],
+  "Tarantula": [
+    "Large hairy spider",
+    "Burrowing eight-legged hunter",
+    "Venomous giant arachnid",
+    "Furry creeping predator"
+  ],
+  "Lacewing": [
+    "Delicate net-like wings",
+    "Gentle garden insect",
+    "Aphid hunting beneficial",
+    "Translucent green flyer"
+  ],
+  "Chandigarh": [
+    "The planned City Beautiful",
+    "Sukhna Lake & Rock Garden",
+    "Capitol Complex architecture",
+    "Le Corbusier design"
+  ],
+  "Shimla": [
+    "Queen of the Hills",
+    "Himachal colonial capital",
+    "Mall Road & Ridge",
+    "Toy train hill station"
+  ],
+  "Manali": [
+    "Snowy mountain valley",
+    "Solang valley adventures",
+    "Rohtang Pass gateway",
+    "Beas river retreat"
+  ],
+  "Goa": [
+    "Sunny coastal beaches",
+    "Portuguese colonial churches",
+    "Shacks & seaside nightlife",
+    "Palm-fringed coastal haven"
+  ],
+  "Udaipur": [
+    "City of Lakes",
+    "Grand Lake Palace",
+    "White marble palaces",
+    "Venice of the East"
+  ],
+  "Kochi": [
+    "Queen of the Arabian Sea",
+    "Chinese fishing nets",
+    "Historic Fort Kochi",
+    "Kerala spice port"
+  ],
+  "Mysore": [
+    "Grand illuminated palace",
+    "Fragrant sandalwood city",
+    "Famous royal Dasara",
+    "Silk and heritage city"
+  ],
+  "Darjeeling": [
+    "World-famous tea gardens",
+    "Kanchenjunga mountain view",
+    "Historic Toy Train",
+    "Mist-covered hill town"
+  ],
+  "Rishikesh": [
+    "Yoga capital of the world",
+    "Ganga river rafting",
+    "Laxman Jhula bridge",
+    "Foothills of the Himalayas"
+  ],
+  "Haridwar": [
+    "Sacred river ghats",
+    "Ganga evening aarti",
+    "Har Ki Pauri pilgrimage",
+    "Holy bathing city"
+  ],
+  "Guwahati": [
+    "Gateway to Northeast India",
+    "Brahmaputra river banks",
+    "Kamakhya hill temple",
+    "Assam transit hub"
+  ],
+  "Pondicherry": [
+    "French colonial quarter",
+    "Auroville global township",
+    "Promenade seaside walkway",
+    "Bright yellow villa streets"
+  ],
+  "London": [
+    "Historic River Thames",
+    "Big Ben clock tower",
+    "Red double-decker buses",
+    "Buckingham Palace home"
+  ],
+  "New York City": [
+    "The Big Apple skyline",
+    "Times Square bright lights",
+    "Statue of Liberty harbor",
+    "Central Park urban oasis"
+  ],
+  "Paris": [
+    "City of Light and Romance",
+    "Eiffel Tower landmark",
+    "Louvre art museum",
+    "Champs-Elysees boulevard"
+  ],
+  "Tokyo": [
+    "Shibuya busy crossing",
+    "High-tech neon metropolis",
+    "Mount Fuji backdrop",
+    "Ancient temples & bullet trains"
+  ],
+  "Dubai": [
+    "Burj Khalifa sky tower",
+    "Ultra-luxury desert metropolis",
+    "Huge shopping malls",
+    "Palm Jumeirah island"
+  ],
+  "Singapore City": [
+    "Marina Bay Sands skyline",
+    "Futuristic garden city",
+    "Merlion water fountain",
+    "Clean island republic"
+  ],
+  "Bangkok": [
+    "Vibrant street food stalls",
+    "Grand Palace & golden wats",
+    "Chao Phraya river boats",
+    "Busy tuk-tuk streets"
+  ],
+  "Shooting Sport": [
+    "Precision rifle target",
+    "Bullseye aim marking",
+    "Ear protection headset",
+    "Olympic marksmanship event"
+  ],
+  "Skating": [
+    "Wheels or ice blades",
+    "Smooth gliding motion",
+    "Rink spinning turns",
+    "Balance on skates"
+  ],
+  "Bowling": [
+    "Rolling heavy round ball",
+    "Knocking down ten pins",
+    "Polished wooden alley lane",
+    "Strikes and spares"
+  ],
+  "Taekwondo": [
+    "High dynamic kicks",
+    "Martial art dojang",
+    "White dobok uniform",
+    "Olympic kicking discipline"
+  ],
+  "Karate": [
+    "Punching and striking chops",
+    "Martial art kata forms",
+    "Black belt achievement",
+    "Traditional dojo art"
+  ],
+  "Kite Flying": [
+    "Soaring paper diamond",
+    "Thread string spindle",
+    "Wind catching flyer",
+    "Festival rooftop flying"
+  ],
+  "Idli Sambar": [
+    "Steamed white rice cakes",
+    "Lentil vegetable soup dip",
+    "South Indian breakfast staple",
+    "Coconut chutney side"
+  ],
+  "Medu Vada": [
+    "Crispy savory donut",
+    "Deep fried lentil batter",
+    "Golden crunchy breakfast",
+    "Sambar dipping favorite"
+  ],
+  "Rogan Josh": [
+    "Aromatic Kashmiri gravy",
+    "Rich red mutton curry",
+    "Warm spices and ratan jot",
+    "Slow cooked meat specialty"
+  ],
+  "Malai Kofta": [
+    "Soft creamy fried dumplings",
+    "Rich cashew tomato gravy",
+    "Paneer and potato balls",
+    "Royal Mughlai dish"
+  ],
+  "Aloo Paratha": [
+    "Spiced mashed potato filling",
+    "Stuffed buttery flatbread",
+    "Served with curd and butter",
+    "North Indian breakfast favorite"
+  ],
+  "Bhelpuri": [
+    "Puffed rice tangy snack",
+    "Tamarind sweet chutney drizzle",
+    "Crispy sev and onions",
+    "Mumbai beach chaat"
+  ],
+  "Momos": [
+    "Steamed flour dumplings",
+    "Fiery spicy red chutney",
+    "Tibetan street food pouch",
+    "Vegetable or chicken stuffing"
+  ],
+  "Pizza": [
+    "Cheese",
+    "Slice",
+    "Oven",
+    "Toppings",
+    "Round",
+    "Italian"
+  ],
+  "Burger": [
+    "Grilled patty in split bun",
+    "Layered lettuce and cheese",
+    "Fast food hand sandwich",
+    "Served with French fries"
+  ],
+  "Pasta": [
+    "Boiled durum wheat shapes",
+    "Rich tomato or creamy sauce",
+    "Italian penne or spaghetti",
+    "Grated parmesan topping"
+  ],
+  "Noodles": [
+    "Long boiled dough strands",
+    "Wok-tossed stir fry",
+    "Soy sauce and veggies",
+    "Slurped with chopsticks"
+  ],
+  "Manchurian": [
+    "Crispy battered veggie balls",
+    "Garlicky soy gravy",
+    "Indo-Chinese favorite",
+    "Fried starter dish"
+  ],
+  "Shawarma": [
+    "Spiced meat carved from spit",
+    "Wrapped in thin pita roll",
+    "Garlic sauce and pickles",
+    "Middle Eastern street roll"
+  ],
+  "Misal Pav": [
+    "Spicy sprouted curry",
+    "Crunchy farsan topping",
+    "Served with buttered bread",
+    "Fiery Maharashtrian breakfast"
+  ],
+  "Uttapam": [
+    "Thick savory pancake",
+    "Topped with onions and tomatoes",
+    "South Indian fermented batter",
+    "Griddle roasted thick dosa"
+  ],
+  "Spring Roll": [
+    "Crispy golden fried wrapper",
+    "Shredded vegetable filling",
+    "Served with sweet chili dip",
+    "Crunchy Asian appetizer"
+  ],
+  "Auto Driver": [
+    "Three-wheeled taxi driver",
+    "Yellow-green vehicle captain",
+    "Navigating city traffic",
+    "Fare meter operator"
+  ],
+  "Flight Attendant": [
+    "Cabin crew hospitality",
+    "In-flight passenger safety",
+    "Serving meals in the air",
+    "Emergency evacuation briefing"
+  ],
+  "Postman": [
+    "Delivering letters and parcel",
+    "Khaki mail bag",
+    "Door-to-door mail carrier",
+    "Sorting postal addresses"
+  ],
+  "Delivery Agent": [
+    "Delivering online parcels",
+    "Backpack courier biker",
+    "Doorstep drop-off",
+    "Tracking order delivery"
+  ],
+  "Sweeper": [
+    "Cleaning public streets",
+    "Long broom sweeping",
+    "Maintaining urban cleanliness",
+    "Dust and debris collector"
+  ],
+  "Chaiwala": [
+    "Brewing hot spiced tea",
+    "Boiling milk kettle",
+    "Roadside tea stall maker",
+    "Serving cutting chai glasses"
+  ],
+  "Fashion Designer": [
+    "Creating garment styles",
+    "Fabric sketching and draping",
+    "Runway clothing collections",
+    "Tailoring fashion trends"
+  ],
+  "Filmmaker": [
+    "Directing movie scenes",
+    "Behind the video camera",
+    "Calling lights camera action",
+    "Storytelling cinema creator"
+  ],
+  "Musician": [
+    "Playing musical instruments",
+    "Composing melody tunes",
+    "Stage live concert performer",
+    "Creating musical tracks"
+  ],
+  "Athlete": [
+    "Competitive sports player",
+    "Intense physical training",
+    "Chasing championship trophies",
+    "Professional stadium competitor"
+  ],
+  "Electric Rickshaw": [
+    "Battery-powered commuter",
+    "Green three-wheeled transport",
+    "Silent urban e-rickshaw",
+    "Rechargeable street vehicle"
+  ],
+  "Horse Carriage": [
+    "Horse-drawn wheeled cart",
+    "Vintage passenger coach",
+    "Hoofbeat pulled buggy",
+    "Historic ceremonial ride"
+  ],
+  "Fire Truck": [
+    "Loud emergency sirens",
+    "High water cannon hoses",
+    "Long extendable ladders",
+    "Bright red rescue vehicle"
+  ],
+  "Airplane": [
+    "Wings",
+    "Sky",
+    "Airport",
+    "Pilot",
+    "Fly",
+    "Travel"
+  ],
+  "Ferry Boat": [
+    "Passenger water shuttle",
+    "Crossing bays and rivers",
+    "Short distance commuter boat",
+    "Water transit vessel"
+  ],
+  "Houseboat": [
+    "Floating canal home",
+    "Kerala backwater cruiser",
+    "Living on the water",
+    "Thatched roof wooden boat"
+  ],
+  "Fishing Boat": [
+    "Ocean fish harvesting vessel",
+    "Casting large fishing nets",
+    "Harbor trawler boat",
+    "Early morning sea fisher"
+  ],
+  "Tempo": [
+    "Small freight carrier",
+    "Urban goods delivery vehicle",
+    "Commercial mini truck",
+    "Three or four wheeled transporter"
+  ],
+  "Concrete Mixer Truck": [
+    "Rotating cement drum",
+    "Pouring liquid concrete",
+    "Construction site supplier",
+    "Heavy revolving barrel truck"
+  ],
+  "Crane Vehicle": [
+    "Telescopic lifting boom",
+    "Hoisting heavy steel beams",
+    "Heavy construction lifter",
+    "Tall swinging hook cable"
+  ],
+  "Garbage Van": [
+    "Waste collecting vehicle",
+    "Hydraulic trash compactor",
+    "Morning neighborhood pickup",
+    "Refuse collection truck"
+  ],
+  "Tanker Truck": [
+    "Large cylindrical liquid tank",
+    "Hauling milk or fuel",
+    "Heavy highway transport",
+    "Pressure fluid carrier"
+  ],
+  "Delivery Van": [
+    "Boxy cargo vehicle",
+    "Shipping courier packages",
+    "Sliding side door van",
+    "Urban parcel transport"
+  ],
+  "Sleeper Bus": [
+    "Overnight berth travel",
+    "Long-distance bunk bus",
+    "Two-tier sleeping coach",
+    "Intercity night express"
+  ],
+  "Space Rocket": [
+    "Blasting into outer space",
+    "High thrust rocket booster",
+    "Multi-stage launch vehicle",
+    "Orbital payload rocket"
+  ],
+  "K3G": [
+    "Kabhi Khushi Kabhie Gham",
+    "Grand billionaire family drama",
+    "It is all about loving parents",
+    "Shah Rukh and Amitabh classic"
+  ],
+  "Kuch Kuch Hota Hai": [
+    "Rahul, Anjali, and Tina trio",
+    "College friendship love story",
+    "Summer camp reunion",
+    "Pyaar dosti hai classic"
+  ],
+  "ZNMD": [
+    "Three friends road trip",
+    "Spain adventure travel pact",
+    "Tomatina and skydiving memories",
+    "Zindagi Na Milegi Dobara"
+  ],
+  "YJHD": [
+    "Yeh Jawaani Hai Deewani",
+    "Manali trekking friends",
+    "Bunnys wanderlust passion",
+    "Destination wedding reunion"
+  ],
+  "Hera Pheri": [
+    "Raju, Shyam, and Baburao trio",
+    "Star Garage wrong number call",
+    "Hilarious comic kidnapper mixup",
+    "Legendary Bollywood comedy"
+  ],
+  "Titanic": [
+    "Famous ocean iceberg disaster",
+    "Grand ill-fated luxury ship",
+    "Violinists playing to the end",
+    "Jack and Rose romance"
+  ],
+  "Avatar": [
+    "Alien moon of Pandora",
+    "Blue tall Navi warriors",
+    "Floating Hallelujah mountains",
+    "James Cameron sci-fi epic"
+  ],
+  "Avengers Endgame": [
+    "Time heist for infinity stones",
+    "Whatever it takes climax",
+    "I am Iron Man snap",
+    "Ultimate superhero finale"
+  ],
+  "Spider-Man": [
+    "Radioactive spider bite",
+    "With great power comes responsibility",
+    "Web-slinging across skyscrapers",
+    "Peter Parker hero suit"
+  ],
+  "Inception": [
+    "Dream within a dream heist",
+    "Spinning metal totem top",
+    "Subconscious architectural maze",
+    "Mind-bending gravity shifts"
+  ],
+  "Interstellar": [
+    "Wormhole space voyage",
+    "Gargantua black hole gravity",
+    "Father daughter timepiece signal",
+    "Searching for a new home planet"
+  ],
+  "The Dark Knight": [
+    "Gothams caped crusader",
+    "Why so serious Joker",
+    "Billionaire vigilante hero",
+    "Harvey Dent and Batmobile"
+  ],
+  "Harry Potter": [
+    "Hogwarts school of witchcraft",
+    "Lightning scar boy wizard",
+    "Magic wand and flying broom",
+    "Gryffindor vs Lord Voldemort"
+  ],
+  "Jurassic Park": [
+    "Genetically cloned dinosaurs",
+    "Isla Nublar theme park escape",
+    "T-Rex roaring in the rain",
+    "Life finds a way thriller"
+  ],
+  "The Lion King": [
+    "Pride Rock savannah kingdom",
+    "Hakuna Matata philosophy",
+    "Simbas royal destiny journey",
+    "Circle of Life Disney classic"
+  ],
+  "Oppenheimer": [
+    "Father of the atomic bomb",
+    "Los Alamos Manhattan Project",
+    "Trinity desert test blast",
+    "Historical nuclear drama"
+  ]
+}

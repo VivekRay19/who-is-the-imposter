@@ -1,0 +1,2602 @@
+[
+  {
+    "category": "animals",
+    "word": "Tiger",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Elephant",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Lion",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Leopard",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Rhino",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Bear",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Snow Leopard",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "King Cobra",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Crocodile",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Pangolin",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Nilgai (Blue Bull)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Blackbuck",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Deer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Monkey (Langur)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Monkey",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Wild Dog",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Bison",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Camel",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Cow",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Buffalo",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Goat",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Sheep",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Horse",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Donkey",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Dog",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Cat",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Squirrel",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Mongoose",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Bat",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Chameleon",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Tortoise",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Jackal",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Wolf",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Hyena",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Wild Boar",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Dolphin",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Porcupine",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Rabbit",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Monitor Lizard",
+    "hasDirectMap": true
+  },
+  {
+    "category": "animals",
+    "word": "Otter",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Mango (Aam)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Banana (Kela)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Apple (Seb)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Papaya (Papita)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Guava (Amrood)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Pomegranate (Anar)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Watermelon (Tarbooj)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Orange (Santra)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Sweet Lime (Mosambi)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Grapes (Angoor)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Pineapple (Ananas)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Coconut (Nariyal)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Custard Apple (Sitaphal)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Chiku",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Muskmelon (Kharbuja)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Amla (Gooseberry)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Jamun (Black Plum)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Jackfruit (Kathal)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Litchi (Lychee)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Strawberry",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Lemon (Nimbu)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Tamarind (Imli)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Ber (Jujube)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Fig (Anjeer)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Dates (Khajoor)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Plum (Aloo Bukhara)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Peach (Aadoo)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Pear (Nashpati)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Mulberry (Shahtoot)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Dragon Fruit",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Kiwi",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Avocado",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Bael (Wood Apple)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Elephant Apple (Chalta)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Star Fruit",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Singhara (Water Chestnut)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Cherry",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Blueberry",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Apricot (Khubani)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "fruits",
+    "word": "Bilimbi",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Aaloo (Potato)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Pyaaz (Onion)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Tamatar (Tomato)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Gobi (Cauliflower)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Patta Gobi (Cabbage)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Bhindi (Okra)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Baingan (Brinjal)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Palak (Spinach)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Matar (Peas)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Karela (Bitter Gourd)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Lauki (Bottle Gourd)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Methi (Fenugreek)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Dhaniya (Coriander)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Pudina (Mint)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Lahsun (Garlic)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Adrak (Ginger)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Hari Mirch (Chilli)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Gajar (Carrot)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Mooli (Radish)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Chukandar (Beetroot)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Shimla Mirch (Capsicum)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Kheera (Cucumber)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Turai (Ridge Gourd)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Snake Gourd (Padwal)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Kaddu (Pumpkin)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Kundru (Tindora)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Parwal",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Ash Gourd (Petha)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Sahjan (Drumstick)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Kaccha Kela (Raw Banana)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Arbi (Colocasia)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Shakarkand (Sweet Potato)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Jimikand (Yam)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Gawar Phali (Beans)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "French Beans",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Mushroom",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Turnip (Shalgam)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Kadi Patta (Curry Leaves)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Sarson (Mustard Leaves)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vegetables",
+    "word": "Kaccha Aam (Raw Mango)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Pressure Cooker",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Ceiling Fan",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Mixer Grinder",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Gas Stove",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Water Filter",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Fridge",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Washing Machine",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Television (TV)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "AC (Air Conditioner)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Microwave",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Iron",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Jhadu (Broom)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Mop",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Roti Tawa",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Chakla Belan",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Thali (Plate)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Kadhai",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Thermos Flask",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Chai Strainer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Mortar Pestle",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Mattress",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Pillow",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Blanket",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Curtains",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Almirah (Wardrobe)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Dressing Table",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Dining Table",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Sofa",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Geyser",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Bucket and Mug",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Drying Stand",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Lock and Key",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Door Mat",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Wall Clock",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Shoe Rack",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Mosquito Racket",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Torch",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "First Aid Box",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Umbrella",
+    "hasDirectMap": true
+  },
+  {
+    "category": "household",
+    "word": "Dustbin",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Peacock",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Kingfisher",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Parrot",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Pigeon",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Crow",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Sparrow",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Owl (Ullu)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Hornbill",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Flamingo",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Duck",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Swan (Hans)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Eagle",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Vulture",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Koel (Koyal)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Myna",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Roller (Neelkanth)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Bulbul",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Drongo",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Woodpecker",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Tailorbird",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Weaver Bird",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Sunbird",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Heron",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Egret",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Stork",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Pelican",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Cormorant",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Lapwing",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Kite (Cheel)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Ostrich",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Penguin",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Hummingbird",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Toucan",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Cockatoo",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Hen / Rooster",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Dove",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Francolin (Teetar)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Quail (Bater)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Coucal",
+    "hasDirectMap": true
+  },
+  {
+    "category": "birds",
+    "word": "Seagull",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Mosquito",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Honeybee",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Butterfly",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Cockroach",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Housefly",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Ant",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Red Ant",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Firefly (Jugnu)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Dragonfly",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Grasshopper",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Locust (Tiddi)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Moth",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Ladybug",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Termite (Deemak)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Cricket (Jhingur)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Spider",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Scorpion",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Wasp (Tatayya)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Bedbug (Khatmal)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Head Louse (Joo)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Praying Mantis",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Stick Insect",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Centipede",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Millipede",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Dung Beetle",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Silkworm",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Cicada",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Earwig",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Silverfish",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Flea",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Tick",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Stink Bug",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Water Strider",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Fruit Fly",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Antlion",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Glowworm",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Aphid",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Mealybug",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Beetle",
+    "hasDirectMap": true
+  },
+  {
+    "category": "insects",
+    "word": "Leech (Jok)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "India",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "United States",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "United Kingdom",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Japan",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Australia",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Canada",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "United Arab Emirates",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "France",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Germany",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Italy",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Russia",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "China",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Brazil",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Nepal",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Sri Lanka",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Singapore",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Thailand",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "South Africa",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "New Zealand",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Egypt",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Saudi Arabia",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Switzerland",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Spain",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Argentina",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "South Korea",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Bhutan",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Bangladesh",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Maldives",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Mauritius",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Indonesia",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Malaysia",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Turkey",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Greece",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Mexico",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Kenya",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Portugal",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Netherlands",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Norway",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Qatar",
+    "hasDirectMap": true
+  },
+  {
+    "category": "countries",
+    "word": "Oman",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Mumbai",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Delhi",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Bengaluru",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Hyderabad",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Kolkata",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Chennai",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Jaipur",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Goa",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Varanasi",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Agra",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Pune",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Ahmedabad",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Srinagar",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Shimla",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Chandigarh",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Amritsar",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Udaipur",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Lucknow",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Bhopal",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Indore",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Kochi",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Surat",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Patna",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Guwahati",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Nagpur",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Vizag",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Mysore",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Madurai",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Pondicherry",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Darjeeling",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Manali",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Rishikesh",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Haridwar",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Dubai",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "London",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "New York",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Tokyo",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Paris",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Singapore",
+    "hasDirectMap": true
+  },
+  {
+    "category": "cities",
+    "word": "Bangkok",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Cricket",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Football",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Badminton",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Kabaddi",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Hockey",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Chess",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Carrom",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Table Tennis",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Tennis",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Basketball",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Volleyball",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Wrestling (Kushti)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Boxing",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Running (Sprint)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Javelin Throw",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Kho Kho",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Gilli Danda",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Kite Flying",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Archery",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Shooting",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Swimming",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Gymnastics",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Weightlifting",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Golf",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Snooker / Billiards",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Formula 1",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Cycling",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Boat Racing",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Rugby",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Baseball",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Karate",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Polo",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Surfing",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Skateboarding",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Skiing",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Rock Climbing",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Squash",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Seven Stones (Lagori)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Mallakhamb",
+    "hasDirectMap": true
+  },
+  {
+    "category": "sports",
+    "word": "Tug of War",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Biryani",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Samosa",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Butter Chicken",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Masala Dosa",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Pani Puri",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Vada Pav",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Chole Bhature",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Pav Bhaji",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Gulab Jamun",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Jalebi",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Dal Makhani",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Rasgulla",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Palak Paneer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Idli Sambar",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Tandoori Chicken",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Kaju Katli",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Rajma Chawal",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Dhokla",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Bhelpuri",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Aloo Paratha",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Kheer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Rogan Josh",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Malai Kofta",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Medu Vada",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Lassi",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Fish Curry",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Poha",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Misal Pav",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Pakora",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Halwa",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Noodles",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Manchurian",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Momos",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Shawarma",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Pizza",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Burger",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "French Fries",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Ice Cream",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Kulfi",
+    "hasDirectMap": true
+  },
+  {
+    "category": "food",
+    "word": "Chai (Tea)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Software Engineer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Doctor",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Teacher",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Police",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Chef",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Pilot",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Lawyer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Auto Driver",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Cricketer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Soldier",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Farmer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "CA (Accountant)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Actor / Actress",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Nurse",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Dentist",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Architect",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Civil Engineer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Reporter",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Photographer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Electrician",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Plumber",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Carpenter",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Tailor",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Barber",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Security Guard",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Delivery Boy",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Astronaut",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Scientist",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Singer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Bus Driver",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Firefighter",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Judge",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Banker",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Politician",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Fashion Designer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Air Hostess",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Street Vendor",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Graphic Designer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Chaiwala",
+    "hasDirectMap": true
+  },
+  {
+    "category": "professions",
+    "word": "Mechanic",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Auto Rickshaw",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Local Train",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Metro",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Bike (Motorcycle)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Scooty (Scooter)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Cycle (Bicycle)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Vande Bharat Train",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Airplane",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Helicopter",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Tractor",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Bus",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Sleeper Bus",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Ambulance",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Fire Truck",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Police Car",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Truck (Lorry)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Sedan Car",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "SUV (Thar / Creta)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Small Car (Swift)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Electric Car",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Cycle Rickshaw",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Houseboat",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Speedboat",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Ferry Boat",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Cruise Ship",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Submarine",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Cargo Ship",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Fishing Boat",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Hot Air Balloon",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Rocket",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Bullock Cart",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Horse Carriage (Tonga)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Camel Cart",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Snowmobile",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Hovercraft",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Cable Car (Ropeway)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Golf Cart",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Concrete Mixer Truck",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "JCB Bulldozer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "vehicles",
+    "word": "Garbage Van",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Sholay",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "DDLJ",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "3 Idiots",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Baahubali",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "RRR",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "KGF",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Dangal",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Lagaan",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Kabhi Khushi Kabhie Gham (K3G)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Kuch Kuch Hota Hai",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "ZNMD (Road Trip)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Yeh Jawaani Hai Deewani (YJHD)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Chak De! India",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Taare Zameen Par",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Munna Bhai MBBS",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Hera Pheri",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Kantara",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Pushpa",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Jawan",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Pathaan",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Stree",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Titanic",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Avatar",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Avengers: Endgame",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Spider-Man",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Inception",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Interstellar",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "The Dark Knight (Batman)",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Harry Potter",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Jurassic Park",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "The Lion King",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Oppenheimer",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Gangs of Wasseypur",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Andhadhun",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Drishyam",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Tumbbad",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Gully Boy",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Queen",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Barfi!",
+    "hasDirectMap": true
+  },
+  {
+    "category": "movies",
+    "word": "Swades",
+    "hasDirectMap": true
+  }
+]
